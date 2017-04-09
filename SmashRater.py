@@ -1,6 +1,7 @@
 import pickle
 import glicko2
 import re
+import operator
 
 class Match:
 	def __init__(self, player1name, player1score, player2name, player2score):
@@ -72,6 +73,29 @@ def initPlayerDataWrite(pathToMatches, pathToPlayers):
 	output.close()
 	
 	return players
+
+# Purpose: Prints top N players in desc order by rating.
+# In:      N - number of players to print
+def printTopN(N, players):
+	
+	if N > len(players):
+		N = len(players)
+	if N < 0:
+		N = 1
+	
+	namePlayerTuples = players.items()
+	namePlayerTuples.sort(key = lambda x : x[1].getRating(), reverse = True)
+
+	for name, player in namePlayerTuples:
+		printPlayer(name, player)
+
+# Purpose: Prints in a cleaner way the name, rating, and deviation of a player
+# In:      playerName - name of the player to print
+#		   playerObj - the glicko2.Player() object to print rating and rd from
+def printPlayer(playerName, playerObj):
+	print "Player:\t" + playerName
+	print playerObj
+	print '\n'
 		
 def main():
 	pathToMatches = "data/matches.txt"
@@ -80,10 +104,8 @@ def main():
 	players = initPlayerDataWrite(pathToMatches, pathToPlayers)
 	
 	#players = loadObj(pathToPlayerData)
-	for playerName in players:
-		print "Player:\t" + playerName
-		print players[playerName]
-		print '\n'
+
+	printTopN(10, players)
 	
 	
 if __name__ == "__main__":
