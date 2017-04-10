@@ -2,6 +2,12 @@ import pickle
 import glicko2
 import re
 import operator
+import Queue
+import urllib2
+import urlparse
+import socket
+from sets import Set
+from bs4 import BeautifulSoup as bs
 
 class Match:
 	def __init__(self, player1name, player1score, player2name, player2score):
@@ -97,7 +103,54 @@ def printPlayer(playerName, playerObj):
 	print playerObj
 	print '\n'
 		
+# Returns a list of all brackets under MichiganSmash.challonge.com domain
+def compileMatches():
+	seed_link = "http://michigansmash.challonge.com/"
+
+	unvisited = Queue.Queue()
+	visited = set([])
+
+	unvisited.put(seed_link)
+
+	tournaments = []
+	while not unvisited.empty():
+		url = unvisited.get()
+		try:
+			req = urllib2.Request(url, headers={'User-Agent' : "Magic Browser"}) 
+			page = urllib2.urlopen(req, timeout=3.05)
+		except urllib2.HTTPError, err: 
+			continue
+		except urllib2.URLError, err:
+			continue
+		except socket.error as err:
+			continue
+		except Exception as err:
+			continue
+
+		visited.add(url)
+
+		#print page.read()
+		soup = bs(page.read(), 'html.parser')
+
+		
+		for link in soup.find_all('a', href=True):
+			l = urlparse.urlparse(link.get('href'))
+
+			# Put all challonge pages to be visited in unvisited
+			if "/?page=" in l.geturl():
+				other_page = "http://michigansmash.challonge.com" + l.geturl()
+				if other_page not in unvisited.queue and other_page not in visited:
+					unvisited.put("http://michigansmash.challonge.com" + l.geturl())
+
+			# Put all tournaments into a list
+			if "http://michigansmash.challonge.com" in l.geturl() and "/module/instructions" not in l.geturl():
+				tournaments.append(l.geturl()) 
+
+	return tournaments
+
 def main():
+	brackets = compileMatches()
+	"""
 	pathToMatches = "data/matches.txt"
 	pathToPlayers = "data/players.pkl"
 	# Initial data construction
@@ -106,6 +159,7 @@ def main():
 	#players = loadObj(pathToPlayerData)
 
 	printTopN(10, players)
+	"""
 	
 	
 if __name__ == "__main__":
