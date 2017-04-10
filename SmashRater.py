@@ -104,7 +104,7 @@ def printPlayer(playerName, playerObj):
 	print '\n'
 		
 # Returns a list of all brackets under MichiganSmash.challonge.com domain
-def compileMatches():
+def compileChallongeBrackets():
 	seed_link = "http://michigansmash.challonge.com/"
 
 	unvisited = Queue.Queue()
@@ -148,8 +148,43 @@ def compileMatches():
 
 	return tournaments
 
+def compileSmashGGBrackets():
+	seed_link = "https://smash.gg/tournaments?per_page=100&filter=%7B%22upcoming%22%3Afalse%2C%22countryCode%22%3A%22US%22%2C%22addrState%22%3A%22MI%22%2C%22past%22%3Atrue%7D&page=1"
+	unvisited = Queue.Queue()
+	visited = set([])
+
+	unvisited.put(seed_link)
+
+	tournaments = []
+	while not unvisited.empty():
+		url = unvisited.get()
+		try:
+			req = urllib2.Request(url, headers={'User-Agent' : "Magic Browser"}) 
+			page = urllib2.urlopen(req, timeout=3.05)
+		except urllib2.HTTPError, err: 
+			continue
+		except urllib2.URLError, err:
+			continue
+		except socket.error as err:
+			continue
+		except Exception as err:
+			continue
+
+		visited.add(url)
+
+		#print page.read()
+		soup = bs(page.read(), 'html.parser')
+
+		
+		for link in soup.find_all('a', href=True):
+			l = urlparse.urlparse(link.get('href'))
+			print l.geturl()
+			
+
 def main():
-	brackets = compileMatches()
+	challonge_brackets = compileChallongeBrackets()
+	#smashgg_brackets = compileSmashGGBrackets()
+	compileSmashGGBrackets()
 	"""
 	pathToMatches = "data/matches.txt"
 	pathToPlayers = "data/players.pkl"
