@@ -139,6 +139,10 @@ class RaterSetup:
 				player1name = IdToPlayerName[jsonMatch["player1_id"]].lower()
 				player2name = IdToPlayerName[jsonMatch["player2_id"]].lower()
 				
+				# This bar indicates two players played as teammates, so skip
+				if "|" in player1name or "|" in player2name:
+					continue
+				
 				newMatch = Match(player1name, player1score, player2name, player2score)
 				self.matches.append(newMatch)
 		
@@ -227,8 +231,8 @@ def main():
 	players = {}
 	
 	# Uncomment to construct all files from scratch and comment out the loadObj line
-	#players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
-	players = loadObj(pathToPlayers)
+	players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
+	#players = loadObj(pathToPlayers)
 
 	printTopN(100, players)
 	
