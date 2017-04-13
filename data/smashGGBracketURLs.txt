@@ -1,0 +1,1 @@
+https://smash.gg/tournaments?per_page=100&filter=%7B%22upcoming%22%3Afalse%2C%22countryCode%22%3A%22US%22%2C%22addrState%22%3A%22MI%22%2C%22past%22%3Atrue%7D&page=1
