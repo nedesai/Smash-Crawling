@@ -1,3 +1,4 @@
+import json
 import pickle
 import glicko2
 import re
@@ -8,6 +9,8 @@ import urlparse
 import socket
 from sets import Set
 from bs4 import BeautifulSoup as bs
+from challonge import participants, matches, tournaments
+import requests
 
 class Match:
 	def __init__(self, player1name, player1score, player2name, player2score):
@@ -148,16 +151,18 @@ def compileChallongeBrackets():
 
 	return tournaments
 
-# Modifies "data/matches.txt" to include smash.gg matches
 def compileSmashGGBrackets():
-	smash_gg_brackets = []
-	f = open("smashggbrackets.txt", "r")
-	for tournament_link in f:
-		smash_gg_brackets.append(tournament_link)
+	seed_link = "https://smash.gg/tournaments?per_page=100&filter=%7B%22upcoming%22%3Afalse%2C%22countryCode%22%3A%22US%22%2C%22addrState%22%3A%22MI%22%2C%22past%22%3Atrue%7D&page=1"
+	unvisited = Queue.Queue()
+	visited = set([])
 
-	for bracket in smash_gg_brackets:
+	unvisited.put(seed_link)
+
+	tournaments = []
+	while not unvisited.empty():
+		url = unvisited.get()
 		try:
-			req = urllib2.Request(bracket, headers={'User-Agent' : "Magic Browser"}) 
+			req = urllib2.Request(url, headers={'User-Agent' : "Magic Browser"}) 
 			page = urllib2.urlopen(req, timeout=3.05)
 		except urllib2.HTTPError, err: 
 			continue
@@ -168,39 +173,119 @@ def compileSmashGGBrackets():
 		except Exception as err:
 			continue
 
+		visited.add(url)
+
 		#print page.read()
 		soup = bs(page.read(), 'html.parser')
 
-		# Must treat RR pools for Arcadian differently than bracket/bracket pools
-		if "arcadian" not in bracket:
-			for bracket_info in soup.find_all('div', { "class" : "bracket-section container" }):
-				rounds = bracket_info.findChildren()
-				for round in rounds:
-					set_info = round.findChildren()
-					for info in set_info:
-						players = info.find_all("div", {"class": "match-player entrant winner missing"})
-						print players.find_all(text=true)
-
-
-
-
-		break
+		
+		for link in soup.find_all('a', href=True):
+			l = urlparse.urlparse(link.get('href'))
+			print l.geturl()
 			
 
+def compileChallongePlayers(challongeTournamentURLs):
+	
+	APIkey = "2tyMsGrcQanAq3EQeMytrsGrdMMFutDDz0BxNAAh"
+	
+	matchResultsAllPlayers = []
+	
+	for URL in challongeTournamentURLs:
+		
+		# A tournament participant is object w/ player id for this tournament
+		tournamentParticipants = requests.get("https://Amirzy:" + APIkey + "@api.challonge.com/v1/tournaments/" + URL + "/participants.json").json()
+
+		if len(tournamentParticipants) < 35:
+			continue
+			
+		IdToPlayerName = {}
+			
+		for p in tournamentParticipants:
+			playerName = p["participant"]["display_name"]
+			playerName = playerName.replace(' ' , '')
+			playerName = playerName.replace('\t', '')
+			print playerName
+			IdToPlayerName[p["participant"]["id"]] = playerName
+			
+		# Matches sorted 0 to N
+		matchInfo = requests.get("https://Amirzy:" + APIkey + "@api.challonge.com/v1/tournaments/" + URL + "/matches.json").json() 
+
+		#pureMatchInfo = []
+
+		#for m in matchInfo:
+		#	pureMatchInfo.append(m["match"])
+			
+		#pureMatchInfo.sort(key=lambda x: x["round"])
+		
+		for i in range(0, len(matchInfo)):
+			match = matchInfo[i]
+			#print match
+			#print len(match["match"]["scores_csv"])
+			if (len(match["match"]["scores_csv"]) == 3):
+				scoreStr = match["match"]["scores_csv"]
+				print scoreStr
+				player1name = IdToPlayerName[match["match"]["player1_id"]]
+				player1score = scoreStr[0]
+				player2name = IdToPlayerName[match["match"]["player2_id"]]
+				player2score = scoreStr[2]
+				print player1name
+				print player1score
+				print player2name
+				print player2score
+			
+				matchResultsAllPlayers.append(Match(player1name, player1score, player2name, player2score))
+		
+#		for m in pureMatchInfo:
+#			print i
+#			i+=1
+#			scoreStr = m["scores_csv"]
+#			player1name = IdToPlayerName[m["player1_id"]]
+#			player1score = scoreStr[0]
+#			player2name = IdToPlayerName[m["player2_id"]]
+#			player2score = scoreStr[2]
+#			
+#			matchResultsAllPlayers.append(Match(player1name, player1score, player2name, player2score))
+		
+	return matchResultsAllPlayers
+		
+def writeMatches(matches, pathToMatches):
+	f = open(pathToMatches, "w")
+	#print matches
+	for match in matches:
+	#	print match
+		print match.player1name
+		print match.player1score
+		print match.player2name
+		print match.player2score
+		f.write(match.player1name + " " + match.player1score + " " + match.player2name + " " + match.player2score + "\n")
+	f.close()
+
 def main():
-	#challonge_brackets = compileChallongeBrackets()
-	#smashgg_brackets = compileSmashGGBrackets()
-	compileSmashGGBrackets()
-	"""
+	challonge_brackets = compileChallongeBrackets()
+#	#smashgg_brackets = compileSmashGGBrackets()
+#	compileSmashGGBrackets()
+	
 	pathToMatches = "data/matches.txt"
 	pathToPlayers = "data/players.pkl"
+	
+	# Make a list of challonge tournament URLs
+	tournamentURLs = []
+	with open("data/bracketURLs.txt", "r") as f:
+		for line in f:
+			name = line[35:].rstrip()
+			tournamentURLs.append("michigansmash-" + name)
+			
+	# List of Match objects for challonge matches in chronological order
+	matches = compileChallongePlayers(tournamentURLs)
+	writeMatches(matches, pathToMatches)
+
 	# Initial data construction
 	players = initPlayerDataWrite(pathToMatches, pathToPlayers)
 	
 	#players = loadObj(pathToPlayerData)
 
 	printTopN(10, players)
-	"""
+	
 	
 	
 if __name__ == "__main__":
