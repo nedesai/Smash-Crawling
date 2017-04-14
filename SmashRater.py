@@ -106,6 +106,7 @@ class RaterSetup:
 				playerName = p["participant"]["display_name"]
 				playerName = playerName.replace(" ", "")
 				playerName = playerName.replace("\t", "")
+				playerName = playerName.replace("(unpaid)", "")
 				#print playerName
 				
 				# Add to map
@@ -231,6 +232,7 @@ def main():
 	players = {}
 	
 	# Uncomment to construct all files from scratch and comment out the loadObj line
+	players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
 	players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
 	#players = loadObj(pathToPlayers)
 
