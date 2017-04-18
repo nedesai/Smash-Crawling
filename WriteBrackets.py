@@ -16,6 +16,8 @@ def writeChallongeBracketURLs():
 	unvisited.put(seed_link)
 
 	tournaments = []
+
+	# Visit all nodes to be visited
 	while not unvisited.empty():
 		url = unvisited.get()
 		try:
@@ -31,11 +33,8 @@ def writeChallongeBracketURLs():
 			continue
 
 		visited.add(url)
-
-		#print page.read()
 		soup = bs(page.read(), 'html.parser')
 
-		
 		for link in soup.find_all('a', href=True):
 			l = urlparse.urlparse(link.get('href'))
 
@@ -79,14 +78,10 @@ def writeSmashGGBracketURLs():
 			continue
 
 		visited.add(url)
-
-		#print page.read()
 		soup = bs(page.read(), 'html.parser')
-
 		
 		for link in soup.find_all('a', href=True):
 			l = urlparse.urlparse(link.get('href'))
-			#print l.geturl()
 			
 	f = open("smashggbrackets.txt", "r")
 	o = open("data/smashGGBracketURLs.txt", "w")

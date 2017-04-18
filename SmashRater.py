@@ -167,33 +167,38 @@ class RaterSetup:
 	#		   (oldest to youngest)
 	def __setSmashGGMatches(self, tournament_URLs):
 		for url in tournament_URLs:
-			# pools matches
+			# For pools matches
 			if "filter" not in url:
 				phase_group_id = url.split("brackets/")[1].split("/")[1]
-			# final phase matches e.g. top 32
+			# For final phase matches e.g. top 32
 			else:
 				tournament_name = url.split("https://smash.gg/tournament/")[1].split("/events")[0]
 				phase_group_url = "https://api.smash.gg/tournament/" + tournament_name + "?expand[]=phase&expand[]=groups"
 
+				# API call to smashGG requesting all phase and groups associated with tournament_name
 				r = requests.get(phase_group_url)
 
-				# url supplies phase_id only; use this to find phase_group_id
+				# URL supplies phase_id only; use this to find phase_group_id
 				target_phase_id = url.split("phaseId%22%3A")[1].split("%7D")[0]
 
 				# Obtain phase_group_id by parsing through returned json object
 				for item in r.json()["entities"]["groups"]:
+					# Find phase_group_id associated with this phase_id
 					if str(item["phaseId"]) == target_phase_id:
 						phase_group_id = item['id']
 
+			# API call to smashGG requesting all sets and seeds associated with this phase_group_id
 			api_url = "https://api.smash.gg/phase_group/" + str(phase_group_id) + "?expand[]=sets&expand[]=seeds"
 			r = requests.get(api_url).json()
 			seeds = r["entities"]["seeds"]
 
-
+			# For each set in this phase_group
 			for match_set in r["entities"]["sets"]:
 				setID = match_set['id']
 				url = "https://api.smash.gg/set/" + str(setID) + "?expand[]=setTask"
 				r_set = requests.get(url, verify=False).json()
+
+				# Make note of player IDs for this set
 				entrant1Id = r_set['entities']['sets']['entrant1Id']
 				entrant2Id = r_set['entities']['sets']['entrant2Id']
 				winner_id = r_set['entities']['sets']['winnerId']
@@ -221,8 +226,9 @@ class RaterSetup:
 							loser_tag = i['mutations']['players'][random_number]['gamerTag']
 						break
 
-				# Sometimes, "none" tags appear
-				if winner_tag and loser_tag:					
+				# Disregard "None" tags
+				if winner_tag and loser_tag:
+					# Append new match to structure					
 					newMatch = Match(winner_tag.encode('utf-8'), winner_set_count, loser_tag.encode('utf-8'), loser_set_count)
 					self.matches.append(newMatch)
 		
