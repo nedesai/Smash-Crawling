@@ -1615,7 +1615,7 @@ ceephax 2 ultrabob 0
 vaatu 2 tequila 0
 wrenches 2 trialcolt 0
 iron 2 lidds 0
-danko(unpaid) 2 lmn 0
+danko 2 lmn 0
 fukn6thonuofmprm8 1 rapatap 2
 mars 0 m.a.c 2
 oven 2 bigbrother 0
@@ -1633,7 +1633,7 @@ mingee 2 aiya 1
 duo 0 ceephax 2
 beach 2 vaatu 0
 wrenches 2 iron 1
-ginger 2 danko(unpaid) 0
+ginger 2 danko 0
 rapatap 2 m.a.c 1
 heartstrings 2 oven 0
 hunt 2 vessel(trip) 0
@@ -1668,7 +1668,7 @@ lw13 0 train 2
 vessel(trip) 2 jm 0
 oven 2 ultrabob 1
 m.a.c 0 tequila 2
-danko(unpaid) 2 trialcolt 0
+danko 2 trialcolt 0
 iron 2 lmn 0
 vaatu 0 mars 2
 duo 2 bigbrother 1
@@ -1680,7 +1680,7 @@ coin 2 yungbitch 0
 goonsquad 2 dannyboy 0
 lange 2 train 0
 vessel(trip) 0 oven 2
-tequila 1 danko(unpaid) 2
+tequila 1 danko 2
 iron 2 mars 1
 duo 2 aiya 0
 wok 2 rich 0
@@ -1688,7 +1688,7 @@ walrus 0 coin 2
 wrenches 2 goonsquad 0
 ceephax 2 lange 0
 parzival 2 oven 1
-joka 2 danko(unpaid) 0
+joka 2 danko 0
 999 2 iron 0
 techboy 2 duo 0
 hunt 2 wok 1
@@ -1868,7 +1868,7 @@ karils 2 bigjoe 1
 apples 2 door 0
 ham 2 lw13 1
 turnup_xd 1 mufasa 2
-fatz(unpaid) 0 fija 2
+fatz 0 fija 2
 tequila 2 ladies 0
 rich 2 bigbrother 0
 d_lidz 2 thenoon 0
@@ -1890,7 +1890,7 @@ heartstrings 2 tequila 0
 wrenches 1 rich 2
 yoyo 2 d_lidz 0
 oven 2 vaatu 0
-beach(unpaid) 2 train 0
+beach 2 train 0
 liam_butler 2 stevethegod 0
 quang 2 qbaby 0
 lordy 0 love 2
@@ -1901,7 +1901,7 @@ russell 2 dynamic 0
 pbmk:thefinallap 2 joka 0
 heartstrings 2 rich 0
 yoyo 2 oven 0
-beach(unpaid) 1 liam_butler 2
+beach 1 liam_butler 2
 quang 2 love 0
 hunt 2 charlie 0
 kjh 2 russell 0
@@ -1918,7 +1918,7 @@ badhorse 0 bigjoe 2
 lordy 2 door 0
 qbaby 2 lw13 0
 stevethegod 2 turnup_xd 1
-train 0 fatz(unpaid) 2
+train 0 fatz 2
 vaatu 2 ladies 0
 d_lidz 2 bigbrother 0
 wrenches 2 thenoon 0
@@ -1931,7 +1931,7 @@ karils 2 aceidiot 0
 turkishdeli 2 hikaritenchi 0
 iron 2 bigjoe 0
 lordy 2 qbaby 1
-stevethegod 1 fatz(unpaid) 2
+stevethegod 1 fatz 2
 vaatu 2 d_lidz 0
 wrenches 2 tequila 1
 carnage 2 mufasa 0
@@ -1939,20 +1939,20 @@ ham 0 apples 2
 karils 2 turkishdeli 0
 rich 0 iron 2
 joka 2 lordy 0
-dynamic 2 fatz(unpaid) 0
+dynamic 2 fatz 0
 sasha 2 vaatu 1
 charlie 0 wrenches 2
 love 2 carnage 0
-beach(unpaid) 2 apples 1
+beach 2 apples 1
 oven 2 karils 1
 iron 1 joka 2
 dynamic 2 sasha 0
 wrenches 2 love 1
-beach(unpaid) 2 oven 1
+beach 2 oven 1
 liam_butler 2 joka 0
 hunt 0 dynamic 2
 russell 2 wrenches 0
-heartstrings 2 beach(unpaid) 1
+heartstrings 2 beach 1
 liam_butler 2 dynamic 1
 russell 0 heartstrings 2
 pbmk:thefinallap 2 liam_butler 0
@@ -2060,7 +2060,7 @@ sluggo 2 braz 0
 math 2 make-outkingofmontana 0
 thebronskneecap 1 copcrusher 2
 idcrisis 2 redwing 0
-egg(unpaid) 2 jepr 0
+egg 2 jepr 0
 techboy 2 badhorse 0
 s2jhappybirthday 2 mak 0
 vaatu 2 karils 0
@@ -2071,14 +2071,14 @@ lainunpaid 2 lmn 0
 joka 2 bigbrother 0
 kjh 2 datnero 0
 papyrus 2 dynamic 1
-beach(unpaid) 2 duo 0
+beach 2 duo 0
 mtaaank 2 kuralesache 1
 mr.funpaid 2 mars 0
 heartstrings 2 goonsquad 0
 mayormilfordmemeswell 2 charlie 0
 sluggo 0 math 2
 ginger 2 copcrusher 0
-idcrisis 2 egg(unpaid) 1
+idcrisis 2 egg 1
 mingee 2 techboy 0
 napkin 2 s2jhappybirthday 0
 yoyo 2 vaatu 0
@@ -2086,7 +2086,7 @@ sheep 2 treetz 0
 tran 2 jakpox 0
 lainunpaid 2 joka 1
 kjh 2 papyrus 0
-beach(unpaid) 0 mtaaank 2
+beach 0 mtaaank 2
 mr.funpaid 1 heartstrings 2
 mayormilfordmemeswell 2 math 0
 ginger 2 idcrisis 0
@@ -2112,7 +2112,7 @@ treetz 2 john 0
 vaatu 2 turkishdelight 0
 s2jhappybirthday 2 b17 1
 techboy 0 fija 2
-egg(unpaid) 2 rich 0
+egg 2 rich 0
 copcrusher 1 braz 2
 sluggo 2 thebronskneecap 0
 charlie 1 redwing 2
@@ -2125,15 +2125,15 @@ datnero 2 lmn 0
 joka 2 jakpox 0
 treetz 2 vaatu 0
 s2jhappybirthday 2 fija 0
-egg(unpaid) 2 braz 1
+egg 2 braz 1
 sluggo 2 redwing 0
 goonsquad 2 mars 0
 kuralesache 2 duo 0
 dynamic 2 datnero 0
 math 1 joka 2
 mr.funpaid 2 treetz 0
-beach(unpaid) 1 s2jhappybirthday 2
-papyrus 2 egg(unpaid) 0
+beach 1 s2jhappybirthday 2
+papyrus 2 egg 0
 lainunpaid 2 sluggo 1
 sheep 2 goonsquad 0
 mingee 2 kuralesache 0
@@ -2157,7 +2157,7 @@ turkishdelight 2 beckett 0
 duo 2 noro 1
 liam_butler 2 cagnar 0
 h2 2 yung 0
-s2j(unpaid) 2 clickclack 0
+s2j 2 clickclack 0
 ham 2 train 0
 dynamic 2 jasper 0
 thebronskneecap 2 caboose 0
@@ -2173,16 +2173,16 @@ techboy 2 rich 0
 kjh 2 turkishdelight 0
 duo 0 liam_butler 2
 1der 2 h2 0
-crip 2 s2j(unpaid) 0
+crip 2 s2j 0
 tm 2 ham 0
 roki 2 dynamic 0
 quang 2 thebronskneecap 1
 sheep 1 joka 2
-drephen(unpaid) 2 spooky 0
+drephen 2 spooky 0
 yoyo 0 liamhasstrongfundamentals 2
 trick 2 kissy 0
 lain 2 karils 0
-anther(unpaid) 2 yogibackair 0
+anther 2 yogibackair 0
 concussedbeach 2 math 1
 heartstrings 2 mars 0
 hellsing 2 techboy 0
@@ -2190,17 +2190,17 @@ kjh 2 liam_butler 0
 1der 0 crip 2
 tm 2 roki 0
 quang 2 joka 0
-drephen(unpaid) 2 liamhasstrongfundamentals 0
+drephen 2 liamhasstrongfundamentals 0
 trick 2 lain 0
-anther(unpaid) 2 concussedbeach 0
+anther 2 concussedbeach 0
 heartstrings 1 hellsing 0
 kjh 2 crip 0
 tm 1 quang 2
-drephen(unpaid) 2 trick 0
-anther(unpaid) 2 heartstrings 0
+drephen 2 trick 0
+anther 2 heartstrings 0
 kjh 2 quang 0
-drephen(unpaid) 2 anther(unpaid) 0
-kjh 3 drephen(unpaid) 0
+drephen 2 anther 0
+kjh 3 drephen 0
 noro 2 cagnar 0
 techboy 2 beckett 0
 mars 2 noro 0
@@ -2214,7 +2214,7 @@ sheep 2 satou 0
 thebronskneecap 2 trip 0
 dynamic 2 s7evyn 0
 ham 0 agouti 2
-s2j(unpaid) 2 copcrusher 0
+s2j 2 copcrusher 0
 h2 2 maria'sknight 0
 duo 2 fan 0
 turkishdelight 1 rich 2
@@ -2224,14 +2224,14 @@ karils 1 kissy 2
 yoyo 2 spooky 0
 sheep 2 thebronskneecap 0
 dynamic 2 agouti 0
-s2j(unpaid) 2 h2 0
+s2j 2 h2 0
 duo 3 rich 0
 joka 1 techboy 2
 roki 2 yogibackair 0
 1der 2 kissy 1
 liam_butler 2 yoyo 1
 concussedbeach 1 dynamic 2
-lain 2 s2j(unpaid) 1
+lain 2 s2j 1
 liamhasstrongfundamentals 2 duo 1
 techboy 2 roki 0
 1der 0 liam_butler 2
@@ -2244,10 +2244,10 @@ tm 1 lain 2
 trick 2 liam_butler 0
 crip 2 lain 1
 quang 2 trick 0
-anther(unpaid) 1 crip 2
+anther 1 crip 2
 trick 2 crip 0
-drephen(unpaid) 3 trick 0
-kjh 3 drephen(unpaid) 0
+drephen 3 trick 0
+kjh 3 drephen 0
 copcrusher 2 soup 0
 vaatu 2 kp 0
 apples 2 absynthe 0
@@ -2262,11 +2262,11 @@ egg 2 wok 0
 sheep 2 copcrusher 0
 beach 2 vaatu 0
 tm 2 apples 0
-math(unpaid) 2 b17 0
+math 2 b17 0
 heartstrings 2 turnup_xd 0
 papyrus 2 duo 0
-drephen(unpaid) 2 deepdimples 0
-joka 2 mars(unpaid) 0
+drephen 2 deepdimples 0
+joka 2 mars 0
 mingee 2 charlie 0
 dynamic 2 kissy 0
 yoyo 2 badhorse 0
@@ -2275,24 +2275,24 @@ trick 2 ceephax 0
 liam_butler 2 peelee 1
 kjh 2 egg 0
 sheep 2 beach 0
-tm 2 math(unpaid) 1
+tm 2 math 1
 heartstrings 2 papyrus 0
-drephen(unpaid) 2 joka 0
+drephen 2 joka 0
 mingee 2 dynamic 1
 yoyo 2 hunt 0
 trick 2 liam_butler 1
 kjh 2 sheep 0
 tm 2 heartstrings 1
-drephen(unpaid) 2 mingee 0
+drephen 2 mingee 0
 yoyo 1 trick 2
 kjh 3 tm 0
-drephen(unpaid) 3 trick 1
-kjh 3 drephen(unpaid) 0
+drephen 3 trick 1
+kjh 3 drephen 0
 peelee 2 ham 0
 karils 2 soup 0
 badhorse 1 kp 2
 kissy 2 absynthe 0
-mars(unpaid) 2 fan 0
+mars 2 fan 0
 duo 2 d_lidz 0
 b17 0 albert 2
 apples 2 scoops 0
@@ -2301,20 +2301,20 @@ wok 1 turkishdelight 2
 ceephax 0 peelee 2
 karils 2 kp 0
 charlie 2 kissy 1
-deepdimples 1 mars(unpaid) 2
+deepdimples 1 mars 2
 turnup_xd 0 duo 2
 albert 0 apples 2
 copcrusher 0 vaatu 2
 turkishdelight 2 blueranger 0
 papyrus 2 peelee 0
-math(unpaid) 2 karils 0
+math 2 karils 0
 beach 2 charlie 0
-egg 2 mars(unpaid) 0
+egg 2 mars 0
 liam_butler 2 duo 0
 hunt 2 apples 0
 dynamic 2 vaatu 0
 joka 2 turkishdelight 0
-papyrus 2 math(unpaid) 1
+papyrus 2 math 1
 beach 1 egg 2
 liam_butler 2 hunt 0
 dynamic 2 joka 1
@@ -2327,9 +2327,9 @@ liam_butler 2 heartstrings 0
 tm 0 yoyo 2
 trick 1 liam_butler 2
 yoyo 2 liam_butler 0
-drephen(unpaid) 3 yoyo 0
-kjh 2 drephen(unpaid) 3
-drephen(unpaid) 0 kjh 3
+drephen 3 yoyo 0
+kjh 2 drephen 3
+drephen 0 kjh 3
 zeit 0 absynth 2
 notlain 2 pataflafla 0
 twoshadez 2 rebelscum 0
@@ -2439,7 +2439,7 @@ lempo 2 cappy 0
 mingee 2 mrs.nesbitt 0
 karils 2 rosilius 0
 rich 0 charlie 2
-joka(unpaid) 2 cagnar 0
+joka 2 cagnar 0
 math 2 kissy 0
 crip 2 wadeguy 0
 vaatu 2 mufasa 0
@@ -2459,7 +2459,7 @@ nexic 2 jsmirk 0
 beach 2 lempo 0
 mingee 2 karils 0
 anther 2 charlie 0
-joka(unpaid) 2 math 1
+joka 2 math 1
 crip 2 vaatu 0
 i4n 2 gr0g 0
 yoyo 2 deepdimples 1
@@ -2468,7 +2468,7 @@ sheep 2 yogibackair 0
 kjh 2 liam'simpoundedcar 0
 tm 2 nexic 1
 beach 0 mingee 2
-anther 2 joka(unpaid) 0
+anther 2 joka 0
 crip 0 i4n 2
 yoyo 2 papyrus 0
 tm 0 mingee 2
@@ -2518,11 +2518,11 @@ liam'simpoundedcar 2 math 0
 sheep 2 karils 0
 papyrus 2 jsmirk 0
 crip 2 peelee 0
-joka(unpaid) 2 duo 1
+joka 2 duo 1
 beach 0 nexic 2
 b.delascasas 2 liam'simpoundedcar 0
 sheep 2 papyrus 0
-crip 2 joka(unpaid) 0
+crip 2 joka 0
 i4n 2 nexic 1
 tm 0 crip 2
 i4n 2 b.delascasas 0
@@ -6341,3 +6341,5143 @@ l7 0 flynwalrus 1
 severest 0 artificialflavour 1
 train 1 flynwalrus 0
 artificialflavour 1 train 0
+IDCrisis 2 Basically Falcon 0
+NotKain 2 AFB 0
+PennySalem 2 Tron 1
+IDCrisis 2 AFB 0
+PennySalem 2 Basically Falcon 0
+Tron 2 NotKain 1
+IDCrisis 2 PennySalem 1
+Tron 2 AFB 0
+NotKain 2 Basically Falcon 0
+IDCrisis 2 Tron 0
+PennySalem 2 NotKain 0
+Basically Falcon 2 AFB 0
+IDCrisis 2 NotKain 0
+Tron 2 Basically Falcon 0
+PennySalem 2 AFB 0
+Datrooph 2 Snowman 0
+Heartstrings 2 Rich 0
+mikefugazi 2 ThatOneGuy 1
+Datrooph 2 Rich 0
+Snowman 2 mikefugazi 0
+Heartstrings 2 ThatOneGuy 0
+Datrooph 2 mikefugazi 0
+ThatOneGuy 2 Rich 0
+Heartstrings 2 Snowman 0
+Datrooph 2 ThatOneGuy 0
+Heartstrings 2 mikefugazi 0
+Snowman 2 Rich 0
+Datrooph 2 Heartstrings 0
+Snowman 2 ThatOneGuy 0
+mikefugazi 2 Rich 0
+CAM 2 Kudos 0
+Parzival 2 Psychology is a Thing 0
+ShyDude 2 eta 0
+CAM 2 Psychology is a Thing 0
+Kudos 2 eta 0
+Parzival 2 ShyDude 1
+CAM 2 eta 0
+Psychology is a Thing 2 ShyDude 0
+Parzival 2 Kudos 0
+CAM 2 ShyDude 0
+Parzival 2 eta 0
+Psychology is a Thing 2 Kudos 0
+Parzival 2 CAM 0
+Kudos 2 ShyDude 1
+Psychology is a Thing 2 eta 0
+Iron 2 Static 0
+MinorThreat 2 Love the Kensei 1
+speedruns 2 Lv100Cubone 0
+Iron 2 Love the Kensei 1
+speedruns 2 Static 1
+MinorThreat 2 Lv100Cubone 0
+Iron 2 speedruns 0
+Love the Kensei 2 Lv100Cubone 0
+MinorThreat 2 Static 0
+Iron 2 Lv100Cubone 0
+MinorThreat 2 speedruns 0
+Love the Kensei 2 Static 0
+MinorThreat 2 Iron 1
+Static 2 Lv100Cubone 0
+Love the Kensei 2 speedruns 0
+Russell 2 Tem 0
+Mojo 2 Moonpuncher 0
+Wizard 2 Karils 1
+Russell 2 Moonpuncher 0
+Karils 2 Tem 1
+Mojo 2 Wizard 0
+Russell 2 Karils 0
+Wizard 2 Moonpuncher 0
+Mojo 2 Tem 0
+Russell 2 Wizard 0
+Mojo 2 Karils 0
+Tem 2 Moonpuncher 0
+Russell 2 Mojo 0
+Wizard 2 Tem 0
+Karils 2 Moonpuncher 0
+SuperMegaWalrus 2 Ugthecaveboy 0
+Sasha 2 Grimsey 0
+Sushe 2 jfgameboy 0
+SuperMegaWalrus 2 Grimsey 0
+jfgameboy 2 Ugthecaveboy 1
+Sasha 2 Sushe 0
+SuperMegaWalrus 2 jfgameboy 0
+Sushe 2 Grimsey 1
+Sasha 2 Ugthecaveboy 0
+SuperMegaWalrus 2 Sushe 0
+Sasha 2 jfgameboy 0
+Ugthecaveboy 2 Grimsey 0
+SuperMegaWalrus 2 Sasha 1
+Sushe 2 Ugthecaveboy 1
+jfgameboy 2 Grimsey 1
+Mules 2 SpitzLee 0
+Cho 2 Okonkwo 0
+Lucid 2 bakinshake 0
+Mules 2 Okonkwo 0
+Lucid 2 SpitzLee 0
+Cho 2 bakinshake 0
+Mules 2 Lucid 0
+Okonkwo 2 bakinshake 0
+Cho 2 SpitzLee 0
+Mules 2 bakinshake 0
+Cho 2 Lucid 0
+Okonkwo 2 SpitzLee 0
+Mules 2 Cho 0
+SpitzLee 2 bakinshake 1
+Lucid 2 Okonkwo 0
+Love the Kensei 2 faux 0
+Jono 2 Rapatap 0
+Team Nick 2 Hunt 0
+Love the Kensei 2 Rapatap 0
+Hunt 2 faux 0
+Team Nick 2 Jono 0
+Love the Kensei 2 Hunt 1
+Team Nick 2 Rapatap 0
+Jono 2 faux 0
+Love the Kensei 2 Team Nick 1
+Jono 2 Hunt 0
+Rapatap 2 faux 0
+Jono 2 Love the Kensei 0
+Team Nick 2 faux 0
+Hunt 2 Rapatap 0
+Yoyo 2 Bad Horse 0
+i4n 2 Tess 0
+Suidt 2 Yata! 0
+Yoyo 2 Tess 0
+Yata! 2 Bad Horse 0
+i4n 2 Suidt 0
+Yata! 2 Yoyo 1
+Suidt 2 Tess 0
+i4n 2 Bad Horse 0
+Yoyo 2 Suidt 1
+i4n 2 Yata! 1
+Tess 2 Bad Horse 0
+i4n 2 Yoyo 1
+Suidt 2 Bad Horse 0
+Yata! 2 Tess 0
+Treetz 2 WoK 0
+HRsalt 2 Astro 0
+L7 2 absynthe 0
+THuGz 2 WoK 1
+L7 2 Treetz 1
+Astro 2 absynthe 0
+THuGz 2 HRsalt 1
+L7 2 WoK 1
+Treetz 2 Astro 0
+THuGz 2 L7 0
+HRsalt 2 absynthe 0
+WoK 2 Astro 0
+THuGz 2 absynthe 0
+L7 2 Astro 0
+Treetz 2 HRsalt 0
+THuGz 2 Astro 0
+Treetz 2 absynthe 0
+HRsalt 2 WoK 1
+Treetz 2 THuGz 0
+WoK 2 absynthe 0
+L7 2 HRsalt 0
+Kuyashi 2 JoeBigs 0
+NoodleIncident 2 XP 0
+Ferriswheel 2 Joebear 0
+Butch G 2 JoeBigs 0
+Kuyashi 2 Joebear 0
+Ferriswheel 2 XP 0
+Butch G 2 NoodleIncident 0
+Joebear 2 JoeBigs 0
+Kuyashi 2 XP 1
+Butch G 2 Joebear 0
+Ferriswheel 2 NoodleIncident 0
+XP 2 JoeBigs 0
+Butch G 2 Ferriswheel 0
+XP 2 Joebear 1
+Kuyashi 2 NoodleIncident 0
+Butch G 2 XP 0
+Ferriswheel 2 Kuyashi 0
+NoodleIncident 2 JoeBigs 0
+Butch G 2 Kuyashi 0
+Ferriswheel 2 JoeBigs 0
+NoodleIncident 2 Joebear 0
+gyro 2 Gum 0
+The Brons Kneecap 2 Launchpad McQuack 0
+Village Mascot 2 PeachU 0
+Zinoto 2 gyro 0
+Gum 2 PeachU 0
+Village Mascot 2 The Brons Kneecap 0
+Zinoto 2 Launchpad McQuack 0
+PeachU 2 gyro 1
+Gum 2 The Brons Kneecap 0
+Zinoto 2 PeachU 0
+Village Mascot 2 Launchpad McQuack 0
+The Brons Kneecap 2 gyro 0
+Zinoto 2 Village Mascot 0
+The Brons Kneecap 2 PeachU 0
+Gum 2 Launchpad McQuack 0
+Zinoto 2 The Brons Kneecap 1
+Village Mascot 2 Gum 0
+gyro 2 Launchpad McQuack 1
+Zinoto 2 Gum 0
+Village Mascot 2 gyro 0
+PeachU 2 Launchpad McQuack 0
+Ambition 2 Wham! 0
+stif 2 Mason Yason 1
+KelLorien 2 SaxophoneofTime 0
+roki 2 Wham! 0
+Ambition 2 KelLorien 0
+stif 2 SaxophoneofTime 1
+roki 2 Mason Yason 0
+KelLorien 2 Wham! 0
+Ambition 2 stif 0
+roki 2 KelLorien 0
+Mason Yason 2 SaxophoneofTime 0
+stif 2 Wham! 0
+roki 2 SaxophoneofTime 0
+stif 2 KelLorien 0
+Ambition 2 Mason Yason 0
+roki 2 stif 0
+Ambition 2 SaxophoneofTime 0
+Mason Yason 2 Wham! 1
+roki 2 Ambition 0
+SaxophoneofTime 2 Wham! 1
+Mason Yason 2 KelLorien 0
+Mike Song 2 Gr0g 0
+Ant 2 Shmeeges 0
+NPV 2 Mr. Sir 0
+Tran 2 Gr0g 0
+Mike Song 2 Mr. Sir 0
+NPV 2 Ant 1
+Tran 2 Shmeeges 0
+Mr. Sir 2 Gr0g 0
+Ant 2 Mike Song 1
+Tran 2 Mr. Sir 0
+NPV 2 Shmeeges 0
+Ant 2 Gr0g 0
+Tran 2 NPV 0
+Ant 2 Mr. Sir 0
+Mike Song 2 Shmeeges 0
+Tran 2 Ant 0
+Mike Song 2 NPV 0
+Shmeeges 2 Gr0g 0
+Tran 2 Mike Song 0
+NPV 2 Gr0g 0
+Mr. Sir 2 Shmeeges 0
+Dirtboy 2 Milk 0
+Mingee 2 Mars 0
+Carnage 2 Farmer Mel 0
+Paper 2 Milk 0
+Dirtboy 2 Farmer Mel 0
+Carnage 2 Mars 0
+Paper 2 Mingee 0
+Milk 2 Farmer Mel 0
+Dirtboy 2 Mars 0
+Paper 2 Farmer Mel 0
+Mingee 2 Carnage 0
+Mars 2 Milk 0
+Paper 2 Carnage 0
+Mars 2 Farmer Mel 0
+Dirtboy 2 Mingee 0
+Paper 2 Mars 0
+Dirtboy 2 Carnage 0
+Mingee 2 Milk 0
+Paper 2 Dirtboy 0
+Carnage 2 Milk 0
+Mingee 2 Farmer Mel 0
+Garzal 2 Phaedrus 0
+ShinsuYavi 2 blue ranger 0
+Necro Joe 2 Mascolino 0
+JU4N 2 Phaedrus 0
+Garzal 2 Mascolino 0
+Necro Joe 2 ShinsuYavi 0
+JU4N 2 blue ranger 0
+Phaedrus 2 Mascolino 0
+Garzal 2 ShinsuYavi 0
+JU4N 2 Mascolino 0
+Necro Joe 2 blue ranger 0
+ShinsuYavi 2 Phaedrus 0
+JU4N 2 Necro Joe 0
+ShinsuYavi 2 Mascolino 0
+Garzal 2 blue ranger 0
+JU4N 2 ShinsuYavi 0
+Garzal 2 Necro Joe 1
+blue ranger 2 Phaedrus 0
+JU4N 2 Garzal 0
+Necro Joe 2 Phaedrus 1
+blue ranger 2 Mascolino 0
+Nexic 2 KappaKeaton 0
+Lange 2 design 0
+Turbo 2 SaltySith 0
+Nexic 2 design 0
+SaltySith 2 KappaKeaton 0
+Lange 2 Turbo 1
+Nexic 2 SaltySith 0
+Turbo 2 design 0
+Lange 2 KappaKeaton 0
+Nexic 2 Turbo 0
+Lange 2 SaltySith 0
+design 2 KappaKeaton 0
+Lange 2 Nexic 1
+Turbo 2 KappaKeaton 0
+design 2 SaltySith 0
+Game 2 lluerbmet 0
+Stitchface 2 Never-Melt Ice 0
+Shou 2 Lust 0
+Game 2 Never-Melt Ice 0
+lluerbmet 2 Lust 0
+Shou 2 Stitchface 0
+Game 2 Lust 0
+Shou 2 Never-Melt Ice 0
+Stitchface 2 lluerbmet 0
+Shou 2 Game 1
+Stitchface 2 Lust 0
+lluerbmet 2 Never-Melt Ice 0
+Stitchface 2 Game 1
+Shou 2 lluerbmet 0
+Never-Melt Ice 2 Lust 0
+DueL 2 h2 0
+luigi master tae 2 4thwrldmrshl 0
+Meowvalent 2 mice 0
+DueL 2 4thwrldmrshl 0
+h2 2 mice 0
+luigi master tae 2 Meowvalent 0
+DueL 2 mice 0
+Meowvalent 2 4thwrldmrshl 0
+luigi master tae 2 h2 1
+DueL 2 Meowvalent 0
+luigi master tae 2 mice 0
+h2 2 4thwrldmrshl 0
+DueL 2 luigi master tae 0
+h2 2 Meowvalent 0
+mice 2 4thwrldmrshl 0
+Pepsi 2 Ness 0
+Pepsi 2 Skraaaaa 1
+Toast 2 Pepsi 0
+Toast 2 Ness 0
+Toast 2 Skraaaaa 0
+Toast 2 Ace 1
+Toast 2 Swit 0
+Skraaaaa 2 Ness 0
+Swit 2 Ness 0
+Skraaaaa 2 Ace 1
+Skraaaaa 2 Swit 0
+Pepsi 2 Ace 1
+Ace 2 Ness 0
+Pepsi 2 Swit 0
+Ace 2 Swit 1
+HoneyBaked 2 Greasy 0
+rodohk 2 NateT 0
+100% 2 woot 0
+HoneyBaked 2 NateT 0
+Greasy 2 woot 0
+100% 2 rodohk 0
+HoneyBaked 2 woot 0
+100% 2 NateT 0
+rodohk 2 Greasy 0
+HoneyBaked 2 100% 0
+rodohk 2 woot 0
+Greasy 2 NateT 0
+HoneyBaked 2 rodohk 0
+100% 2 Greasy 0
+woot 2 NateT 1
+General Heinz 2 Banardo 0
+m8land 2 Beetle 0
+READY 4 BATTLE 2 Amir 0
+General Heinz 2 Beetle 0
+READY 4 BATTLE 2 Banardo 0
+Amir 2 m8land 1
+General Heinz 2 READY 4 BATTLE 0
+Amir 2 Beetle 0
+m8land 2 Banardo 1
+General Heinz 2 Amir 0
+m8land 2 READY 4 BATTLE 0
+Banardo 2 Beetle 1
+General Heinz 2 m8land 0
+Amir 2 Banardo 0
+READY 4 BATTLE 2 Beetle 0
+Will 2 Demoraler 0
+Lordy 2 zeus 0
+Magicubed 2 radikll 0
+Will 2 zeus 0
+Demoraler 2 radikll 0
+Magicubed 2 Lordy 1
+Will 2 radikll 0
+Magicubed 2 zeus 0
+Lordy 2 Demoraler 0
+Will 2 Magicubed 0
+Lordy 2 radikll 0
+Demoraler 2 zeus 0
+Will 2 Lordy 0
+Magicubed 2 Demoraler 0
+zeus 2 radikll 0
+FendrickLamar 2 Cmurda 0
+Taxi 2 Coupkey 1
+Moonunit 2 a_wildpikachu 0
+FendrickLamar 2 Taxi 0
+Cmurda 2 a_wildpikachu 0
+Coupkey 2 Moonunit 0
+FendrickLamar 2 a_wildpikachu 0
+Taxi 2 Moonunit 0
+Coupkey 2 Cmurda 0
+FendrickLamar 2 Moonunit 0
+Coupkey 2 a_wildpikachu 0
+Taxi 2 Cmurda 0
+FendrickLamar 2 Coupkey 0
+Cmurda 2 Moonunit 0
+Taxi 2 a_wildpikachu 0
+Ray 2 Metacopolys 0
+JWinks 2 Sharkington 1
+Enigma 2 3chairz 0
+Ray 2 JWinks 1
+Enigma 2 Metacopolys 1
+Sharkington 2 3chairz 0
+Ray 2 Enigma 1
+JWinks 2 3chairz 0
+Sharkington 2 Metacopolys 1
+Ray 2 3chairz 0
+Sharkington 2 Enigma 1
+JWinks 2 Metacopolys 1
+Ray 2 Sharkington 1
+3chairz 2 Metacopolys 1
+JWinks 2 Enigma 1
+Joba 2 Hawt Dog Water 0
+Deep Fox 2 Sheebz 0
+Jamboni 2 IminYourBackPak 0
+Vegeta 2 Hawt Dog Water 0
+Joba 2 Jamboni 0
+Sheebz 2 IminYourBackPak 0
+Vegeta 2 Deep Fox 1
+Jamboni 2 Hawt Dog Water 1
+Joba 2 Sheebz 0
+Vegeta 2 Jamboni 0
+Deep Fox 2 IminYourBackPak 0
+Sheebz 2 Hawt Dog Water 0
+Vegeta 2 IminYourBackPak 0
+Sheebz 2 Jamboni 0
+Deep Fox 2 Joba 1
+Vegeta 2 Sheebz 0
+Joba 2 IminYourBackPak 0
+Deep Fox 2 Hawt Dog Water 0
+Vegeta 2 Joba 0
+Hawt Dog Water 2 IminYourBackPak 1
+Deep Fox 2 Jamboni 0
+Goonsquad 2 notMitch 0
+Cholo Steve 2 Roxas 0
+AU 2 Sho 0
+The Oak 2 notMitch 0
+Goonsquad 2 AU 0
+Roxas 2 Sho 0
+The Oak 2 Cholo Steve 0
+AU 2 notMitch 0
+Goonsquad 2 Roxas 0
+The Oak 2 AU 0
+Cholo Steve 2 Sho 0
+notMitch 2 Roxas 0
+The Oak 2 Sho 0
+AU 2 Roxas 0
+Goonsquad 2 Cholo Steve 0
+The Oak 2 Roxas 0
+Goonsquad 2 Sho 0
+notMitch 2 Cholo Steve 1
+The Oak 2 Goonsquad 0
+notMitch 2 Sho 0
+AU 2 Cholo Steve 1
+Egg 2 deathpie 0
+Oven 2 Xam 0
+Bdubs 2 Banana Fiend 0
+Napkin 2 deathpie 0
+Egg 2 Banana Fiend 0
+Oven 2 Bdubs 0
+Napkin 2 Xam 0
+Banana Fiend 2 deathpie 0
+Egg 2 Oven 0
+Napkin 2 Banana Fiend 1
+Bdubs 2 Xam 0
+Oven 2 deathpie 0
+Napkin 2 Bdubs 0
+Oven 2 Banana Fiend 0
+Egg 2 Xam 0
+Napkin 2 Oven 0
+Egg 2 Bdubs 0
+Xam 2 deathpie 0
+Napkin 2 Egg 0
+Bdubs 2 deathpie 0
+Xam 2 Banana Fiend 0
+Hollywood 2 COP CRUSHER 0
+Ty 2 aBig 0
+Invader Slim 2 Luxy 1
+NJA 2 COP CRUSHER 0
+Hollywood 2 Invader Slim 0
+Ty 2 Luxy 0
+NJA 2 aBig 0
+COP CRUSHER 2 Invader Slim 0
+Ty 2 Hollywood 0
+NJA 2 Invader Slim 0
+Luxy 2 aBig 0
+Ty 2 COP CRUSHER 0
+NJA 2 Luxy 0
+Ty 2 Invader Slim 0
+Hollywood 2 aBig 0
+NJA 2 Ty 0
+Hollywood 2 Luxy 0
+COP CRUSHER 2 aBig 0
+NJA 2 Hollywood 0
+COP CRUSHER 2 Luxy 0
+Invader Slim 2 aBig 0
+Ders 2 Moses Ninja 0
+TILT 2 Maxo the Midge 0
+Heavyrock 2 Kleen 0
+zbet 2 Moses Ninja 0
+Ders 2 Kleen 0
+TILT 2 Heavyrock 0
+zbet 2 Maxo the Midge 0
+Ders 2 TILT 1
+zbet 2 Kleen 0
+Maxo the Midge 2 Heavyrock 0
+TILT 2 Moses Ninja 0
+zbet 2 Heavyrock 0
+TILT 2 Kleen 0
+Ders 2 Maxo the Midge 0
+zbet 2 TILT 0
+Ders 2 Heavyrock 1
+Maxo the Midge 2 Moses Ninja 0
+zbet 2 Ders 0
+Moses Ninja 2 Heavyrock 1
+Maxo the Midge 2 Kleen 0
+Deep C. Squid 2 TheRoyalWe 0
+Mikey B 2 Bandit 1
+pangwell 2 PDK 0
+Skigh 2 TheRoyalWe 0
+Deep C. Squid 2 PDK 0
+pangwell 2 Bandit 1
+Skigh 2 Mikey B 0
+TheRoyalWe 2 PDK 0
+Deep C. Squid 2 Bandit 0
+Skigh 2 PDK 0
+Mikey B 2 pangwell 0
+Bandit 2 TheRoyalWe 0
+Skigh 2 pangwell 0
+Bandit 2 PDK 0
+Mikey B 2 Deep C. Squid 1
+Skigh 2 Bandit 0
+Deep C. Squid 2 pangwell 0
+Mikey B 2 TheRoyalWe 0
+Skigh 2 Deep C. Squid 0
+pangwell 2 TheRoyalWe 0
+Mikey B 2 PDK 0
+Crip 2 RottenYogurt 0
+ShadowBoxxer 2 NewGen 0
+I3njamin 2 248 0
+CTL 2 RottenYogurt 0
+Crip 2 248 0
+ShadowBoxxer 2 I3njamin 0
+CTL 2 NewGen 0
+RottenYogurt 2 248 1
+Crip 2 ShadowBoxxer 0
+CTL 2 248 0
+NewGen 2 I3njamin 0
+ShadowBoxxer 2 RottenYogurt 1
+CTL 2 I3njamin 0
+ShadowBoxxer 2 248 1
+Crip 2 NewGen 0
+CTL 2 ShadowBoxxer 0
+Crip 2 I3njamin 0
+NewGen 2 RottenYogurt 0
+CTL 2 Crip 0
+RottenYogurt 2 I3njamin 1
+NewGen 2 248 1
+Heartstrings 2 PsychoWaffle 0
+Tron 2 Mozzarella 0
+Oven 2 Jayrodd 0
+Heartstrings 2 Mozzarella 0
+PsychoWaffle 2 Jayrodd 0
+Oven 2 Tron 0
+Heartstrings 2 Jayrodd 0
+Oven 2 Mozzarella 0
+Tron 2 PsychoWaffle 1
+Heartstrings 2 Oven 0
+Tron 0 Jayrodd -1
+PsychoWaffle 2 Mozzarella 0
+Heartstrings 2 Tron 0
+Oven 2 PsychoWaffle 0
+Mozzarella 0 Jayrodd -1
+2Shadez 0 Shanondorf -1
+Coupkey 2 Necro Joe 0
+Dover 2 Krump 0
+2Shadez 2 Necro Joe 0
+Krump 0 Shanondorf -1
+Coupkey 2 Dover 0
+2Shadez 2 Krump 0
+Dover 2 Necro Joe 1
+Coupkey 0 Shanondorf -1
+2Shadez 2 Dover 0
+Coupkey 2 Krump 0
+Necro Joe 0 Shanondorf -1
+Coupkey 2 2Shadez 1
+Dover 0 Shanondorf -1
+Necro Joe 2 Krump 0
+Coupon 0 DueL -1
+IDCrisis 2 L3375 0
+Joka 0 PennySalem -1
+L3375 0 DueL -1
+Joka 0 Coupon -1
+IDCrisis 0 PennySalem -1
+Joka 0 DueL -1
+L3375 0 PennySalem -1
+IDCrisis 0 Coupon -1
+PennySalem 0 DueL -1
+IDCrisis 2 Joka 0
+L3375 0 Coupon -1
+IDCrisis 0 DueL -1
+PennySalem 0 Coupon -1
+Joka 2 L3375 0
+Rh1thmz 2 Bushels 0
+Durmain 2 Pepsi 1
+Tuna 2 BreachiN 1
+Rh1thmz 2 Durmain 1
+Bushels 2 Tuna 1
+Pepsi 2 BreachiN 0
+Rh1thmz 2 Tuna 0
+Durmain 2 BreachiN 0
+Pepsi 2 Bushels 0
+Rh1thmz 2 BreachiN 0
+Pepsi 2 Tuna 0
+Durmain 2 Bushels 0
+Rh1thmz 2 Pepsi 0
+Bushels 2 BreachiN 1
+Durmain 2 Tuna 0
+THuGz 2 NoodleIncident 1
+General Heinz 2 ANormalWolf 0
+MasterJRoll 2 jam 0
+THuGz 2 ANormalWolf 0
+MasterJRoll 2 NoodleIncident 1
+General Heinz 2 jam 0
+THuGz 2 MasterJRoll 1
+jam 2 ANormalWolf 0
+General Heinz 2 NoodleIncident 0
+THuGz 2 jam 0
+General Heinz 2 MasterJRoll 0
+NoodleIncident 2 ANormalWolf 0
+THuGz 2 General Heinz 1
+NoodleIncident 2 jam 0
+MasterJRoll 2 ANormalWolf 0
+Tran 2 Vaatu 0
+kLUB 0 Byron -1
+Aerial Assault 2 ProfessorPlasma 0
+Tran 0 Byron -1
+ProfessorPlasma 2 Vaatu 1
+kLUB 2 Aerial Assault 0
+Tran 2 ProfessorPlasma 0
+Aerial Assault 0 Byron -1
+kLUB 2 Vaatu 0
+Tran 2 Aerial Assault 0
+kLUB 2 ProfessorPlasma 0
+Vaatu 0 Byron -1
+Tran 2 kLUB 1
+Vaatu 2 Aerial Assault 1
+ProfessorPlasma 0 Byron -1
+Treetz 2 Psy 0
+h2 2 Coin 0
+Yogi Backair 2 Redskull 0
+Treetz 2 Coin 0
+Redskull 2 Psy 1
+h2 2 Yogi Backair 0
+Treetz 2 Redskull 1
+Yogi Backair 2 Coin 0
+h2 2 Psy 0
+Treetz 2 Yogi Backair 1
+h2 2 Redskull 0
+Coin 2 Psy 0
+Treetz 2 h2 0
+Yogi Backair 2 Psy 0
+Coin 2 Redskull 0
+Rasto 2 Peon 0
+Hunt 2 Yoshi Kirishima 0
+skate 0 RX78 -1
+Rasto 2 Yoshi Kirishima 0
+skate 2 Peon 1
+Hunt 0 RX78 -1
+Rasto 2 skate 0
+Yoshi Kirishima 0 RX78 -1
+Hunt 2 Peon 1
+Rasto 0 RX78 -1
+Hunt 2 skate 0
+Yoshi Kirishima 2 Peon 0
+Rasto 2 Hunt 0
+Peon 0 RX78 -1
+Yoshi Kirishima 2 skate 0
+i4n 2 Zodiac 0
+MinorThreat 2 Chauncey 0
+Hamer 2 mikefugazi 1
+i4n 2 Chauncey 0
+mikefugazi 2 Zodiac 0
+MinorThreat 2 Hamer 1
+i4n 2 mikefugazi 0
+Chauncey 2 Hamer 0
+MinorThreat 2 Zodiac 0
+i4n 2 Hamer 0
+MinorThreat 2 mikefugazi 0
+Chauncey 2 Zodiac 0
+i4n 2 MinorThreat 0
+Hamer 2 Zodiac 0
+Chauncey 2 mikefugazi 0
+Liam_Butler 2 MajinJoseph 0
+Sheep 2 JoeBigs 0
+Bad Horse 2 Char 0
+Liam_Butler 2 JoeBigs 0
+MajinJoseph 2 Char 0
+Sheep 2 Bad Horse 0
+Liam_Butler 2 Char 0
+Bad Horse 2 JoeBigs 1
+Sheep 2 MajinJoseph 0
+Liam_Butler 2 Bad Horse 0
+Sheep 2 Char 0
+JoeBigs 2 MajinJoseph 1
+Liam_Butler 2 Sheep 1
+MajinJoseph 2 Bad Horse 0
+JoeBigs 2 Char 0
+Kuyashi 2 NPV 0
+Goonsquad 2 Exponential 0
+Jackie 2 Cholo Steve 0
+Kuyashi 2 Exponential 0
+Jackie 2 NPV 1
+Goonsquad 2 Cholo Steve 0
+Kuyashi 2 Jackie 0
+Exponential 2 Cholo Steve 0
+Goonsquad 2 NPV 1
+Kuyashi 2 Cholo Steve 0
+Goonsquad 2 Jackie 0
+NPV 2 Exponential 0
+Kuyashi 2 Goonsquad 0
+NPV 2 Cholo Steve 0
+Jackie 2 Exponential 0
+zbet 2 Riyu 0
+The Brons Kneecap 2 Stones 0
+Mars 2 Joro 1
+zbet 2 Stones 0
+Joro 2 Riyu 0
+The Brons Kneecap 2 Mars 1
+zbet 2 Joro 0
+Stones 2 Mars 0
+The Brons Kneecap 2 Riyu 0
+zbet 2 Mars 1
+The Brons Kneecap 2 Joro 0
+Stones 2 Riyu 0
+zbet 2 The Brons Kneecap 0
+Mars 2 Riyu 0
+Stones 2 Joro 0
+Quang 0 Bandit -1
+Dirtboy 0 AlCo -1
+stif 2 Waddle 0
+Quang 0 AlCo -1
+Waddle 0 Bandit -1
+Dirtboy 2 stif 0
+Quang 2 Waddle 0
+stif 0 AlCo -1
+Dirtboy 0 Bandit -1
+Quang 2 stif 0
+Dirtboy 2 Waddle 0
+Bandit 0 AlCo -1
+Quang 2 Dirtboy 0
+stif 0 Bandit -1
+Waddle 0 AlCo -1
+Crip 2 Hawt Dog Water 0
+Lange 2 NewGen 0
+chentai 2 Cdub 0
+Crip 2 NewGen 0
+Cdub 2 Hawt Dog Water 0
+Lange 2 chentai 0
+Crip 2 Cdub 0
+chentai 2 NewGen 0
+Lange 2 Hawt Dog Water 0
+Crip 2 chentai 0
+Lange 2 Cdub 0
+NewGen 2 Hawt Dog Water 0
+Lange 2 Crip 1
+chentai 2 Hawt Dog Water 0
+Cdub 2 NewGen 0
+Mules 2 Tiggah 0
+Garzal 2 jonchar 0
+Sasha 2 Scoops™ 0
+Mules 2 jonchar 0
+Tiggah 2 Scoops™ 0
+Sasha 2 Garzal 0
+Mules 2 Scoops™ 0
+Sasha 2 jonchar 0
+Tiggah 2 Garzal 0
+Mules 2 Sasha 0
+Garzal 2 Scoops™ 0
+Tiggah 2 jonchar 0
+Mules 2 Garzal 0
+Sasha 2 Tiggah 1
+jonchar 2 Scoops™ 1
+JU4N 2 Amir 0
+JU4N 2 None 0
+JU4N 2 Psythr 0
+JU4N 2 DoctorJ 0
+JU4N 2 RedxHood 0
+Amir 2 None 0
+Amir 2 Psythr 0
+Psythr 2 None 0
+DoctorJ 2 None 0
+Psythr 2 DoctorJ 0
+Psythr 2 RedxHood 0
+Amir 2 DoctorJ 0
+DoctorJ 2 RedxHood 0
+Amir 2 RedxHood 0
+RedxHood 2 None 0
+Datrooph 2 Walrus 0
+Magicubed 0 Sireddie -1
+TILT 2 Ryuk 0
+Datrooph 0 Sireddie -1
+Walrus 2 Ryuk 0
+Magicubed 2 TILT 0
+Datrooph 2 Ryuk 0
+TILT 0 Sireddie -1
+Magicubed 2 Walrus 0
+Datrooph 2 TILT 0
+Magicubed 2 Ryuk 0
+Walrus 0 Sireddie -1
+Magicubed 2 Datrooph 0
+TILT 2 Walrus 0
+Ryuk 0 Sireddie -1
+Egg 0 Hordfest -1
+CAM 2 PeachU 0
+Steez 0 Ron Diesel -1
+Egg 2 PeachU 0
+Hordfest 0 Ron Diesel -1
+CAM 2 Steez 0
+Egg 0 Ron Diesel -1
+Steez 2 PeachU 0
+CAM 0 Hordfest -1
+Egg 2 Steez 0
+CAM 0 Ron Diesel -1
+PeachU 0 Hordfest -1
+Egg 2 CAM 0
+Steez 0 Hordfest -1
+PeachU 0 Ron Diesel -1
+Mingee 2 Dissaplin 0
+Luu 2 m8land 0
+RoyTheRoyalBoy 2 Coleslaw 1
+Mingee 2 Luu 0
+Coleslaw 2 Dissaplin 1
+m8land 2 RoyTheRoyalBoy 1
+Mingee 2 Coleslaw 0
+Luu 2 RoyTheRoyalBoy 0
+m8land 2 Dissaplin 0
+Mingee 2 RoyTheRoyalBoy 1
+m8land 2 Coleslaw 0
+Luu 2 Dissaplin 0
+m8land 2 Mingee 1
+RoyTheRoyalBoy 2 Dissaplin 0
+Luu 2 Coleslaw 0
+Morsecode762 2 Ruffian 0
+BCN 2 Aghi 0
+JCubez 2 Q 0
+Morsecode762 2 Aghi 0
+JCubez 2 Ruffian 1
+BCN 2 Q 0
+Morsecode762 2 JCubez 0
+Aghi 2 Q 0
+BCN 2 Ruffian 0
+Morsecode762 2 Q 0
+JCubez 2 BCN 1
+Aghi 2 Ruffian 0
+Morsecode762 2 BCN 1
+Q 2 Ruffian 0
+JCubez 2 Aghi 0
+Nexic 2 Shix 0
+Miracle_Fruit 2 Nutsonyochin 0
+Action Master 2 Luxy 0
+Nexic 2 Nutsonyochin 0
+Action Master 2 Shix 0
+Miracle_Fruit 2 Luxy 0
+Nexic 2 Action Master 0
+Luxy 2 Nutsonyochin 0
+Miracle_Fruit 2 Shix 1
+Nexic 2 Luxy 0
+Miracle_Fruit 2 Action Master 0
+Shix 2 Nutsonyochin 0
+Nexic 2 Miracle_Fruit 1
+Shix 2 Luxy 1
+Action Master 2 Nutsonyochin 0
+Will 0 SPD -1
+Dynamic 0 Magic Mike -1
+Artificial Flavour 2 Royboy 0
+Will 0 Magic Mike -1
+Royboy 0 SPD -1
+Dynamic 2 Artificial Flavour 1
+Will 2 Royboy 0
+Artificial Flavour 0 Magic Mike -1
+Dynamic 0 SPD -1
+Will 2 Artificial Flavour 1
+Dynamic 2 Royboy 0
+SPD 0 Magic Mike -1
+Will 2 Dynamic 0
+Artificial Flavour 0 SPD -1
+Royboy 0 Magic Mike -1
+Iron 2 Zimmer 0
+Skey 2 Kenpachi 0
+Static 2 Fives 0
+Iron 2 Kenpachi 0
+Zimmer 2 Fives 0
+Skey 2 Static 0
+Iron 2 Fives 0
+Static 2 Kenpachi 0
+Skey 2 Zimmer 0
+Iron 2 Static 0
+Skey 2 Fives 0
+Zimmer 2 Kenpachi 0
+Skey 2 Iron 1
+Static 2 Zimmer 1
+Fives 2 Kenpachi 0
+Nexic 2 Shix 0
+Miracle_Fruit 2 Nutsonyochin 0
+Action Master 2 Luxy 0
+Nexic 2 Nutsonyochin 0
+Action Master 2 Shix 0
+Miracle_Fruit 2 Luxy 0
+Nexic 2 Action Master 0
+Luxy 2 Nutsonyochin 0
+Miracle_Fruit 2 Shix 1
+Nexic 2 Luxy 0
+Miracle_Fruit 2 Action Master 0
+Shix 2 Nutsonyochin 0
+Nexic 2 Miracle_Fruit 1
+Shix 2 Luxy 1
+Action Master 2 Nutsonyochin 0
+Will 0 SPD -1
+Dynamic 0 Magic Mike -1
+Artificial Flavour 2 Royboy 0
+Will 0 Magic Mike -1
+Royboy 0 SPD -1
+Dynamic 2 Artificial Flavour 1
+Will 2 Royboy 0
+Artificial Flavour 0 Magic Mike -1
+Dynamic 0 SPD -1
+Will 2 Artificial Flavour 1
+Dynamic 2 Royboy 0
+SPD 0 Magic Mike -1
+Will 2 Dynamic 0
+Artificial Flavour 0 SPD -1
+Royboy 0 Magic Mike -1
+Iron 2 Zimmer 0
+Skey 2 Kenpachi 0
+Static 2 Fives 0
+Iron 2 Kenpachi 0
+Zimmer 2 Fives 0
+Skey 2 Static 0
+Iron 2 Fives 0
+Static 2 Kenpachi 0
+Skey 2 Zimmer 0
+Iron 2 Static 0
+Skey 2 Fives 0
+Zimmer 2 Kenpachi 0
+Skey 2 Iron 1
+Static 2 Zimmer 1
+Fives 2 Kenpachi 0
+Cho 2 woot 0
+Mojo 0 slogdor -1
+Skraaaaa 0 zeus -1
+Cho 0 slogdor -1
+woot 0 zeus -1
+Mojo 2 Skraaaaa 1
+Cho 0 zeus -1
+Skraaaaa 0 slogdor -1
+Mojo 2 woot 0
+Cho 2 Skraaaaa 0
+Mojo 0 zeus -1
+woot 0 slogdor -1
+Cho 2 Mojo 0
+Skraaaaa 2 woot 0
+slogdor 0 zeus -1
+NJA 2 Carnage 0
+Stitchface 2 Inka Dinka Doo 0
+Hollywood 2 Sheebz 1
+NJA 2 Inka Dinka Doo 0
+Carnage 2 Sheebz 1
+Hollywood 2 Stitchface 1
+NJA 2 Sheebz 0
+Hollywood 2 Inka Dinka Doo 0
+Stitchface 2 Carnage 1
+Hollywood 2 NJA 0
+Stitchface 2 Sheebz 0
+Carnage 2 Inka Dinka Doo 0
+NJA 2 Stitchface 1
+Hollywood 2 Carnage 0
+Sheebz 2 Inka Dinka Doo 0
+FendrickLamar 0 Gulo -1
+Math 2 BickTrip 1
+Mikey B 0 PoopiePete420 -1
+FendrickLamar 2 BickTrip 0
+Gulo 0 PoopiePete420 -1
+Mikey B 2 Math 1
+FendrickLamar 0 PoopiePete420 -1
+Mikey B 2 BickTrip 1
+Math 0 Gulo -1
+FendrickLamar 2 Mikey B 0
+Math 0 PoopiePete420 -1
+BickTrip 0 Gulo -1
+FendrickLamar 2 Math 1
+Mikey B 0 Gulo -1
+BickTrip 0 PoopiePete420 -1
+Parzival 0 Eddy -1
+rodohk 2 Tem 0
+Fancy 2 Dr. Mills 0
+Parzival 2 Tem 1
+Dr. Mills 0 Eddy -1
+Fancy 2 rodohk 0
+Parzival 2 Dr. Mills 0
+Tem 2 Fancy 1
+rodohk 0 Eddy -1
+Parzival 2 Fancy 1
+rodohk 2 Dr. Mills 0
+Tem 0 Eddy -1
+Parzival 2 rodohk 0
+Fancy 0 Eddy -1
+Tem 2 Dr. Mills 0
+HoneyBaked 0 Varisia -1
+Cujo 0 Joba -1
+Led Free 2 Banana Fiend 0
+HoneyBaked 0 Cujo -1
+Banana Fiend 0 Varisia -1
+Led Free 0 Joba -1
+HoneyBaked 2 Banana Fiend 0
+Led Free 0 Cujo -1
+Varisia 0 Joba -1
+HoneyBaked 2 Led Free 0
+Banana Fiend 0 Joba -1
+Varisia 0 Cujo -1
+HoneyBaked 0 Joba -1
+Led Free 0 Varisia -1
+Banana Fiend 0 Cujo -1
+Napkin 2 Apples 0
+Ant 2 Delta 1
+wrenches 2 ShinsuYavi 0
+Napkin 2 Delta 0
+ShinsuYavi 2 Apples 0
+wrenches 2 Ant 0
+Napkin 2 ShinsuYavi 0
+wrenches 2 Delta 0
+Ant 2 Apples 0
+Napkin 2 wrenches 0
+Ant 2 ShinsuYavi 0
+Delta 2 Apples 1
+Napkin 2 Ant 0
+wrenches 2 Apples 0
+ShinsuYavi 2 Delta 1
+Skigh 2 IminYourBackPak 0
+NotKain 2 Dollar Bill 0
+Lucy 2 clickclack 0
+Skigh 2 Dollar Bill 0
+clickclack 2 IminYourBackPak 0
+Lucy 2 NotKain 0
+Skigh 2 clickclack 0
+Lucy 2 Dollar Bill 0
+NotKain 2 IminYourBackPak 0
+Skigh 2 Lucy 1
+NotKain 2 clickclack 0
+IminYourBackPak 2 Dollar Bill 0
+Skigh 2 NotKain 0
+Lucy 2 IminYourBackPak 0
+clickclack 2 Dollar Bill 0
+Yoyo 2 Plasma193 0
+WoK 0 MarbleBlaster -1
+XP 2 Cobb 1
+Yoyo 0 MarbleBlaster -1
+Cobb 2 Plasma193 1
+XP 2 WoK 1
+Yoyo 2 Cobb 0
+XP 0 MarbleBlaster -1
+WoK 2 Plasma193 0
+Yoyo 2 XP 0
+WoK 2 Cobb 1
+Plasma193 0 MarbleBlaster -1
+Yoyo 2 WoK 0
+Plasma193 2 XP 1
+Cobb 0 MarbleBlaster -1
+The Oak 2 Turkish Delight 0
+Woley 2 drill 0
+Taxi 2 confusion 0
+The Oak 2 drill 0
+Turkish Delight 2 confusion 1
+Woley 2 Taxi 0
+The Oak 2 confusion 0
+Taxi 2 drill 1
+Woley 2 Turkish Delight 0
+The Oak 2 Taxi 0
+Woley 2 confusion 0
+Turkish Delight 2 drill 0
+The Oak 2 Woley 0
+Taxi 2 Turkish Delight 0
+drill 2 confusion 0
+The Oak 2 Math 0
+Egg 2 Skey 1
+Skey 2 CAM 0
+Liam_Butler 2 Woley 0
+zbet 2 Miracle_Fruit 0
+Ant 2 Mingee 0
+Napkin 2 m8land 1
+Nexic 2 The Brons Kneecap 0
+Skigh 2 Oven 0
+THuGz 2 Stitchface 0
+General Heinz 2 Hollywood 1
+Heartstrings 2 NotKain 0
+Mules 2 Magicubed 1
+2Shadez 2 Sheep 0
+FendrickLamar 2 h2 0
+Magicubed 2 Garzal 1
+Yoyo 2 Durmain 0
+DueL 2 Goonsquad 0
+Kuyashi 2 Joka 0
+i4n 2 WoK 0
+Quang 2 Dynamic 0
+Morsecode762 2 Led Free 0
+HoneyBaked 2 JCubez 1
+Will 2 Dirtboy 0
+JU4N 2 Hunt 1
+Rh1thmz 2 Mojo 0
+Cho 2 MinorThreat 0
+Rasto 2 Amir 0
+Lange 2 2Shadez 1
+Tran 2 Fancy 0
+Parzival 2 kLUB 0
+Lange 2 Treetz 0
+The Oak 2 Egg 1
+Liam_Butler 2 Skey 1
+zbet 2 Ant 0
+Nexic 2 Napkin 1
+Skigh 2 THuGz 1
+Heartstrings 2 General Heinz 0
+Mules 2 2Shadez 0
+FendrickLamar 2 Magicubed 0
+Yoyo 2 DueL 0
+Kuyashi 2 i4n 0
+Morsecode762 2 Quang 0
+Will 2 HoneyBaked 0
+JU4N 2 Rh1thmz 0
+Rasto 2 Cho 0
+Tran 2 Lange 0
+Lange 2 Parzival 0
+The Oak 2 Liam_Butler 1
+zbet 2 Nexic 0
+Heartstrings 2 Skigh 1
+Mules 2 FendrickLamar 1
+Yoyo 2 Kuyashi 1
+Morsecode762 2 Will 0
+JU4N 2 Rasto 0
+Tran 2 Lange 1
+The Oak 2 zbet 1
+Mules 2 Heartstrings 1
+Yoyo 2 Morsecode762 0
+JU4N 2 Tran 0
+Mules 3 The Oak 2
+Yoyo 3 JU4N 1
+Yoyo 3 Mules 1
+Yoyo 3 Tran 1
+Skey 2 Math 0
+CAM 2 Woley 1
+Mingee 2 Miracle_Fruit 1
+m8land 2 The Brons Kneecap 0
+Stitchface 2 Oven 1
+NotKain 2 Hollywood 0
+Magicubed 2 Sheep 0
+Garzal 2 h2 0
+Durmain 2 Goonsquad 0
+Joka 2 WoK 0
+Dynamic 2 Led Free 0
+Dirtboy 2 JCubez 1
+Hunt 2 Mojo 1
+MinorThreat 2 Amir 1
+2Shadez 2 Fancy 0
+kLUB 2 Treetz 0
+Parzival 2 Skey 0
+CAM 2 Lange 0
+Cho 2 Mingee 0
+m8land 2 Rh1thmz 0
+HoneyBaked 2 Stitchface 0
+Quang 2 NotKain 1
+i4n 2 Magicubed 0
+DueL 2 Garzal 0
+Magicubed 2 Durmain 1
+2Shadez 2 Joka 0
+Dynamic 2 General Heinz 1
+THuGz 2 Dirtboy 1
+Napkin 2 Hunt 0
+MinorThreat 2 Ant 0
+2Shadez 2 Skey 0
+kLUB 2 Egg 1
+Parzival 2 CAM 1
+Cho 2 m8land 0
+Quang 2 HoneyBaked 1
+i4n 2 DueL 0
+Magicubed 2 2Shadez 1
+THuGz 2 Dynamic 0
+Napkin 2 MinorThreat 0
+kLUB 2 2Shadez 0
+FendrickLamar 2 Parzival 1
+Skigh 2 Cho 1
+Nexic 2 Quang 1
+i4n 2 Liam_Butler 0
+Lange 2 Magicubed 0
+THuGz 2 Rasto 0
+Napkin 2 Will 1
+Kuyashi 2 kLUB 0
+Skigh 2 FendrickLamar 1
+Nexic 2 i4n 1
+Lange 2 THuGz 1
+Napkin 2 Kuyashi 0
+Morsecode762 2 Skigh 0
+Tran 2 Nexic 0
+zbet 2 Lange 0
+Napkin 2 Heartstrings 0
+Tran 3 Morsecode762 1
+Napkin 3 zbet 1
+Tran 3 The Oak 0
+Napkin 3 JU4N 2
+Tran 3 Napkin 2
+Tran 3 Mules 1
+808 2 Turtle 1
+Carnage 2 Scoops™ 0
+NPV 2 TopTierRamen 1
+Gorx 2 JollyJabroni 0
+Heartstrings 2 Turtle 1
+808 2 NPV 0
+Carnage 2 Gorx 0
+TopTierRamen 2 JollyJabroni 1
+Heartstrings 2 Scoops™ 0
+NPV 2 Turtle 0
+808 2 JollyJabroni 0
+Carnage 2 TopTierRamen 0
+Heartstrings 2 NPV 0
+Gorx 2 Scoops™ 1
+Turtle 2 JollyJabroni 0
+808 2 Carnage 0
+Heartstrings 2 Gorx 0
+NPV 2 JollyJabroni 0
+TopTierRamen 2 Scoops™ 1
+Carnage 2 Turtle 0
+Heartstrings 2 JollyJabroni 0
+TopTierRamen 2 Gorx 0
+Carnage 2 NPV 0
+808 2 Scoops™ 0
+Heartstrings 2 TopTierRamen 0
+Carnage 2 JollyJabroni 0
+808 2 Gorx 0
+Turtle 2 Scoops™ 0
+Heartstrings 2 Carnage 0
+808 2 TopTierRamen 0
+Turtle 2 Gorx 0
+NPV 2 Scoops™ 0
+Heartstrings 2 808 0
+Turtle 2 TopTierRamen 0
+Scoops™ 2 JollyJabroni 0
+NPV 2 Gorx 0
+i4n 2 Azrael 0
+CAM 2 RyanGG 0
+Ray 2 Sasquatch 0
+Mars 2 JustMatt 0
+i4n 2 RyanGG 0
+Azrael 2 Sasquatch 0
+CAM 2 Mars 0
+Ray 2 JustMatt 0
+i4n 2 Sasquatch 0
+RyanGG 2 Mars 0
+JustMatt 2 Azrael 0
+CAM 2 Ray 0
+i4n 2 Mars 0
+JustMatt 2 Sasquatch 0
+Ray 2 RyanGG 0
+CAM 2 Azrael 0
+i4n 2 JustMatt 0
+Mars 2 Ray 1
+CAM 2 Sasquatch 0
+RyanGG 2 Azrael 0
+i4n 2 Ray 0
+CAM 2 JustMatt 1
+Mars 2 Azrael 0
+RyanGG 2 Sasquatch 0
+i4n 2 CAM 0
+Ray 2 Azrael 0
+RyanGG 2 JustMatt 1
+Mars 2 Sasquatch 0
+Skigh 2 DrewGod420 0
+Kuyashi 2 Colony 0
+Ekiele 2 Modus 0
+BreachiN 0 Knight -1
+Skigh 2 Colony 0
+DrewGod420 2 Modus 0
+Kuyashi 0 Knight -1
+Ekiele 2 BreachiN 0
+Skigh 2 Modus 0
+Colony 0 Knight -1
+BreachiN 2 DrewGod420 0
+Kuyashi 2 Ekiele 1
+Skigh 0 Knight -1
+BreachiN 2 Modus 0
+Ekiele 2 Colony 0
+Kuyashi 2 DrewGod420 0
+Skigh 2 BreachiN 0
+Ekiele 0 Knight -1
+Kuyashi 2 Modus 0
+Colony 2 DrewGod420 0
+Skigh 2 Ekiele 1
+Kuyashi 2 BreachiN 0
+DrewGod420 0 Knight -1
+Colony 2 Modus 1
+Skigh 2 Kuyashi 0
+DrewGod420 2 Ekiele 0
+BreachiN 2 Colony 0
+Modus 0 Knight -1
+h2 2 Delta 0
+Stitchface 2 Nick Ahoy 0
+Paul 2 BigJoe 1
+Albert 2 Tequila 0
+Mules 2 Delta 0
+h2 2 BigJoe 0
+Stitchface 2 Albert 0
+Paul 2 Tequila 0
+Mules 2 Nick Ahoy 0
+Delta 2 BigJoe 0
+h2 2 Tequila 0
+Stitchface 2 Paul 1
+Mules 2 BigJoe 0
+Albert 2 Nick Ahoy 1
+Tequila 2 Delta 1
+Stitchface 2 h2 0
+Mules 2 Albert 0
+BigJoe 2 Tequila 0
+Paul 2 Nick Ahoy 0
+Stitchface 2 Delta 0
+Mules 2 Tequila 0
+Paul 2 Albert 0
+Stitchface 2 BigJoe 0
+h2 2 Nick Ahoy 0
+Mules 2 Paul 1
+Stitchface 2 Tequila 0
+h2 2 Albert 0
+Nick Ahoy 2 Delta 0
+Mules 2 Stitchface 1
+Paul 2 h2 1
+Delta 2 Albert 1
+BigJoe 2 Nick Ahoy 1
+h2 2 Mules 1
+Paul 2 Delta 1
+Tequila 2 Nick Ahoy 0
+Albert 2 BigJoe 1
+Datrooph 2 Nicco Beltramo 0
+Goonsquad 0 Fate -1
+Yogi Backair 2 Pataflafla 0
+SuperDong 2 RottenYogurt 1
+Morsecode762 2 Nicco Beltramo 0
+Datrooph 2 Pataflafla 0
+Goonsquad 2 SuperDong 1
+Yogi Backair 2 RottenYogurt 0
+Morsecode762 0 Fate -1
+Pataflafla 2 Nicco Beltramo 0
+Datrooph 2 RottenYogurt 0
+Goonsquad 2 Yogi Backair 1
+Morsecode762 2 Pataflafla 0
+SuperDong 0 Fate -1
+RottenYogurt 2 Nicco Beltramo 0
+Datrooph 2 Goonsquad 0
+Morsecode762 2 SuperDong 0
+Pataflafla 2 RottenYogurt 0
+Yogi Backair 0 Fate -1
+Goonsquad 2 Nicco Beltramo 0
+Morsecode762 2 RottenYogurt 0
+Yogi Backair 2 SuperDong 0
+Goonsquad 2 Pataflafla 0
+Datrooph 0 Fate -1
+Morsecode762 2 Yogi Backair 0
+Goonsquad 2 RottenYogurt 0
+Datrooph 2 SuperDong 0
+Nicco Beltramo 0 Fate -1
+Morsecode762 2 Goonsquad 0
+Yogi Backair 2 Datrooph 1
+SuperDong 2 Nicco Beltramo 1
+Pataflafla 0 Fate -1
+Morsecode762 2 Datrooph 1
+Yogi Backair 2 Nicco Beltramo 0
+RottenYogurt 0 Fate -1
+Pataflafla 2 SuperDong 0
+SuperMegaWalrus 2 Korvus 0
+DarkLouis 2 CrustL0rd 0
+Koleslawing 0 uGuize -1
+Noro 2 FluffySheep 0
+Tran 2 Korvus 0
+SuperMegaWalrus 2 Koleslawing 0
+DarkLouis 2 FluffySheep 0
+Noro 0 uGuize -1
+Tran 2 CrustL0rd 0
+Koleslawing 2 Korvus 0
+SuperMegaWalrus 2 Noro 0
+DarkLouis 0 uGuize -1
+Tran 2 Koleslawing 0
+CrustL0rd 2 FluffySheep 0
+Noro 2 Korvus 0
+DarkLouis 2 SuperMegaWalrus 0
+Tran 2 FluffySheep 0
+Koleslawing 2 Noro 0
+CrustL0rd 0 uGuize -1
+DarkLouis 2 Korvus 0
+Tran 2 Noro 0
+FluffySheep 0 uGuize -1
+DarkLouis 2 Koleslawing 0
+SuperMegaWalrus 2 CrustL0rd 0
+Tran 0 uGuize -1
+DarkLouis 2 Noro 0
+SuperMegaWalrus 2 FluffySheep 0
+CrustL0rd 2 Korvus 0
+Tran 2 DarkLouis 1
+SuperMegaWalrus 0 uGuize -1
+FluffySheep 2 Korvus 1
+Koleslawing 2 CrustL0rd 1
+Tran 2 SuperMegaWalrus 0
+Korvus 0 uGuize -1
+CrustL0rd 2 Noro 0
+Koleslawing 2 FluffySheep 0
+Nexic 2 Moment 0
+Sheep 2 BRANDO 0
+GMAN 0 Artificial Flavour -1
+TILT 2 Pillars 0
+Nexic 2 BRANDO 0
+Moment 2 GMAN 1
+Sheep 2 Pillars 0
+TILT 0 Artificial Flavour -1
+Nexic 2 GMAN 0
+Pillars 2 BRANDO 0
+TILT 2 Moment 0
+Sheep 0 Artificial Flavour -1
+Nexic 2 Pillars 0
+TILT 2 GMAN 0
+BRANDO 0 Artificial Flavour -1
+Sheep 2 Moment 0
+Nexic 2 TILT 0
+Pillars 0 Artificial Flavour -1
+Sheep 2 GMAN 0
+Moment 2 BRANDO 0
+Nexic 0 Artificial Flavour -1
+Sheep 2 TILT 0
+Moment 2 Pillars 0
+BRANDO 2 GMAN 1
+Nexic 2 Sheep 0
+Moment 0 Artificial Flavour -1
+BRANDO 2 TILT 1
+Pillars 2 GMAN 0
+2Shadez 2 techboy 0
+Egg 2 Action Master 1
+wrenches 2 Vaatu 0
+JoeBigs 2 Adam 0
+2Shadez 2 Action Master 0
+Vaatu 2 techboy 0
+Egg 2 Adam 0
+wrenches 2 JoeBigs 0
+2Shadez 2 Vaatu 0
+Action Master 2 Adam 0
+techboy 2 JoeBigs 0
+Egg 2 wrenches 1
+2Shadez 2 Adam 0
+Vaatu 2 JoeBigs 0
+wrenches 2 Action Master 0
+Egg 2 techboy 0
+2Shadez 2 JoeBigs 0
+wrenches 2 Adam 0
+Egg 2 Vaatu 0
+Action Master 2 techboy 1
+wrenches 2 2Shadez 0
+Egg 2 JoeBigs 0
+techboy 2 Adam 0
+Action Master 2 Vaatu 1
+Egg 2 2Shadez 0
+wrenches 2 techboy 0
+JoeBigs 2 Action Master 1
+Vaatu 2 Adam 1
+Iron 2 Clutch 0
+MinorThreat 2 Dreamfunk 0
+Jackie 2 Invader Slim 0
+Coleslaw 0 Chaotropic -1
+JU4N 2 Clutch 0
+Iron 2 Invader Slim 0
+MinorThreat 0 Chaotropic -1
+Coleslaw 2 Jackie 0
+JU4N 2 Dreamfunk 0
+Clutch 2 Invader Slim 0
+Iron 2 Coleslaw 0
+MinorThreat 2 Jackie 0
+JU4N 2 Invader Slim 0
+Dreamfunk 0 Chaotropic -1
+Coleslaw 2 Clutch 1
+Iron 2 MinorThreat 1
+JU4N 0 Chaotropic -1
+Coleslaw 2 Invader Slim 0
+Jackie 2 Dreamfunk 0
+MinorThreat 2 Clutch 0
+JU4N 2 Coleslaw 1
+Jackie 0 Chaotropic -1
+MinorThreat 2 Invader Slim 0
+Iron 2 Dreamfunk 0
+JU4N 2 Jackie 1
+MinorThreat 2 Coleslaw 1
+Iron 0 Chaotropic -1
+Clutch 2 Dreamfunk 0
+JU4N 2 MinorThreat 1
+Iron 2 Jackie 0
+Clutch 0 Chaotropic -1
+Invader Slim 2 Dreamfunk 0
+JU4N 2 Iron 0
+Jackie 2 Clutch 0
+Coleslaw 2 Dreamfunk 0
+Invader Slim 0 Chaotropic -1
+DueL 2 Zol 0
+Smopzoms 0 Rasto -1
+Oven 2 MarbleBlaster 1
+Luxy 2 D_Lidz 0
+DueL 2 Smopzoms 0
+MarbleBlaster 2 Zol 1
+D_Lidz 0 Rasto -1
+Oven 2 Luxy 1
+DueL 2 MarbleBlaster 0
+D_Lidz 2 Smopzoms 1
+Luxy 2 Zol 0
+Oven 0 Rasto -1
+DueL 2 D_Lidz 0
+Luxy 2 MarbleBlaster 0
+Oven 2 Smopzoms 0
+Zol 0 Rasto -1
+DueL 2 Luxy 1
+Oven 2 D_Lidz 0
+MarbleBlaster 0 Rasto -1
+Zol 2 Smopzoms 0
+DueL 2 Oven 1
+Luxy 0 Rasto -1
+Zol 2 D_Lidz 0
+MarbleBlaster 2 Smopzoms 1
+DueL 0 Rasto -1
+Oven 2 Zol 0
+Luxy 2 Smopzoms 1
+MarbleBlaster 2 D_Lidz 0
+IDCrisis 2 Ryuk 0
+ctrlaltdefeat 2 GrantBaeris 0
+REKT 2 Surskim 0
+DoctaDredd 0 skate -1
+IDCrisis 2 GrantBaeris 0
+Surskim 2 Ryuk 0
+ctrlaltdefeat 2 DoctaDredd 0
+REKT 0 skate -1
+IDCrisis 2 Surskim 0
+DoctaDredd 2 GrantBaeris 0
+Ryuk 0 skate -1
+ctrlaltdefeat 2 REKT 0
+IDCrisis 2 DoctaDredd 0
+Surskim 0 skate -1
+REKT 2 GrantBaeris 0
+ctrlaltdefeat 2 Ryuk 0
+IDCrisis 0 skate -1
+REKT 2 DoctaDredd 0
+ctrlaltdefeat 2 Surskim 0
+GrantBaeris 2 Ryuk 1
+IDCrisis 2 REKT 0
+ctrlaltdefeat 0 skate -1
+DoctaDredd 2 Ryuk 0
+Surskim 2 GrantBaeris 0
+IDCrisis 2 ctrlaltdefeat 1
+REKT 2 Ryuk 0
+GrantBaeris 0 skate -1
+Surskim 2 DoctaDredd 0
+HoneyBaked 2 Stones 0
+THuGz 2 Ladies 0
+Durmain 2 jfgameboy 0
+Ant 2 NaChloride 0
+HoneyBaked 2 Ladies 0
+Stones 2 jfgameboy 0
+THuGz 2 NaChloride 0
+Durmain 2 Ant 0
+HoneyBaked 2 jfgameboy 0
+NaChloride 2 Ladies 0
+Ant 2 Stones 0
+THuGz 2 Durmain 0
+HoneyBaked 2 NaChloride 0
+Ant 2 jfgameboy 0
+Durmain 2 Ladies 0
+THuGz 2 Stones 0
+HoneyBaked 2 Ant 0
+Durmain 2 NaChloride 0
+THuGz 2 jfgameboy 0
+Stones 2 Ladies 0
+HoneyBaked 2 Durmain 0
+THuGz 2 Ant 0
+Stones 2 NaChloride 0
+jfgameboy 2 Ladies 0
+THuGz 2 HoneyBaked 0
+Durmain 2 Stones 0
+Ant 2 Ladies 0
+NaChloride 2 jfgameboy 0
+Hunt 2 Echo 0
+Amir 2 Vinje 0
+Cobb 2 Duo 0
+Ceephax 2 Mozzarella 0
+Echo 2 zbet 1
+Hunt 2 Cobb 0
+Amir 2 Mozzarella 0
+Duo 2 Ceephax 1
+zbet 2 Vinje 0
+Cobb 2 Echo 1
+Ceephax 2 Hunt 0
+Amir 2 Duo 0
+zbet 2 Cobb 0
+Vinje 2 Mozzarella 1
+Ceephax 2 Echo 1
+Hunt 2 Amir 1
+zbet 2 Mozzarella 0
+Cobb 2 Ceephax 0
+Duo 2 Vinje 0
+Amir 2 Echo 0
+zbet 2 Ceephax 0
+Duo 2 Mozzarella 0
+Amir 2 Cobb 0
+Hunt 2 Vinje 0
+zbet 2 Duo 0
+Amir 2 Ceephax 0
+Hunt 2 Mozzarella 0
+Echo 2 Vinje 0
+zbet 2 Amir 1
+Hunt 2 Duo 0
+Echo 2 Mozzarella 1
+Cobb 2 Vinje 0
+zbet 2 Hunt 0
+Duo 2 Echo 1
+Ceephax 2 Vinje 0
+Cobb 2 Mozzarella 0
+Dynamic 0 Ron Diesel -1
+JCubez 0 Food -1
+Taxi 2 Scorpiator 0
+ShinsuYavi 0 Peon -1
+Crip 0 Ron Diesel -1
+Dynamic 2 Scorpiator 0
+JCubez 0 Peon -1
+Taxi 2 ShinsuYavi 1
+Crip 0 Food -1
+Scorpiator 0 Ron Diesel -1
+Dynamic 2 ShinsuYavi 0
+JCubez 2 Taxi 0
+Crip 2 Scorpiator 0
+Peon 0 Food -1
+ShinsuYavi 0 Ron Diesel -1
+Dynamic 2 JCubez 1
+Crip 0 Peon -1
+ShinsuYavi 2 Scorpiator 0
+Taxi 0 Food -1
+JCubez 0 Ron Diesel -1
+Crip 2 ShinsuYavi 0
+Taxi 0 Peon -1
+JCubez 2 Scorpiator 0
+Dynamic 0 Food -1
+Crip 2 Taxi 0
+JCubez 2 ShinsuYavi 0
+Dynamic 0 Peon -1
+Food 0 Ron Diesel -1
+Crip 2 JCubez 0
+Dynamic 2 Taxi 0
+Peon 0 Ron Diesel -1
+Scorpiator 0 Food -1
+Crip 2 Dynamic 0
+Taxi 0 Ron Diesel -1
+ShinsuYavi 0 Food -1
+Scorpiator 0 Peon -1
+Woley 2 Itches 0
+Coupkey 2 The Royal Royce 0
+PsychoWaffle 2 Hamer 0
+Walrus 2 Meatbeef 0
+Napkin 2 Itches 0
+Woley 2 PsychoWaffle 0
+Coupkey 2 Meatbeef 0
+Walrus 2 Hamer 0
+Napkin 2 The Royal Royce 0
+PsychoWaffle 2 Itches 0
+Woley 2 Walrus 0
+Coupkey 2 Hamer 0
+Napkin 2 PsychoWaffle 0
+Meatbeef 2 The Royal Royce 0
+Walrus 2 Itches 0
+Woley 2 Coupkey 1
+Napkin 2 Meatbeef 0
+Walrus 2 PsychoWaffle 0
+Hamer 2 The Royal Royce 1
+Coupkey 2 Itches 0
+Napkin 2 Walrus 0
+Hamer 2 Meatbeef 0
+Coupkey 2 PsychoWaffle 0
+Woley 2 The Royal Royce 0
+Napkin 2 Hamer 0
+Walrus 2 Coupkey 1
+Woley 2 Meatbeef 0
+The Royal Royce 2 Itches 1
+Napkin 2 Coupkey 0
+Woley 2 Hamer 0
+Meatbeef 2 Itches 0
+PsychoWaffle 2 The Royal Royce 0
+Napkin 2 Woley 0
+Hamer 2 Itches 0
+Walrus 2 The Royal Royce 0
+PsychoWaffle 2 Meatbeef 0
+Mingee 2 Little Bucket 0
+Treetz 2 Karils 0
+Mikey B 2 Owlnips 0
+Led Free 2 Rich 0
+Mingee 2 Karils 0
+Owlnips 2 Little Bucket 1
+Treetz 2 Rich 0
+Mikey B 2 Led Free 1
+Mingee 2 Owlnips 0
+Rich 2 Karils 1
+Led Free 2 Little Bucket 0
+Treetz 2 Mikey B 1
+Mingee 2 Rich 0
+Led Free 2 Owlnips 0
+Karils 2 Mikey B 1
+Treetz 2 Little Bucket 0
+Mingee 2 Led Free 0
+Mikey B 2 Rich 0
+Treetz 2 Owlnips 0
+Karils 2 Little Bucket 0
+Mingee 2 Mikey B 0
+Treetz 2 Led Free 0
+Rich 2 Little Bucket 0
+Karils 2 Owlnips 0
+Mingee 2 Treetz 0
+Mikey B 2 Little Bucket 0
+Led Free 2 Karils 0
+Rich 2 Owlnips 0
+Hunt 2 Mingee 0
+Mules 2 Mingee 1
+Led Free 2 Coupkey 0
+JCubez 2 JoeBigs 0
+Stitchface 2 skate 0
+Mules 2 Artificial Flavour 1
+ctrlaltdefeat 2 Mules 1
+Mules 2 808 0
+MinorThreat 0 Ant -1
+THuGz 3 i4n 2
+i4n 2 808 0
+i4n 2 zbet 0
+Heartstrings 2 ctrlaltdefeat 1
+Heartstrings 2 IDCrisis 1
+Heartstrings 2 CAM 1
+Heartstrings 3 Skigh 0
+Nexic 2 Mules 1
+Nexic 2 Datrooph 0
+Artificial Flavour 2 Yogi Backair 0
+Hunt 2 JustMatt 1
+SuperMegaWalrus 2 Hunt 0
+Taxi 0 2Shadez -1
+i4n 2 ctrlaltdefeat 0
+ctrlaltdefeat 2 Datrooph 0
+ctrlaltdefeat 2 THuGz 0
+Carnage 2 BreachiN 1
+IDCrisis 2 Dynamic 0
+IDCrisis 2 Sheep 1
+zbet 2 IDCrisis 1
+Napkin 2 i4n 0
+Napkin 3 Heartstrings 1
+Crip 3 Napkin 0
+Napkin 2 THuGz 1
+Napkin 2 Egg 1
+Dynamic 2 Yogi Backair 1
+THuGz 2 JU4N 0
+THuGz 2 Iron 1
+Datrooph 2 Stitchface 1
+SuperMegaWalrus 2 Luxy 0
+808 2 SuperMegaWalrus 0
+Ekiele 2 Duo 1
+2Shadez 2 Ekiele 1
+Coupkey 2 Led Free 0
+Morsecode762 3 Napkin 0
+Morsecode762 2 THuGz 0
+Morsecode762 3 Tran 2
+Morsecode762 2 Sheep 0
+Morsecode762 2 SuperMegaWalrus 0
+Yogi Backair 2 Moment 0
+Hunt 2 Treetz 1
+Treetz 2 Durmain 1
+JU4N 2 Nexic 1
+JU4N 2 2Shadez 1
+Skigh 2 JU4N 0
+JU4N 2 Woley 0
+Ray 2 NPV 0
+Datrooph 2 Ray 0
+Hunt 2 Kuyashi 0
+THuGz 2 Kuyashi 1
+Tran 2 Nexic 0
+Morsecode762 3 Tran 1
+Tran 3 Crip 1
+Tran 3 Crip 2
+Tran 2 Skigh 1
+Tran 2 Oven 0
+Oven 2 CAM 0
+2Shadez 2 MinorThreat 1
+THuGz 2 2Shadez 0
+Dynamic 2 Oven 0
+Oven 2 Koleslawing 0
+Sheep 2 Carnage 0
+Sheep 2 Paul 1
+Crip 2 Heartstrings 1
+Crip 3 THuGz 0
+Crip 2 Treetz 0
+Crip 2 Mules 1
+Hunt 2 Coupkey 0
+Durmain 2 Coleslaw 0
+THuGz 2 Woley 0
+Skigh 2 Hunt 1
+Skigh 2 SuperMegaWalrus 0
+zbet 2 Led Free 0
+Kuyashi 2 zbet 0
+zbet 2 Iron 0
+SuperMegaWalrus 2 Dynamic 0
+Iron 2 JCubez 0
+Paul 2 REKT 1
+Woley 2 Hunt 1
+Woley 0 Taxi -1
+Ekiele 2 Egg 1
+Carnage 2 DueL 0
+SuperMegaWalrus 2 DueL 0
+zbet 2 Mules 1
+Ray 2 Oven 1
+Datrooph 2 Zodiac 0
+Papyrus 2 Cappy 0
+Joka 2 Omni 0
+Vaatu 2 E-N 0
+Cobab 2 Snowman 1
+Datrooph 2 Cappy 0
+Zodiac 2 Omni 1
+Papyrus 2 E-N 0
+Joka 2 Snowman 0
+Cobab 2 Vaatu 1
+Datrooph 2 Omni 0
+E-N 2 Cappy 0
+Zodiac 2 Snowman 1
+Papyrus 2 Cobab 0
+Joka 2 Vaatu 0
+Datrooph 2 E-N 0
+Omni 2 Snowman 1
+Cobab 2 Cappy 0
+Vaatu 2 Zodiac 0
+Papyrus 2 Joka 1
+Datrooph 2 Snowman 0
+Cobab 2 E-N 0
+Vaatu 2 Omni 0
+Joka 2 Cappy 0
+Papyrus 2 Zodiac 0
+Cobab 2 Datrooph 1
+Vaatu 2 Snowman 1
+Joka 2 E-N 0
+Papyrus 2 Omni 0
+Zodiac 2 Cappy 0
+Datrooph 2 Vaatu 0
+Joka 2 Cobab 1
+Papyrus 2 Snowman 0
+Zodiac 2 E-N 1
+Omni 2 Cappy 0
+Joka 2 Datrooph 1
+Papyrus 2 Vaatu 0
+Cobab 2 Zodiac 0
+Snowman 2 Cappy 0
+Omni 2 E-N 0
+Papyrus 2 Datrooph 1
+Joka 2 Zodiac 0
+Vaatu 2 Cappy 0
+Cobab 2 Omni 0
+Snowman 2 E-N 0
+Kuyashi 2 Thinking Man 0
+DueL 2 BigJoe 0
+Carnage 2 wonderrbread 0
+Jonah 0 BreachiN -1
+Bad Horse 0 XP -1
+Kuyashi 2 BigJoe 1
+Thinking Man 2 wonderrbread 0
+DueL 2 Jonah 0
+Bad Horse 2 Carnage 1
+XP 0 BreachiN -1
+Kuyashi 2 wonderrbread 0
+BigJoe 2 Jonah 0
+Bad Horse 2 Thinking Man 0
+DueL 0 XP -1
+Carnage 0 BreachiN -1
+Kuyashi 2 Jonah 0
+Bad Horse 2 wonderrbread 0
+BigJoe 0 XP -1
+Thinking Man 0 BreachiN -1
+DueL 2 Carnage 1
+Kuyashi 2 Bad Horse 0
+Jonah 0 XP -1
+wonderrbread 0 BreachiN -1
+Carnage 2 BigJoe 1
+DueL 2 Thinking Man 0
+Kuyashi 0 XP -1
+Bad Horse 0 BreachiN -1
+Carnage 2 Jonah 0
+DueL 2 wonderrbread 0
+BigJoe 2 Thinking Man 0
+Kuyashi 0 BreachiN -1
+Carnage 0 XP -1
+DueL 2 Bad Horse 0
+Thinking Man 2 Jonah 0
+BigJoe 2 wonderrbread 0
+Kuyashi 2 Carnage 0
+DueL 0 BreachiN -1
+Thinking Man 0 XP -1
+Bad Horse 2 BigJoe 1
+wonderrbread 2 Jonah 0
+DueL 2 Kuyashi 0
+Carnage 2 Thinking Man 0
+BigJoe 0 BreachiN -1
+wonderrbread 0 XP -1
+Bad Horse 2 Jonah 0
+Magicubed 2 Gorx 0
+JCubez 2 Mushy 0
+Luxy 2 Dirty Socks 0
+Coin 2 NKDK 0
+Ryko 0 absynthe -1
+Magicubed 2 Mushy 0
+Gorx 2 Dirty Socks 0
+JCubez 2 NKDK 0
+Luxy 0 absynthe -1
+Coin 2 Ryko 1
+Magicubed 2 Dirty Socks 0
+NKDK 2 Mushy 0
+Gorx 0 absynthe -1
+JCubez 2 Ryko 0
+Luxy 2 Coin 0
+Magicubed 2 NKDK 0
+Dirty Socks 0 absynthe -1
+Mushy 2 Ryko 1
+Coin 2 Gorx 0
+JCubez 2 Luxy 0
+Magicubed 0 absynthe -1
+Ryko 2 NKDK 0
+Coin 2 Dirty Socks 0
+Luxy 2 Mushy 0
+JCubez 2 Gorx 0
+Magicubed 2 Ryko 0
+Coin 0 absynthe -1
+Luxy 2 NKDK 0
+JCubez 2 Dirty Socks 0
+Mushy 2 Gorx 0
+Magicubed 2 Coin 0
+Luxy 2 Ryko 0
+JCubez 0 absynthe -1
+NKDK 2 Gorx 1
+Mushy 2 Dirty Socks 0
+Magicubed 2 Luxy 0
+JCubez 2 Coin 1
+Ryko 2 Gorx 0
+Mushy 0 absynthe -1
+NKDK 2 Dirty Socks 0
+JCubez 2 Magicubed 1
+Luxy 2 Gorx 0
+Coin 2 Mushy 0
+Ryko 2 Dirty Socks 0
+NKDK 0 absynthe -1
+JU4N 2 Moon Man 0
+Dynamic 2 Apasher 0
+Rich 2 juiceboy 0
+L7 2 JoeBigs 0
+Action Master 2 superbagel 0
+JU4N 2 Apasher 0
+juiceboy 2 Moon Man 0
+Dynamic 2 L7 0
+Rich 2 superbagel 0
+Action Master 2 JoeBigs 1
+JU4N 2 juiceboy 1
+L7 2 Apasher 0
+Moon Man 2 superbagel 0
+Dynamic 2 Action Master 0
+Rich 2 JoeBigs 0
+JU4N 2 L7 0
+juiceboy 2 superbagel 0
+Action Master 2 Apasher 1
+JoeBigs 2 Moon Man 0
+Dynamic 2 Rich 0
+JU4N 2 superbagel 0
+L7 2 Action Master 0
+juiceboy 2 JoeBigs 1
+Rich 2 Apasher 0
+Dynamic 2 Moon Man 0
+JU4N 2 Action Master 0
+JoeBigs 2 superbagel 0
+L7 2 Rich 1
+Dynamic 2 juiceboy 0
+Moon Man 2 Apasher 0
+JU4N 2 JoeBigs 0
+Rich 2 Action Master 0
+Dynamic 2 superbagel 0
+Moon Man 2 L7 0
+juiceboy 2 Apasher 0
+JU4N 2 Rich 0
+Dynamic 2 JoeBigs 0
+Moon Man 2 Action Master 1
+superbagel 2 Apasher 0
+juiceboy 2 L7 0
+Dynamic 2 JU4N 1
+Rich 2 Moon Man 0
+JoeBigs 2 Apasher 0
+Action Master 2 juiceboy 1
+L7 2 superbagel 0
+Burlap 2 Scoot 0
+Scoot 2 uGuize 0
+Stones 2 Scoot 0
+Scoot 2 Bobo 0
+Burlap 2 stif 0
+Burlap 2 TrailMix 0
+Burlap 2 Stones 0
+Burlap 2 Bobo 0
+Scoot 2 stif 0
+stif 2 Cujo 0
+stif 2 uGuize 0
+Treetz 2 stif 0
+Scoot 2 Cujo 1
+Burlap 2 Cujo 0
+Cujo 2 uGuize 0
+Stones 2 Cujo 0
+Scoot 2 TrailMix 0
+stif 2 TrailMix 0
+TrailMix 2 Cujo 1
+Treetz 2 TrailMix 0
+Burlap 2 uGuize 0
+uGuize 2 TrailMix 0
+Stones 2 uGuize 0
+uGuize 2 Bobo 0
+Skigh 2 Scoot 1
+Burlap 2 Skigh 0
+Skigh 2 stif 0
+Skigh 2 Cujo 0
+Skigh 2 TrailMix 0
+Skigh 2 uGuize 0
+Skigh 2 Treetz 1
+Skigh 2 Stones 0
+Skigh 2 Bobo 0
+Treetz 2 Scoot 0
+Burlap 2 Treetz 1
+Treetz 2 Cujo 0
+Treetz 2 uGuize 0
+Stones 2 stif 1
+Stones 2 TrailMix 0
+Treetz 2 Stones 0
+Stones 2 Bobo 0
+stif 2 Bobo 0
+Cujo 2 Bobo 0
+TrailMix 2 Bobo 0
+Treetz 2 Bobo 0
+Tran 2 VesselinTime 0
+Stitchface 0 Boero -1
+Paul 0 Rosilius -1
+Paco 2 Mufasa 0
+RyanGG 2 BEEL 0
+Tran 0 Boero -1
+VesselinTime 0 Rosilius -1
+Stitchface 2 Mufasa 0
+Paul 2 BEEL 0
+RyanGG 2 Paco 0
+Tran 0 Rosilius -1
+Mufasa 0 Boero -1
+VesselinTime 2 BEEL 0
+Stitchface 2 RyanGG 0
+Paul 2 Paco 0
+Tran 2 Mufasa 0
+BEEL 0 Rosilius -1
+RyanGG 0 Boero -1
+VesselinTime 2 Paco 1
+Paul 2 Stitchface 1
+Tran 2 BEEL 0
+RyanGG 2 Mufasa 0
+Paco 0 Rosilius -1
+Paul 0 Boero -1
+Stitchface 2 VesselinTime 0
+Tran 2 RyanGG 0
+Paco 2 BEEL 0
+Paul 2 Mufasa 0
+Stitchface 0 Rosilius -1
+VesselinTime 0 Boero -1
+Tran 2 Paco 0
+Paul 2 RyanGG 0
+Stitchface 2 BEEL 0
+VesselinTime 2 Mufasa 0
+Boero 0 Rosilius -1
+Tran 2 Paul 0
+Paco 2 Stitchface 1
+RyanGG 2 VesselinTime 1
+BEEL 0 Boero -1
+Mufasa 0 Rosilius -1
+Tran 2 Stitchface 0
+Paul 2 VesselinTime 1
+Paco 0 Boero -1
+RyanGG 0 Rosilius -1
+Mufasa 2 BEEL 1
+2Shadez 2 U OK? 0
+Mars 2 Captain Kush 0
+Psythr 2 Sasquatch 0
+Noro 2 GMAN 1
+Napkin 2 U OK? 0
+2Shadez 2 Sasquatch 0
+Mars 2 GMAN 0
+Noro 2 Psythr 0
+Napkin 2 Captain Kush 0
+Sasquatch 2 U OK? 0
+2Shadez 2 Noro 0
+Mars 2 Psythr 0
+Napkin 2 Sasquatch 0
+GMAN 2 Captain Kush 0
+Noro 2 U OK? 0
+2Shadez 2 Mars 0
+Napkin 2 GMAN 0
+Noro 2 Sasquatch 0
+Psythr 2 Captain Kush 0
+Mars 2 U OK? 0
+Napkin 2 Noro 0
+GMAN 2 Psythr 1
+Mars 2 Sasquatch 0
+2Shadez 2 Captain Kush 0
+Napkin 2 Psythr 0
+Mars 2 Noro 0
+2Shadez 2 GMAN 1
+Captain Kush 2 U OK? 1
+Napkin 2 Mars 1
+2Shadez 2 Psythr 1
+GMAN 2 U OK? 0
+Sasquatch 2 Captain Kush 0
+Napkin 2 2Shadez 0
+Psythr 2 U OK? 0
+Noro 2 Captain Kush 0
+GMAN 2 Sasquatch 0
+Heartstrings 2 Zimmer 0
+Goonsquad 2 Banana Fiend 0
+Oven 2 RobotSword 0
+Sacredtwin 2 Jackie 0
+Aiya 2 L3375 0
+Heartstrings 2 Banana Fiend 0
+Zimmer 2 RobotSword 0
+Goonsquad 2 Sacredtwin 1
+Oven 2 L3375 0
+Aiya 2 Jackie 1
+Heartstrings 2 RobotSword 0
+Sacredtwin 2 Banana Fiend 0
+L3375 2 Zimmer 0
+Goonsquad 2 Aiya 1
+Oven 2 Jackie 1
+Heartstrings 2 Sacredtwin 0
+L3375 2 RobotSword 0
+Aiya 2 Banana Fiend 0
+Jackie 2 Zimmer 0
+Goonsquad 2 Oven 0
+Heartstrings 2 L3375 0
+Sacredtwin 2 Aiya 1
+Jackie 2 RobotSword 0
+Oven 2 Banana Fiend 0
+Goonsquad 2 Zimmer 0
+Heartstrings 2 Aiya 0
+Jackie 2 L3375 0
+Oven 2 Sacredtwin 0
+Goonsquad 2 RobotSword 0
+Zimmer 2 Banana Fiend 0
+Heartstrings 2 Jackie 0
+Oven 2 Aiya 1
+Goonsquad 2 L3375 0
+Sacredtwin 2 Zimmer 0
+RobotSword 2 Banana Fiend 0
+Heartstrings 2 Oven 1
+Goonsquad 2 Jackie 0
+Aiya 2 Zimmer 0
+L3375 2 Banana Fiend 0
+Sacredtwin 2 RobotSword 0
+Heartstrings 2 Goonsquad 0
+Oven 2 Zimmer 0
+Jackie 2 Banana Fiend 0
+Aiya 2 RobotSword 0
+Sacredtwin 2 L3375 0
+i4n 0 drill -1
+MajinJoseph 2 Little Bucket 0
+Rildom 0 wrenches -1
+248 2 Kenpachi 0
+Shark 2 Senahue 1
+i4n 2 Little Bucket 0
+Rildom 0 drill -1
+MajinJoseph 2 Kenpachi 0
+Senahue 0 wrenches -1
+Shark 2 248 1
+i4n 2 Rildom 0
+Little Bucket 2 Kenpachi 1
+Senahue 0 drill -1
+MajinJoseph 2 Shark 0
+248 0 wrenches -1
+i4n 2 Kenpachi 0
+Senahue 2 Rildom 0
+Shark 2 Little Bucket 0
+248 0 drill -1
+MajinJoseph 0 wrenches -1
+i4n 2 Senahue 0
+Shark 2 Kenpachi 0
+248 2 Rildom 0
+Little Bucket 0 wrenches -1
+MajinJoseph 0 drill -1
+i4n 2 Shark 0
+248 2 Senahue 0
+Kenpachi 0 wrenches -1
+MajinJoseph 2 Rildom 0
+Little Bucket 0 drill -1
+i4n 2 248 0
+Shark 0 wrenches -1
+MajinJoseph 2 Senahue 0
+Kenpachi 0 drill -1
+Rildom 2 Little Bucket 1
+i4n 0 wrenches -1
+MajinJoseph 2 248 0
+Shark 0 drill -1
+Little Bucket 2 Senahue 1
+Rildom 2 Kenpachi 1
+i4n 2 MajinJoseph 0
+wrenches 0 drill -1
+248 2 Little Bucket 0
+Shark 2 Rildom 0
+Kenpachi 2 Senahue 1
+Sheep 2 phlops 0
+Duo 2 Jack 0
+m8land 2 b4g3l 0
+Pillars 2 ODB 0
+Parzival 2 phlops 0
+Sheep 2 b4g3l 0
+Duo 2 Pillars 0
+m8land 2 ODB 0
+Parzival 2 Jack 0
+phlops 2 b4g3l 1
+Sheep 2 ODB 1
+m8land 2 Duo 1
+Parzival 2 b4g3l 0
+Pillars 2 Jack 0
+ODB 2 phlops 0
+Sheep 2 Duo 0
+Parzival 2 Pillars 1
+ODB 2 b4g3l 0
+m8land 2 Jack 0
+Duo 2 phlops 0
+Parzival 2 ODB 0
+m8land 2 Pillars 1
+Duo 2 b4g3l 0
+Sheep 2 Jack 0
+Parzival 2 m8land 0
+Duo 2 ODB 0
+Sheep 2 Pillars 0
+Jack 2 phlops 0
+Parzival 2 Duo 1
+Sheep 2 m8land 0
+Pillars 2 phlops 0
+Jack 2 b4g3l 1
+Sheep 2 Parzival 0
+m8land 2 phlops 0
+ODB 2 Jack 0
+Pillars 2 b4g3l 0
+Lange 2 jhaps1217 1
+techboy 0 DyMg -1
+Koleslawing 2 LW13 0
+D_Lidz 2 Scoops™ 0
+Crip 2 jhaps1217 0
+Lange 2 LW13 0
+techboy 2 Scoops™ 0
+D_Lidz 2 Koleslawing 1
+Crip 0 DyMg -1
+jhaps1217 2 LW13 0
+Lange 2 D_Lidz 0
+techboy 2 Koleslawing 0
+Crip 2 LW13 0
+Scoops™ 0 DyMg -1
+D_Lidz 2 jhaps1217 0
+techboy 2 Lange 1
+Crip 2 Scoops™ 0
+LW13 2 D_Lidz 1
+Koleslawing 0 DyMg -1
+techboy 2 jhaps1217 0
+Crip 2 D_Lidz 0
+Koleslawing 2 Scoops™ 0
+techboy 2 LW13 0
+Lange 0 DyMg -1
+Crip 2 Koleslawing 0
+techboy 2 D_Lidz 0
+Lange 2 Scoops™ 1
+jhaps1217 0 DyMg -1
+Crip 2 techboy 0
+Lange 2 Koleslawing 0
+jhaps1217 2 Scoops™ 0
+LW13 0 DyMg -1
+Crip 2 Lange 0
+Koleslawing 2 jhaps1217 1
+D_Lidz 0 DyMg -1
+LW13 2 Scoops™ 1
+Woley 2 Owlnips 0
+rodohk 2 Smalls 0
+Pepsi 2 Zaps 0
+Hack 2 dVa d. 0
+IDCrisis 2 Owlnips 0
+Woley 2 Zaps 0
+rodohk 2 dVa d. 0
+Pepsi 2 Hack 1
+IDCrisis 2 Smalls 0
+Owlnips 2 Zaps 0
+Woley 2 Hack 0
+Pepsi 2 rodohk 0
+IDCrisis 2 Zaps 0
+Smalls 2 dVa d. 1
+Hack 2 Owlnips 0
+Woley 2 rodohk 0
+IDCrisis 2 dVa d. 0
+Hack 2 Zaps 1
+Pepsi 2 Smalls 0
+rodohk 2 Owlnips 0
+IDCrisis 2 Hack 0
+Pepsi 2 dVa d. 0
+rodohk 2 Zaps 0
+Woley 2 Smalls 0
+IDCrisis 2 Pepsi 0
+rodohk 2 Hack 0
+Woley 2 dVa d. 0
+Smalls 2 Owlnips 0
+IDCrisis 2 rodohk 0
+Woley 2 Pepsi 1
+Owlnips 2 dVa d. 0
+Zaps 2 Smalls 0
+IDCrisis 2 Woley 0
+Pepsi 2 Owlnips 0
+Hack 2 Smalls 0
+Zaps 2 dVa d. 0
+Paz 2 Nu~13 0
+999 2 NPV 0
+skate 0 HighDef -1
+Fija 0 MarbleBlaster -1
+Colony 0 Fire -1
+Paz 2 NPV 0
+Nu~13 0 HighDef -1
+999 0 MarbleBlaster -1
+skate 0 Fire -1
+Fija 2 Colony 0
+Paz 0 HighDef -1
+NPV 0 MarbleBlaster -1
+Nu~13 0 Fire -1
+999 2 Colony 0
+skate 2 Fija 0
+Paz 0 MarbleBlaster -1
+HighDef 0 Fire -1
+NPV 2 Colony 0
+Fija 2 Nu~13 0
+999 2 skate 0
+Paz 0 Fire -1
+Colony 0 MarbleBlaster -1
+Fija 0 HighDef -1
+skate 2 NPV 1
+999 2 Nu~13 0
+Paz 2 Colony 0
+Fija 0 Fire -1
+skate 0 MarbleBlaster -1
+999 0 HighDef -1
+Nu~13 2 NPV 0
+Paz 2 Fija 0
+Colony 2 skate 0
+999 0 Fire -1
+Nu~13 0 MarbleBlaster -1
+NPV 0 HighDef -1
+Paz 2 skate 0
+999 2 Fija 0
+Nu~13 2 Colony 1
+NPV 0 Fire -1
+HighDef 0 MarbleBlaster -1
+999 2 Paz 1
+Nu~13 2 skate 0
+Fija 2 NPV 0
+Colony 0 HighDef -1
+MarbleBlaster 0 Fire -1
+Liam_Butler 2 BRANDO 0
+S2j 2 Bushels 0
+Ceephax 2 Vader 0
+Shanahan 2 help 0
+TopTierRamen 2 YungBitch 1
+Liam_Butler 2 Bushels 0
+BRANDO 2 Vader 0
+S2j 2 help 0
+Ceephax 2 YungBitch 0
+Shanahan 2 TopTierRamen 0
+Liam_Butler 2 Vader 0
+Bushels 2 help 0
+BRANDO 2 YungBitch 0
+S2j 2 TopTierRamen 0
+Shanahan 2 Ceephax 0
+Liam_Butler 2 help 0
+YungBitch 2 Vader 0
+TopTierRamen 2 Bushels 1
+Shanahan 2 BRANDO 0
+Ceephax 2 S2j 0
+Liam_Butler 2 YungBitch 0
+TopTierRamen 2 help 0
+Shanahan 2 Vader 0
+Ceephax 2 Bushels 0
+S2j 2 BRANDO 1
+Liam_Butler 2 TopTierRamen 0
+Shanahan 2 YungBitch 0
+Ceephax 2 help 0
+S2j 2 Vader 0
+BRANDO 2 Bushels 1
+Liam_Butler 2 Shanahan 0
+Ceephax 2 TopTierRamen 0
+S2j 2 YungBitch 1
+BRANDO 2 help 1
+Bushels 2 Vader 0
+Liam_Butler 2 Ceephax 0
+Shanahan 2 S2j 0
+BRANDO 2 TopTierRamen 1
+YungBitch 2 Bushels 1
+Vader 2 help 0
+Liam_Butler 2 S2j 0
+Ceephax 2 BRANDO 0
+Shanahan 2 Bushels 0
+TopTierRamen 2 Vader 0
+YungBitch 2 help 0
+Nexic 2 monkeyzz 0
+Hunt 2 Scorpiator 0
+Fancy 0 Elm -1
+JWinks 2 null 1
+Danko 2 ShinsuYavi 0
+Nexic 2 Scorpiator 0
+monkeyzz 0 Elm -1
+Hunt 2 null 0
+Danko 2 Fancy 0
+JWinks 2 ShinsuYavi 0
+Nexic 0 Elm -1
+null 2 Scorpiator 0
+Danko 2 monkeyzz 0
+Hunt 2 ShinsuYavi 1
+JWinks 2 Fancy 1
+Nexic 2 null 0
+Danko 0 Elm -1
+ShinsuYavi 2 Scorpiator 0
+JWinks 2 monkeyzz 0
+Hunt 2 Fancy 0
+Nexic 2 Danko 0
+null 2 ShinsuYavi 1
+JWinks 0 Elm -1
+Fancy 2 Scorpiator 0
+Hunt 2 monkeyzz 0
+Nexic 2 ShinsuYavi 1
+Danko 2 JWinks 0
+Fancy 2 null 0
+Hunt 0 Elm -1
+Scorpiator 2 monkeyzz 0
+Nexic 2 JWinks 0
+Fancy 2 ShinsuYavi 0
+Hunt 2 Danko 1
+null 2 monkeyzz 0
+Scorpiator 0 Elm -1
+Nexic 2 Fancy 0
+Hunt 2 JWinks 0
+ShinsuYavi 2 monkeyzz 0
+Danko 2 Scorpiator 0
+null 0 Elm -1
+Nexic 2 Hunt 0
+Fancy 2 monkeyzz 0
+JWinks 2 Scorpiator 0
+ShinsuYavi 0 Elm -1
+Danko 2 null 0
+Mingee 2 Cagnar 0
+Egg 2 ultrabob 0
+Walrus 2 Astronautical 0
+Yono 2 BickTrip 0
+Tequila 0 Peon -1
+Mingee 2 ultrabob 0
+Cagnar 2 Astronautical 1
+Egg 2 BickTrip 0
+Walrus 0 Peon -1
+Yono 2 Tequila 1
+Mingee 2 Astronautical 0
+ultrabob 2 BickTrip 0
+Cagnar 0 Peon -1
+Egg 2 Tequila 0
+Walrus 2 Yono 1
+Mingee 2 BickTrip 0
+Astronautical 0 Peon -1
+ultrabob 2 Tequila 1
+Yono 2 Cagnar 0
+Egg 2 Walrus 0
+Mingee 0 Peon -1
+BickTrip 2 Tequila 0
+Yono 2 Astronautical 0
+Walrus 2 ultrabob 0
+Egg 2 Cagnar 0
+Mingee 2 Tequila 0
+Yono 0 Peon -1
+Walrus 2 BickTrip 0
+Egg 2 Astronautical 0
+ultrabob 2 Cagnar 0
+Mingee 2 Yono 0
+Walrus 2 Tequila 0
+Egg 0 Peon -1
+BickTrip 2 Cagnar 0
+ultrabob 2 Astronautical 0
+Mingee 2 Walrus 0
+Yono 2 Egg 0
+Tequila 2 Cagnar 0
+ultrabob 0 Peon -1
+BickTrip 2 Astronautical 0
+Mingee 2 Egg 0
+Walrus 2 Cagnar 0
+Yono 2 ultrabob 0
+Tequila 2 Astronautical 0
+BickTrip 0 Peon -1
+Tran 2 Kuyashi 0
+Datrooph 2 Goonsquad 0
+Mingee 2 Dynamic 1
+Burlap 2 MajinJoseph 0
+Napkin 2 Parzival 0
+Nexic 2 techboy 0
+Liam_Butler 2 Woley 0
+Paz 2 JCubez 0
+Heartstrings 2 Papyrus 0
+DueL 2 Paul 0
+i4n 2 Treetz 0
+Dynamic 2 Egg 0
+Crip 2 Hunt 0
+Parzival 2 2Shadez 0
+Magicubed 2 999 0
+Shanahan 2 IDCrisis 1
+Tran 2 Datrooph 0
+Mingee 2 Burlap 0
+Nexic 2 Napkin 1
+Paz 2 Liam_Butler 0
+Heartstrings 2 DueL 0
+i4n 2 Dynamic 0
+Crip 2 Parzival 1
+Magicubed 2 Shanahan 0
+Mingee 2 Tran 1
+Nexic 2 Paz 0
+i4n 2 Heartstrings 1
+Crip 2 Magicubed 1
+Mingee 3 Nexic 1
+Crip 3 i4n 1
+Crip 3 Mingee 1
+Heartstrings 3 Crip 0
+Heartstrings 3 Crip 2
+Ceephax 2 Pepsi 1
+Luxy 2 Fija 0
+Duo 2 Mars 0
+Fancy 2 Koleslawing 0
+Walrus 2 JoeBigs 1
+Treetz 2 248 0
+Paul 2 BreachiN 1
+Cobab 2 Sacredtwin 1
+Coin 2 Fija 1
+Pepsi 2 Shanahan 1
+techboy 2 JWinks 0
+Duo 2 Noro 0
+wrenches 2 Stones 0
+Walrus 2 Rich 0
+Vaatu 2 Oven 1
+Carnage 2 Paco 0
+Kuyashi 2 Ceephax 1
+Goonsquad 2 Luxy 1
+Dynamic 2 Duo 0
+MajinJoseph 2 Fancy 0
+Parzival 2 Walrus 0
+techboy 2 Treetz 1
+Woley 2 Paul 1
+Cobab 2 JCubez 0
+Papyrus 2 Coin 0
+Paul 2 Pepsi 0
+Treetz 2 techboy 0
+Egg 2 Duo 1
+Hunt 2 wrenches 0
+Walrus 2 2Shadez 1
+999 2 Vaatu 1
+IDCrisis 2 Carnage 0
+Goonsquad 2 Kuyashi 1
+MajinJoseph 2 Dynamic 1
+techboy 2 Parzival 0
+Woley 2 Cobab 0
+Papyrus 2 Paul 0
+Egg 2 Treetz 1
+Hunt 2 Walrus 1
+999 2 IDCrisis 1
+Shanahan 2 Goonsquad 1
+Parzival 2 MajinJoseph 0
+techboy 2 Dynamic 1
+Woley 2 DueL 0
+Papyrus 2 Liam_Butler 1
+Napkin 2 Egg 0
+Hunt 2 Burlap 1
+Datrooph 2 999 0
+Parzival 2 Shanahan 1
+techboy 2 Woley 0
+Papyrus 2 Napkin 1
+Datrooph 2 Hunt 1
+Parzival 2 Paz 0
+techboy 2 Tran 1
+Magicubed 2 Papyrus 0
+Heartstrings 2 Datrooph 0
+Parzival 3 techboy 0
+Heartstrings 3 Magicubed 1
+i4n 3 Parzival 2
+Heartstrings 3 Nexic 0
+Heartstrings 3 i4n 1
+Heartstrings 3 Mingee 1
+Yumpod 0 Nonner -1
+Krump 0 Hollywood -1
+REKT None Psy None
+Rasto None Thinking Man None
+TheChosenJuan None techboy None
+Wreckening 0 Toast -1
+Freky None Jasper None
+Queue None Wasted None
+Skey None Sireddie None
+Durmain None Un0 None
+Crip None Airspade None
+ADKnight None Astynax None
+Treetz 0 hikaritenchi -1
+Joka None 808 None
+Beach None Yumpod None
+REKT None Krump None
+Rasto None TheChosenJuan None
+Freky None Wreckening None
+1der None Queue None
+Skey None Durmain None
+Crip None ADKnight None
+Treetz None Joka None
+Beach None REKT None
+Freky None Rasto None
+1der None Skey None
+Crip None Treetz None
+Beach None Freky None
+Crip None 1der None
+Psy 0 Hollywood -1
+Thinking Man None techboy None
+Jasper 0 Toast -1
+Un0 None Sireddie None
+Astynax None Airspade None
+808 0 hikaritenchi -1
+Joka 0 Nonner -1
+ADKnight None Psy None
+Durmain None Thinking Man None
+Queue None Jasper None
+Wreckening None Wasted None
+TheChosenJuan None Un0 None
+Astynax None Krump None
+808 None Yumpod None
+ADKnight None Joka None
+Durmain None Queue None
+Wreckening None TheChosenJuan None
+808 None Astynax None
+Rasto None ADKnight None
+REKT None Durmain None
+Treetz None Wreckening None
+808 None Skey None
+Rasto None REKT None
+808 None Treetz None
+1der None Rasto None
+808 None Freky None
+JCubez 2 Neth 1
+Magicubed 2 RobotSword 0
+Cablebox 2 Paco 0
+Deep Fox 2 Modem 0
+WoK 2 Decaf 0
+Sheep 2 Supertramp 0
+Fire 2 ChillMilk 1
+Russell 2 Jackie 0
+Charlie 2 Astro 0
+CAM 2 Carnage 0
+401k 2 LilDoozie 0
+Ryejew 2 Isosceles 0
+Holiday 2 bicuriousgeorge 0
+Iron 2 Monk 0
+RoyTheRoyalBoy 2 SuperDong 0
+Ginger 2 JCubez 0
+Magicubed 2 Cablebox 1
+Deep Fox 2 WoK 0
+Sheep 2 Fire 0
+Russell 2 Charlie 0
+CAM 2 401k 0
+Ryejew 2 Holiday 0
+Iron 2 RoyTheRoyalBoy 0
+Magicubed 2 Ginger 1
+Deep Fox 2 Sheep 0
+Russell 2 CAM 1
+Iron 2 Ryejew 0
+Magicubed 2 Deep Fox 0
+Iron 2 Russell 1
+Paco 2 RobotSword 0
+Modem 2 Decaf 0
+Supertramp 2 ChillMilk 0
+Jackie 2 Astro 1
+Carnage 2 LilDoozie 0
+bicuriousgeorge 2 Isosceles 0
+Monk 2 SuperDong 0
+RoyTheRoyalBoy 2 Neth 0
+Holiday 2 Paco 0
+Modem 2 401k 0
+Charlie 2 Supertramp 1
+Jackie 2 Fire 0
+WoK 2 Carnage 1
+Cablebox 2 bicuriousgeorge 0
+JCubez 2 Monk 0
+Holiday 2 RoyTheRoyalBoy 0
+Modem 2 Charlie 1
+WoK 2 Jackie 1
+JCubez 2 Cablebox 1
+Sheep 2 Holiday 0
+Ginger 2 Modem 0
+Ryejew 2 WoK 0
+JCubez 2 CAM 0
+Ginger 2 Sheep 0
+Ryejew 2 JCubez 1
+Ginger 2 Russell 0
+Ryejew 2 Deep Fox 0
+Drew 0 Mishao -1
+Lange 2 a_wildpikachu 1
+Vaatu 2 Mars 1
+IDCrisis 2 Beetle 0
+Pops None Knight None
+Team Nick 2 Rich 0
+Kanye Rest 0 LEMON -1
+RyanGG None Advo None
+Coupkey 2 Gryphondoor 1
+Xam 2 chentai 0
+Heartstrings 0 Papa -1
+jhaps1217 2 MakVG 1
+Toadster 2 BRANDO 1
+opiatre 0 Tiggah -1
+Shady 2 Drew 0
+Lange 2 Vaatu 0
+IDCrisis 2 Pops 0
+Team Nick 2 Kanye Rest 0
+MB-Smash 2 RyanGG 0
+Coupkey 2 Xam 0
+Heartstrings 2 jhaps1217 0
+Toadster 2 opiatre 0
+Shady 2 Lange 0
+IDCrisis 2 Team Nick 0
+MB-Smash 2 Coupkey 0
+Heartstrings 2 Toadster 0
+Shady 2 IDCrisis 0
+MB-Smash 2 Heartstrings 1
+Mars 2 a_wildpikachu 0
+Beetle 2 Knight 0
+Rich 0 LEMON -1
+Gryphondoor 2 chentai 0
+MakVG 0 Papa -1
+BRANDO 0 Tiggah -1
+opiatre 0 Mishao -1
+Mars 2 jhaps1217 0
+Beetle 2 Xam 0
+RyanGG 2 Rich 0
+Kanye Rest 2 Advo 0
+Pops 2 Gryphondoor 0
+Vaatu None MakVG None
+BRANDO None Drew None
+Mars 2 opiatre 0
+Beetle 2 RyanGG 1
+Kanye Rest 2 Pops 0
+Vaatu 2 BRANDO 1
+Team Nick 2 Mars 0
+Lange 2 Beetle 0
+Kanye Rest 2 Toadster 0
+Coupkey 2 Vaatu 0
+Team Nick 2 Lange 0
+Kanye Rest 2 Coupkey 0
+Team Nick 2 Heartstrings 1
+IDCrisis 2 Kanye Rest 0
+Seraph 2 Led Free 0
+Led Free 2 Pyr0 0
+Led Free 2 Zephyr 0
+Cobb None Invader Slim None
+pururu 0 Pyr0 -1
+Sinon None CornCobKing None
+Seraph 2 Cobb 0
+Seraph None Goonsquad None
+Napkin 2 CornCobKing 0
+Napkin 2 Curl 0
+Napkin 2 Life 0
+Napkin 2 Village Mascot 1
+CPW 2 Bushels 0
+CPW None Curl None
+CPW None Starner None
+Sinon 2 Saiko 0
+RottenYogurt 2 pururu 0
+RottenYogurt None Zephyr None
+Curl None XP None
+Seraph 2 BigJoe 0
+Dynamic 2 Saiko 0
+Dynamic 2 jsmirk 0
+Dynamic 2 Ant 0
+Seraph 2 Life 0
+Life 2 CPW 1
+Life 2 Cornelius 0
+Saiko 2 XP 1
+Bushels None Smalls None
+Village Mascot 2 Led Free 0
+Village Mascot 2 pururu 0
+Village Mascot 2 CPW 0
+Village Mascot None Dynamic None
+Anther 2 Dynamic 0
+Anther 2 Smalls 0
+Anther 2 HoneyBaked 1
+Yoyo 2 Napkin 0
+Yoyo 2 RottenYogurt 0
+Yoyo 2 Goonsquad 0
+XP 2 jsmirk 1
+Ant 2 RottenYogurt 0
+Ant 2 BigJoe 0
+Ant 2 Invader Slim 0
+Sinon 2 Bushels 0
+Curl 2 Sinon 1
+HoneyBaked 2 Seraph 1
+HoneyBaked None Seraph None
+HoneyBaked None Village Mascot None
+HoneyBaked 2 Mapalo 0
+Goonsquad 2 Cobb 0
+Goonsquad 2 Ant 1
+Goonsquad 2 Sinon 1
+Bushels 2 Cornelius 1
+Smalls 2 Starner 0
+BigJoe 2 Mapalo 0
+GMAN 2 CoolJoe 1
+Stitchface None Zimmer None
+Haipa 2 Hamer 1
+JU4N 0 Jayrodd -1
+Zeit 2 ProNotes 0
+NotKain 2 JEPR 0
+Jerry 2 Karils 0
+Sasquatch 0 Scoops™ -1
+Oven 2 crimson 0
+Gemini 2 NPV 0
+Quang 2 Darioshy 0
+Duo 0 E Click -1
+2Shadez None Danko None
+ShinsuYavi 2 hobo1104 0
+Juggleguy 2 GMAN 0
+Stitchface 2 Haipa 0
+JU4N 2 Zeit 0
+Jerry 2 NotKain 0
+Paper 2 Sasquatch 0
+Gemini 2 Oven 0
+Quang 2 Duo 0
+2Shadez None ShinsuYavi None
+Juggleguy 2 Stitchface 1
+Jerry 2 JU4N 0
+Paper 2 Gemini 0
+Quang 2 2Shadez 0
+Juggleguy 2 Jerry 0
+Quang 2 Paper 1
+Hamer 0 Zimmer -1
+ProNotes 0 Jayrodd -1
+Karils 2 JEPR 0
+NPV 2 crimson 0
+Darioshy 0 E Click -1
+Danko None hobo1104 None
+ShinsuYavi 2 CoolJoe 0
+Duo 2 Hamer 1
+Oven 2 ProNotes 0
+Karils None Sasquatch None
+NotKain 0 Scoops™ -1
+NPV 2 Zeit 0
+Haipa 2 Darioshy 0
+GMAN None Danko None
+Duo 2 ShinsuYavi 0
+Oven 2 Karils 1
+NotKain 2 NPV 0
+GMAN 2 Haipa 0
+JU4N None Duo None
+Oven None Stitchface None
+2Shadez None NotKain None
+Gemini None GMAN None
+JU4N None Oven None
+Gemini None 2Shadez None
+Paper None JU4N None
+Gemini 2 Jerry 1
+MarbleBlaster 2 Banardo 0
+Pepsi 2 Quil 0
+PennySalem 2 EmceeCurtis 0
+Liam_Butler 2 Yung Sin 0
+Ekiele 2 Wartle 0
+Nexic 2 Coleslaw 0
+Phaedrus 2 Mozzarella 0
+Hellsing 2 Incredible 0
+AldenRJ 2 NoodleIncident 0
+PsychoWaffle 0 Corkus -1
+stif 2 thechinesenoob 0
+Cho 2 Action Master 0
+Cela 2 Never-Melt Ice 0
+Zetts 2 Dover 0
+B-Ryan 2 ANormalWolf 0
+Drephen 2 MarbleBlaster 0
+PennySalem 2 Pepsi 0
+Liam_Butler 2 Ekiele 0
+Nexic 2 Phaedrus 0
+Hellsing 2 AldenRJ 0
+PsychoWaffle 2 stif 0
+Cho 2 Cela 0
+Zetts 2 B-Ryan 0
+Drephen 2 PennySalem 0
+Nexic 2 Liam_Butler 0
+Hellsing 2 PsychoWaffle 0
+Cho 2 Zetts 1
+Drephen 2 Nexic 0
+Hellsing 2 Cho 1
+Quil 2 EmceeCurtis 0
+Yung Sin 2 Wartle 1
+Coleslaw 2 Mozzarella 0
+NoodleIncident 2 Incredible 0
+thechinesenoob 0 Corkus -1
+Action Master 2 Never-Melt Ice 0
+Dover 2 ANormalWolf 0
+B-Ryan 2 Banardo 0
+Cela 2 Quil 0
+stif 2 Yung Sin 1
+Coleslaw 2 AldenRJ 1
+NoodleIncident 2 Phaedrus 0
+Ekiele 2 thechinesenoob 0
+Pepsi 2 Action Master 0
+Dover 2 MarbleBlaster 0
+B-Ryan 2 Cela 0
+Coleslaw 2 stif 0
+NoodleIncident 2 Ekiele 0
+Pepsi 2 Dover 0
+Liam_Butler 2 B-Ryan 1
+PennySalem 2 Coleslaw 0
+Zetts 2 NoodleIncident 0
+Pepsi 2 PsychoWaffle 0
+Liam_Butler 2 PennySalem 1
+Zetts 2 Pepsi 0
+Cho 2 Liam_Butler 1
+Zetts 2 Nexic 0
+Ghostcookies None sidft None
+Garzal None NeXi None
+wrenches None Ness None
+Will None K. Tut None
+Ace None Raqqi None
+Parzival None NewGen None
+Lucid 0 Walrus -1
+Tran None Liquid None
+Nu~13 None YungZ None
+Hunt None Walrus None
+Jorb None GBHatch None
+Skigh None uGuize None
+COP CRUSHER None ODB None
+Mingee None BickTrip None
+Bubby 0 Rug -1
+Prince F. Abu None Ghostcookies None
+wrenches None Garzal None
+Will None Ace None
+Parzival None Lucid None
+Tran None Nu~13 None
+Jorb None Hunt None
+Skigh None COP CRUSHER None
+Mingee None Bubby None
+Prince F. Abu None wrenches None
+Will None Parzival None
+Tran None Jorb None
+Skigh None Mingee None
+Prince F. Abu None Will None
+Tran None Skigh None
+NeXi None Ness None
+K. Tut None Raqqi None
+NewGen None Walrus None
+Liquid None YungZ None
+Walrus None GBHatch None
+ODB None uGuize None
+BickTrip None Rug None
+Bubby None sidft None
+COP CRUSHER None NeXi None
+Hunt None K. Tut None
+Nu~13 None NewGen None
+Lucid None Liquid None
+Walrus None Ace None
+Garzal None ODB None
+Ghostcookies None BickTrip None
+COP CRUSHER None Bubby None
+Hunt None Nu~13 None
+Lucid None Walrus None
+Garzal None Ghostcookies None
+Parzival None COP CRUSHER None
+Hunt None wrenches None
+Mingee None Lucid None
+Jorb None Garzal None
+Parzival None Hunt None
+Mingee None Jorb None
+Parzival None Skigh None
+Will None Mingee None
+Cain 2 Prinnt 0
+Biff$$$$ 2 rodohk 0
+skate 0 Ron Diesel -1
+Dre 2 clickclack 0
+surf's up. hail satan. 0 drill -1
+Ferriswheel 2 Hydronium 0
+notMitch 2 Owlnips 1
+UrBoyGraham 2 Noodl-D 1
+The Brons Kneecap 2 BreachiN 0
+Scorpiator 0 Psythr -1
+i4n 2 Bron 0
+Burd 2 Mascolino 0
+SuperMegaWalrus 2 1DR? 0
+Papyrus 2 DoctaDredd 1
+Shaeden 2 Cain 0
+Biff$$$$ 2 skate 1
+surf's up. hail satan. 2 Dre 0
+Ferriswheel 2 notMitch 0
+tm 2 UrBoyGraham 0
+The Brons Kneecap 2 Scorpiator 0
+i4n 2 Burd 0
+SuperMegaWalrus 2 Papyrus 0
+Shaeden 2 Biff$$$$ 0
+surf's up. hail satan. 2 Ferriswheel 1
+tm 2 The Brons Kneecap 0
+SuperMegaWalrus 2 i4n 1
+Shaeden 2 surf's up. hail satan. 0
+tm 2 SuperMegaWalrus 0
+rodohk 0 Ron Diesel -1
+clickclack 0 drill -1
+Hydronium 2 Owlnips 0
+BreachiN 0 Psythr -1
+Bron 2 Mascolino 0
+1DR? 2 DoctaDredd 0
+Papyrus 2 Prinnt 0
+rodohk 2 Burd 0
+clickclack 2 Scorpiator 0
+UrBoyGraham 2 Hydronium 0
+notMitch 2 Noodl-D 0
+Dre 2 BreachiN 0
+skate 2 Bron 0
+Cain 2 1DR? 0
+Papyrus 2 rodohk 0
+UrBoyGraham 2 clickclack 0
+Dre 2 notMitch 0
+skate 2 Cain 0
+Ferriswheel 2 Papyrus 0
+UrBoyGraham 2 Biff$$$$ 0
+Dre 2 i4n 1
+The Brons Kneecap 2 skate 0
+Ferriswheel 2 UrBoyGraham 0
+Dre 2 The Brons Kneecap 1
+SuperMegaWalrus 2 Ferriswheel 1
+Dre 2 surf's up. hail satan. 1
+Prince F. Abu 2 Tran 0
+Juggleguy 2 Quang 0
+Shady 2 MB-Smash 1
+Shaeden 2 tm 0
+Iron 2 Magicubed 0
+Anther 2 Yoyo 0
+Drephen 2 Hellsing 0
+Crip 2 Beach 1
+Prince F. Abu 2 Juggleguy 1
+Shaeden 2 Shady 0
+Anther 2 Iron 0
+Drephen 2 Crip 1
+Prince F. Abu 3 Shaeden 0
+Drephen 3 Anther 1
+Prince F. Abu 3 Drephen 0
+Drephen 3 Prince F. Abu 1
+Drephen 3 Prince F. Abu 0
+1der 2 808 0
+Cho 2 Gemini 0
+Napkin 2 HoneyBaked 1
+Ginger 2 Ryejew 0
+SuperMegaWalrus 2 Dre 1
+Team Nick 2 Will 0
+Paper 2 Zetts 0
+IDCrisis 2 Parzival 0
+1der 2 tm 0
+Cho 2 MB-Smash 1
+Quang 2 Napkin 0
+Ginger 2 Tran 0
+Beach 2 SuperMegaWalrus 0
+Hellsing 2 Team Nick 1
+Paper 2 Yoyo 1
+IDCrisis 2 Magicubed 1
+1der 2 Cho 0
+Ginger 2 Quang 0
+Beach 2 Hellsing 1
+Paper 2 IDCrisis 0
+1der 2 Iron 1
+Ginger 2 Crip 0
+Beach 2 Juggleguy 0
+Shady 2 Paper 0
+Ginger 2 1der 0
+Shady 2 Beach 0
+Shaeden 3 Ginger 0
+Shady 3 Anther 1
+Shaeden 3 Shady 1
+Drephen 3 Shaeden 1
+The Brons Kneecap 2 MacDeezi 0
+Dr. Greenthumb 2 The Brons Kneecap 0
+The Brons Kneecap 2 Brum 0
+Gum None Ness None
+Dr. Greenthumb 2 Gum 0
+Gum 2 Tsundere 0
+IDCrisis 2 Kenpachi 0
+Stones 2 Kenpachi 0
+Russell 2 Gum 0
+Russell 2 Yogi Backair 0
+Russell 2 Stones 0
+808 2 Jammr 0
+Stones 2 Jammr 0
+IDCrisis 2 Dr. Greenthumb 0
+IDCrisis 2 Tsundere 0
+808 2 Shanondorf 0
+Kenpachi 2 MacDeezi 0
+Jammr 2 Dable 0
+Ginger 2 IDCrisis 0
+Ginger 2 808 0
+Ginger 2 Yogi Backair 0
+Shanondorf None Ness None
+Dr. Greenthumb 2 808 1
+Brum 2 Char 0
+Kenpachi None SuperMegaWalrus None
+Stones 2 Shanondorf 0
+Paper 2 Russell 0
+Paper 2 Dr. Greenthumb 0
+Paper 2 Brum 0
+Yogi Backair 2 The Brons Kneecap 0
+Yogi Backair 2 Dable 0
+Yogi Backair 2 Stones 0
+Tsundere 2 Char 0
+Tsundere None SuperMegaWalrus None
+Ekiele 2 L3375 0
+Ghostcookies 2 Anasazi 0
+Paco 2 StewBird 0
+Tetsu None MarbleBlaster None
+Drephen 2 Ekiele 0
+401k 2 Little Bucket 0
+Ghostcookies None Nexic None
+Vegeta 2 Rhythm 0
+MB-Smash 2 Paco 0
+ctrlaltdefeat 2 Invader Slim 0
+HoneyBaked 2 Tetsu 0
+Hunt 2 Wild Turkey 0
+Drephen 2 401k 0
+Vegeta 2 Ghostcookies 0
+MB-Smash 2 ctrlaltdefeat 0
+HoneyBaked 2 Hunt 0
+Drephen 2 Vegeta 0
+MB-Smash 2 HoneyBaked 1
+Wild Turkey 2 L3375 0
+Invader Slim 2 Anasazi 1
+StewBird 2 Rhythm 0
+Little Bucket None MarbleBlaster None
+Wild Turkey 2 Tetsu 0
+Paco None Invader Slim None
+StewBird 2 Nexic 0
+Ekiele 2 Little Bucket 0
+Wild Turkey 2 Ghostcookies 0
+401k 2 Paco 0
+Hunt 2 StewBird 0
+ctrlaltdefeat 2 Ekiele 0
+Wild Turkey 2 401k 0
+ctrlaltdefeat 2 Hunt 0
+HoneyBaked 2 Wild Turkey 0
+ctrlaltdefeat 2 Vegeta 1
+Sheebz 2 CrustL0rd 1
+Bad Horse 2 BJ 0
+Surskim None chentai None
+Christian 2 Cmurda 0
+Slyben 2 Bravoguy 0
+Duck 2 Sheebz 0
+Deep C. Squid 2 Psythr 0
+Treetz 2 Bad Horse 1
+DueL 2 Surskim 0
+Hellsing 2 Christian 0
+rodohk 2 Astro 1
+Slyben None The Oak None
+NotKain 2 DocT 0
+Duck 2 Deep C. Squid 0
+DueL 2 Treetz 0
+Hellsing 2 rodohk 0
+NotKain 2 Slyben 0
+Duck 2 DueL 0
+Hellsing 2 NotKain 0
+CrustL0rd 2 DocT 0
+Astro 2 BJ 0
+Christian None chentai None
+Cmurda 2 Surskim 1
+Psythr 2 Bravoguy 0
+CrustL0rd None The Oak None
+Christian None Astro None
+Bad Horse None Cmurda None
+Sheebz 2 Psythr 1
+Treetz 2 CrustL0rd 0
+Deep C. Squid None Christian None
+Bad Horse None Slyben None
+rodohk None Sheebz None
+Treetz None Deep C. Squid None
+rodohk None Bad Horse None
+Treetz 2 NotKain 0
+DueL None rodohk None
+BreachiN 2 Gobos 0
+Tavi 2 Gorx 1
+Kissy 2 CDay 0
+LilDoozie 2 SilentShadow 0
+KJH 2 BreachiN 0
+Coin 2 Hamer 0
+Will 2 Tavi 0
+Toadster 2 Sly 0
+Tran 2 Kissy 0
+luigimastertae None ShadowWolf None
+Rasto 2 LilDoozie 1
+Fancy 2 Nesbitt 0
+KJH 2 Coin 0
+Toadster 2 Will 0
+Tran 2 luigimastertae 0
+Rasto 2 Fancy 0
+KJH 2 Toadster 1
+Tran 2 Rasto 1
+Nesbitt 2 Gobos 0
+Gorx None ShadowWolf None
+CDay None Sly None
+SilentShadow None Hamer None
+Nesbitt 2 LilDoozie 1
+Kissy 2 Gorx 0
+Tavi 2 CDay 0
+SilentShadow 2 BreachiN 0
+Will 2 Nesbitt 0
+Coin 2 Kissy 0
+Fancy 2 Tavi 1
+luigimastertae 2 SilentShadow 0
+Will 2 Coin 0
+luigimastertae 2 Fancy 0
+Rasto 2 Will 1
+Toadster 2 luigimastertae 1
+UUUU 0 ShinsuYavi -1
+Dimz 2 Jabloinks 0
+Banardo None Varisia None
+ravedave 2 Baejke 0
+Shady 2 UUUU 0
+Tron 2 Doylesmash 0
+2Shadez 2 Dimz 0
+roki 2 Barcode 0
+tm 2 Banardo 0
+Hollywood 2 Scrub 0
+Ryejew 2 ravedave 0
+Goonsquad 2 Modus 0
+Shady 2 Tron 0
+roki 2 2Shadez 1
+tm 2 Hollywood 0
+Ryejew 2 Goonsquad 0
+Shady 2 roki 0
+tm 2 Ryejew 0
+Modus 0 ShinsuYavi -1
+Jabloinks 2 Scrub 0
+Barcode 2 Varisia 0
+Doylesmash 2 Baejke 0
+ravedave None Modus None
+Banardo 2 Jabloinks 1
+Dimz 2 Barcode 0
+Doylesmash 2 UUUU 0
+2Shadez 2 ravedave 0
+Tron 2 Banardo 0
+Goonsquad 2 Dimz 0
+Hollywood 2 Doylesmash 0
+2Shadez 2 Tron 0
+Goonsquad 2 Hollywood 1
+Ryejew 2 2Shadez 0
+roki 2 Goonsquad 0
+CoolJoe None Cagnar None
+Wind 2 B Millz 0
+Paco None uGuize None
+skate 2 Mattybfor3 1
+Beach 2 CoolJoe 0
+stif 2 Owlnips 0
+Kuyashi 2 Wind 0
+Coupkey None techboy None
+Anther 2 Paco 0
+Kudos 2 Psy 0
+Deep Fox 2 skate 0
+MinorThreat 2 Lukewarm 0
+Beach 2 stif 1
+Kuyashi 2 Coupkey 0
+Anther 2 Kudos 0
+Deep Fox 2 MinorThreat 0
+Beach 2 Kuyashi 0
+Anther 2 Deep Fox 0
+Lukewarm None Cagnar None
+Psy 2 B Millz 0
+uGuize None techboy None
+Mattybfor3 None Owlnips None
+skate 2 Lukewarm 1
+Psy 2 Paco 0
+Wind None uGuize None
+CoolJoe 2 Mattybfor3 1
+Coupkey 2 skate 1
+Psy 2 stif 1
+MinorThreat 2 Wind 0
+Kudos 2 CoolJoe 0
+Coupkey 2 Psy 0
+MinorThreat 2 Kudos 1
+Deep Fox 2 Coupkey 0
+Kuyashi 2 MinorThreat 0
+Boero 2 Lando 0
+Iruka 2 The Ram 1
+Dollar Bill 2 Goblin 0
+TheRoyalWe 2 Fire 1
+Prince F. Abu 2 Boero 0
+Yata! None Deputy None
+Sheep 2 Iruka 0
+Egg 2 Scoot 0
+Crip 2 Dollar Bill 0
+superwaffles None Skey None
+Dre None TheRoyalWe None
+Oven 2 Heavyrock 1
+Prince F. Abu 2 Yata! 0
+Egg 2 Sheep 1
+Crip 2 superwaffles 0
+Dre 2 Oven 0
+Prince F. Abu None Egg None
+Crip 2 Dre 0
+Heavyrock 2 Lando 0
+The Ram None Skey None
+Scoot 2 Goblin 1
+Fire None Deputy None
+TheRoyalWe 2 Heavyrock 0
+Dollar Bill 2 The Ram 1
+Scoot 2 Iruka 0
+Fire None Boero None
+Sheep None TheRoyalWe None
+Yata! None Dollar Bill None
+Scoot 2 Oven 0
+superwaffles 2 Fire 1
+Sheep 2 Yata! 0
+Scoot 2 superwaffles 0
+Sheep None Dre None
+Egg 2 Scoot 0
+Dinkus 2 Sapphire 0
+Ajax None Dalius None
+Vaatu None Turnup_xD None
+MtnDewgong 2 bebop 0
+Shaeden 2 Dinkus 0
+Ruffian 2 jonchar 0
+Parzival 2 Ajax 0
+Ferriswheel None Scorpiator None
+Juggleguy 2 Vaatu 0
+Led Free 2 READY 4 BATTLE 0
+Napkin 2 MtnDewgong 0
+BCN 2 Un0 0
+Shaeden 2 Ruffian 0
+Parzival 2 Ferriswheel 0
+Juggleguy 2 Led Free 0
+Napkin 2 BCN 0
+Shaeden 2 Parzival 0
+Juggleguy 3 Napkin 2
+Sapphire 2 Un0 1
+READY 4 BATTLE 0 Dalius -1
+Turnup_xD 2 Scorpiator 0
+jonchar 2 bebop 0
+MtnDewgong 2 Sapphire 1
+Vaatu 2 READY 4 BATTLE 0
+Ajax 2 Turnup_xD 0
+Dinkus 2 jonchar 1
+Ferriswheel 2 MtnDewgong 0
+Ruffian 2 Vaatu 0
+BCN 2 Ajax 0
+Led Free 2 Dinkus 0
+Ferriswheel 2 Ruffian 1
+BCN 2 Led Free 1
+Napkin 2 Ferriswheel 0
+Parzival 2 BCN 0
+Duck 2 Hellsing 0
+Anther 2 Beach 0
+Drephen 2 MB-Smash 0
+Ginger 2 Paper 0
+KJH 2 Tran 0
+Shaeden 2 Juggleguy 1
+Prince F. Abu 2 Crip 0
+Shady 2 tm 1
+Duck 2 Anther 0
+Drephen 2 Ginger 0
+Shaeden 2 KJH 1
+Prince F. Abu 2 Shady 1
+Duck 3 Drephen 1
+Shaeden 3 Prince F. Abu 1
+Duck 3 Shaeden 0
+KJH 3 Duck 1
+Duck 3 KJH 1
+roki 2 Ryejew 0
+DueL 2 Sheep 0
+Napkin 2 Parzival 0
+Rasto 2 Toadster 0
+Russell 2 IDCrisis 0
+HoneyBaked 2 ctrlaltdefeat 0
+Kuyashi 2 Deep Fox 0
+Egg 2 Treetz 0
+Paper 2 roki 0
+MB-Smash 2 DueL 0
+Napkin 2 Beach 1
+Hellsing 2 Rasto 1
+tm 2 Russell 0
+HoneyBaked 2 Crip 1
+Juggleguy 2 Kuyashi 0
+Tran 2 Egg 0
+MB-Smash 2 Paper 0
+Hellsing 2 Napkin 0
+tm 2 HoneyBaked 0
+Juggleguy 2 Tran 1
+KJH 2 MB-Smash 0
+Shady 2 Hellsing 0
+Anther 2 tm 0
+Ginger 2 Juggleguy 1
+KJH 2 Shady 0
+Anther 2 Ginger 0
+KJH 3 Drephen 0
+Prince F. Abu 3 Anther 0
+KJH 3 Prince F. Abu 0
+KJH 3 Shaeden 0
+Vro 2 Mufasa 0
+Cdub 2 Peon 0
+Dynamic 2 Pyr0 0
+Psythr 2 Compton Falcon 0
+IDCrisis 2 Plasma193 0
+Danko 0 Ness -1
+Fancy 2 SALZ 1
+Chaotropic 0 drill -1
+Juggleguy 2 Jackie 0
+POOB 2 Soup 0
+Tess 2 Ekiele 1
+h2 2 Mason Yason 0
+Dre 0 jp -1
+SalmonInPyjamas 2 NewGen 0
+Datrooph 2 Tiggah 0
+Tinder 2 chals 0
+Vro 2 Cdub 0
+Dynamic 2 Psythr 0
+IDCrisis 2 Danko 0
+Fancy 2 Chaotropic 0
+Juggleguy 2 POOB 0
+h2 2 Tess 0
+Dre 2 SalmonInPyjamas 0
+Datrooph 2 Tinder 0
+Vro 2 Dynamic 0
+IDCrisis 2 Fancy 0
+Juggleguy 2 h2 0
+Datrooph 2 Dre 0
+Vro 2 IDCrisis 0
+Juggleguy 2 Datrooph 0
+Mufasa 2 Peon 1
+Compton Falcon 2 Pyr0 0
+Plasma193 0 Ness -1
+SALZ 0 drill -1
+Jackie 2 Soup 0
+Ekiele 2 Mason Yason 0
+NewGen 0 jp -1
+Tiggah 2 chals 0
+Tinder 2 Mufasa 0
+Compton Falcon 2 SalmonInPyjamas 0
+Tess 2 Plasma193 0
+SALZ 2 POOB 0
+Chaotropic 2 Jackie 1
+Ekiele 2 Danko 1
+Psythr None NewGen None
+Cdub None Tiggah None
+Tinder 2 Compton Falcon 0
+Tess 2 SALZ 0
+Chaotropic 2 Ekiele 0
+Cdub 2 Psythr 0
+Fancy 2 Tinder 0
+Dynamic 2 Tess 0
+Dre 2 Chaotropic 0
+h2 2 Cdub 0
+Dynamic 2 Fancy 0
+Dre 2 h2 0
+Dynamic 2 Datrooph 1
+IDCrisis 2 Dre 1
+KJH 2 cat wrestler 0
+Walrus 2 Dashing Jesus 0
+WoK 2 slogdor 0
+stif 0 Tuna -1
+Quang 2 ActualGeez 0
+Wreckening 2 SquidKid 0
+TrialColt 2 Will 0
+Cobb 2 Zimmer 1
+Crip 2 Sushe 0
+cleanshot911 2 Wolff 0
+luigi master tae 2 Energy 0
+Taxi 2 Mozzarella 0
+Hellsing 2 Simian 0
+Starlight 2 YungZ 1
+Treetz 2 Slyben 0
+Sasquatch 2 ThatOneGuy 1
+KJH 2 Walrus 0
+WoK 2 stif 0
+Quang 2 Wreckening 0
+Cobb 2 TrialColt 0
+Crip 2 cleanshot911 0
+luigi master tae 2 Taxi 1
+Hellsing 2 Starlight 0
+Treetz 2 Sasquatch 0
+KJH 2 WoK 0
+Quang 2 Cobb 0
+Crip 2 luigi master tae 1
+Hellsing 2 Treetz 0
+Quang 2 KJH 1
+Crip 2 Hellsing 0
+cat wrestler 2 Dashing Jesus 1
+slogdor 0 Tuna -1
+ActualGeez 0 SquidKid -1
+Zimmer 0 Will -1
+Sushe 2 Wolff 0
+Energy 2 Mozzarella 0
+Simian 2 YungZ 0
+ThatOneGuy 2 Slyben 1
+Sasquatch 2 cat wrestler 1
+Starlight 2 slogdor 0
+Taxi 2 ActualGeez 0
+Zimmer 2 cleanshot911 0
+TrialColt 2 Sushe 0
+Wreckening 2 Energy 1
+Simian 2 stif 1
+Walrus 2 ThatOneGuy 1
+Sasquatch 2 Starlight 0
+Taxi 2 Zimmer 0
+TrialColt 2 Wreckening 1
+Simian 2 Walrus 1
+Cobb 2 Sasquatch 1
+WoK 2 Taxi 1
+Treetz 2 TrialColt 0
+Simian 2 luigi master tae 1
+WoK 2 Cobb 0
+Treetz 2 Simian 0
+Hellsing 2 WoK 1
+KJH 2 Treetz 0
+BreachiN 2 TopTierRamen 0
+ADKnight 2 BreachiN 0
+PennySalem 2 BreachiN 0
+tm 2 Maxo the Midge 0
+tm 2 Monik 0
+tm 2 DueL 0
+tm 2 Egg 0
+Hamer 2 Blenderer 1
+ckx 2 Hamer 0
+Hydronium 0 Dewdrop Spider -1
+Sensai 0 Wartle -1
+Maxo the Midge 2 confusion 0
+Maxo the Midge 2 Clutch 0
+Prince F. Abu 2 Pouch 0
+Prince F. Abu 2 Ryejew 0
+Prince F. Abu 2 PennySalem 0
+Prince F. Abu 2 ckx 0
+Finesse 2 Monik 0
+Finesse 2 Sensai 0
+Surskim 2 Hydronium 0
+TopTierRamen 2 Jayrodd 0
+Shum 0 Dewdrop Spider -1
+Blond 2 Blenderer 0
+Surskim 0 Wartle -1
+Maxo the Midge 2 Surskim 0
+ADKnight 2 Gorx 0
+ADKnight 2 Blond 0
+Monik 2 confusion 0
+DueL 2 Hamer 0
+DueL 2 Blond 0
+DueL 2 Lange 0
+Pouch 2 Silverwind 0
+Blond 2 Pouch 1
+Ryejew 2 Surskim 0
+Ryejew 2 Egg 0
+Ryejew 2 Lange 0
+Ryejew 2 Sensai 0
+PennySalem 2 Maxo the Midge 0
+PennySalem 2 Jayrodd 0
+Egg 2 Hydronium 0
+Egg 2 Shum 0
+Egg 2 ADKnight 0
+Finesse 2 jam 0
+Noro 2 Gorx 0
+Noro 2 TopTierRamen 1
+Clutch 2 jam 0
+Lange 2 Finesse 0
+Lange 2 PennySalem 0
+Lange 2 Noro 0
+Lange 2 Clutch 0
+Sensai 2 Shum 0
+Rasto 2 Finesse 0
+Rasto 2 ADKnight 0
+DueL 2 Rasto 0
+Egg 2 Rasto 0
+Rasto 2 Noro 0
+ckx 2 Silverwind 0
+Noro 2 ckx 0
+Ginger 2 yamtots 0
+techboy 2 Shanondorf 0
+Math 2 Aminimouse 0
+Papyrus 2 Coupon 0
+2Shadez 2 Duo 0
+Holiday 2 Action Master 1
+Sheep 2 Signd0g 0
+Apples 2 Raqqi 0
+Yoyo 2 Cobrain 0
+Cobab 2 Owlnips 0
+Garzal 2 Joka 1
+Mars 2 Dalius 0
+Napkin 2 RyanGG 0
+BRANDO 2 RottenYogurt 0
+roki 2 PeachU 0
+Luxy 2 Ruffian 0
+Ginger 2 techboy 0
+Math 2 Papyrus 0
+2Shadez 2 Holiday 1
+Sheep 2 Apples 0
+Yoyo 2 Cobab 0
+Garzal 2 Mars 1
+Napkin 2 BRANDO 0
+roki 2 Luxy 0
+Ginger 2 Math 0
+2Shadez 2 Sheep 0
+Yoyo 2 Garzal 0
+roki 2 Napkin 0
+Ginger 2 2Shadez 0
+Yoyo 2 roki 0
+yamtots 2 Shanondorf 0
+Aminimouse 2 Coupon 0
+Action Master 2 Duo 0
+Signd0g 2 Raqqi 0
+Owlnips 2 Cobrain 0
+Joka 2 Dalius 0
+RyanGG 2 RottenYogurt 0
+Ruffian 2 PeachU 0
+Luxy 2 yamtots 0
+BRANDO 2 Aminimouse 0
+Mars 2 Action Master 1
+Signd0g 2 Cobab 0
+Apples 2 Owlnips 0
+Joka 2 Holiday 1
+Papyrus 2 RyanGG 0
+Ruffian 2 techboy 0
+BRANDO 2 Luxy 0
+Signd0g 2 Mars 0
+Joka 2 Apples 0
+Ruffian 2 Papyrus 1
+Sheep 2 BRANDO 0
+Signd0g 2 Math 0
+Napkin 2 Joka 0
+Ruffian 2 Garzal 1
+Sheep 2 Signd0g 1
+Napkin 2 Ruffian 0
+Sheep 2 roki 1
+Napkin 2 2Shadez 0
+Swedish Delight 2 yor742 0
+Kenpachi 2 Jutin 0
+MinorThreat 2 Coleslaw 0
+Led Free 2 Bushels 0
+Magicubed 2 Lock 0
+skate 2 DeckerStag 0
+Skigh 2 Jwebb 0
+Freky 2 _Boots 0
+Paper 2 Aerial Assault 0
+Shabby 2 Admin 0
+Liam_Butler 2 Photonic 0
+Luu 2 Snitch 0
+Azzu 2 Dax 0
+Pope 2 Cagnar 0
+SuperMegaWalrus 2 Zaps 0
+Sheebz 2 Scorpiator 0
+Swedish Delight 2 Kenpachi 0
+MinorThreat 2 Led Free 1
+Magicubed 2 skate 0
+Skigh 2 Freky 1
+Paper 2 Shabby 0
+Liam_Butler 2 Luu 0
+Azzu 2 Pope 0
+SuperMegaWalrus 2 Sheebz 0
+Swedish Delight 2 MinorThreat 0
+Skigh 2 Magicubed 0
+Paper 2 Liam_Butler 0
+Azzu 2 SuperMegaWalrus 0
+Swedish Delight 2 Skigh 0
+Paper 2 Azzu 0
+yor742 2 Jutin 0
+Coleslaw 2 Bushels 1
+DeckerStag 2 Lock 0
+_Boots 2 Jwebb 0
+Aerial Assault 2 Admin 0
+Photonic 2 Snitch 0
+Cagnar 2 Dax 0
+Scorpiator 2 Zaps 1
+Sheebz 2 yor742 0
+Coleslaw 2 Pope 0
+Luu 2 DeckerStag 0
+_Boots 2 Shabby 0
+Freky 2 Aerial Assault 0
+Photonic 2 skate 0
+Led Free 2 Cagnar 0
+Kenpachi 2 Scorpiator 1
+Sheebz 2 Coleslaw 0
+Luu 2 _Boots 0
+Photonic 2 Freky 0
+Led Free 2 Kenpachi 0
+Magicubed 2 Sheebz 1
+MinorThreat 2 Luu 1
+Photonic 2 SuperMegaWalrus 0
+Liam_Butler 2 Led Free 0
+Magicubed 2 MinorThreat 0
+Liam_Butler 2 Photonic 0
+Magicubed 2 Azzu 0
+Skigh 2 Liam_Butler 0
+4% 2 ravedave 0
+HAMilTon 2 Wasted 0
+The Brons Kneecap 2 Turnup_xD 0
+Vaatu 2 ShinsuYavi 1
+Heartstrings 2 Fate 0
+Thor 2 Bron 1
+Nexic 0 [MSC] -1
+Duo 2 gren 0
+Beach 2 MagicScrumpy 1
+Coin 2 Trix 0
+RoyTheRoyalBoy 2 knoll 0
+ollux 2 Game 1
+Parzival 2 Turkish Delight 0
+Joro 0 Papa -1
+CAM 2 4thwrldmrshl 0
+Gemini 2 sidft 0
+4% 2 HAMilTon 0
+The Brons Kneecap 2 Vaatu 0
+Heartstrings 2 Thor 0
+Nexic 2 Duo 0
+Beach 2 Coin 0
+ollux 2 RoyTheRoyalBoy 1
+Parzival 2 Joro 0
+Gemini 2 CAM 1
+4% 2 The Brons Kneecap 0
+Heartstrings 2 Nexic 1
+Beach 2 ollux 0
+Parzival 2 Gemini 0
+4% 2 Heartstrings 0
+Beach 2 Parzival 1
+Wasted 2 ravedave 0
+ShinsuYavi 2 Turnup_xD 1
+Bron 2 Fate 0
+gren 0 [MSC] -1
+MagicScrumpy 2 Trix 0
+Game 2 knoll 0
+Turkish Delight 0 Papa -1
+4thwrldmrshl 2 sidft 0
+CAM 2 Wasted 0
+ShinsuYavi 2 Joro 0
+RoyTheRoyalBoy 2 Bron 0
+Coin 2 gren 0
+MagicScrumpy 2 Duo 1
+Game 2 Thor 0
+Vaatu 2 Turkish Delight 0
+HAMilTon 2 4thwrldmrshl 0
+CAM 2 ShinsuYavi 0
+RoyTheRoyalBoy 2 Coin 0
+MagicScrumpy 2 Game 0
+Vaatu 2 HAMilTon 0
+Nexic 2 CAM 0
+The Brons Kneecap 2 RoyTheRoyalBoy 0
+Gemini 2 MagicScrumpy 0
+Vaatu 2 ollux 0
+Nexic 2 The Brons Kneecap 0
+Gemini 2 Vaatu 0
+Parzival 2 Nexic 0
+Heartstrings 2 Gemini 0
+Duck 2 BickTrip 0
+RoyGBiv 2 Baejke 0
+JCubez 2 Zeit 0
+Ant 2 DocT 0
+Russell 2 clickclack 0
+Pops 2 KingLewi 0
+Jerry 2 Echo 0
+JoeBigs 2 Modus 0
+MB-Smash 2 Mr. Fahrenheit 0
+Spy 2 Char 0
+NJA 2 Hammer 0
+Psy 2 helm 0
+Bigy 2 sudo 1
+Vavv 2 F1ZZY 0
+Webs 2 Paco 0
+Player 5 2 L3375 1
+Duck 2 RoyGBiv 0
+JCubez 2 Ant 0
+Russell 2 Pops 0
+Jerry 2 JoeBigs 0
+MB-Smash 2 Spy 0
+NJA 2 Psy 0
+Vavv 2 Bigy 0
+Webs 2 Player 5 0
+Duck 2 JCubez 0
+Russell 2 Jerry 1
+MB-Smash 2 NJA 0
+Webs 2 Vavv 0
+Duck 2 Russell 0
+MB-Smash 2 Webs 0
+BickTrip 2 Baejke 0
+DocT 2 Zeit 1
+clickclack 2 KingLewi 0
+Echo 2 Modus 0
+Mr. Fahrenheit 2 Char 0
+Hammer 2 helm 0
+sudo 2 F1ZZY 0
+Paco 2 L3375 1
+BickTrip 2 Player 5 0
+Bigy 2 DocT 0
+clickclack 2 Psy 0
+Spy 2 Echo 0
+JoeBigs 2 Mr. Fahrenheit 0
+Hammer 2 Pops 1
+sudo 2 Ant 1
+Paco 2 RoyGBiv 0
+BickTrip 2 Bigy 1
+Spy 2 clickclack 1
+Hammer 2 JoeBigs 0
+sudo 2 Paco 0
+Jerry 2 BickTrip 0
+JCubez 2 Spy 0
+Hammer 2 Vavv 0
+NJA 2 sudo 0
+Jerry 2 JCubez 0
+NJA 2 Hammer 0
+Webs 2 Jerry 0
+Russell 2 NJA 1
+Armada None Jasper None
+mongoose None McSexy None
+rodohk None MarbleBlaster None
+CocoThunder None NotKain None
+Kyari 0 HoneyBaked -1
+Moment None Sam19 None
+i4n None Trill None
+Fire None Dolphin None
+Tran None Astro None
+NoodleIncident None CoolJoe None
+Mingee 0 TacoTuesday -1
+Sorry None Liquid None
+1der None unkn0wnKAMI None
+null None beets None
+Knubs. None CDay None
+Tequila None Knight None
+Armada None mongoose None
+CocoThunder None rodohk None
+Kyari None Moment None
+i4n None Fire None
+Tran None NoodleIncident None
+Mingee None Sorry None
+1der None null None
+Knubs. None Tequila None
+Armada None CocoThunder None
+i4n None Kyari None
+Tran None Mingee None
+Knubs. None 1der None
+Armada None i4n None
+Knubs. None Tran None
+McSexy None Jasper None
+NotKain None MarbleBlaster None
+Sam19 0 HoneyBaked -1
+Dolphin None Trill None
+CoolJoe None Astro None
+Liquid 0 TacoTuesday -1
+beets None unkn0wnKAMI None
+Knight None CDay None
+Tequila None McSexy None
+NotKain None null None
+Sorry None Sam19 None
+NoodleIncident None Dolphin None
+Fire None CoolJoe None
+Moment None Liquid None
+rodohk None beets None
+mongoose None Knight None
+NotKain None Tequila None
+NoodleIncident None Sorry None
+Fire None Moment None
+mongoose None rodohk None
+Kyari None NotKain None
+CocoThunder None NoodleIncident None
+1der None Fire None
+Mingee None mongoose None
+Kyari None CocoThunder None
+1der None Mingee None
+Tran None Kyari None
+1der None i4n None
+Armada 2 Knubs. 0
+Ginger 2 Yoyo 1
+Duck 2 MB-Smash 0
+4% 2 Beach 0
+Quang 2 Crip 0
+Vro 2 Juggleguy 0
+Swedish Delight 2 Paper 0
+Prince F. Abu 2 tm 1
+Armada 2 Ginger 0
+Duck 2 4% 0
+Vro 2 Quang 0
+Swedish Delight 2 Prince F. Abu 0
+Armada 3 Duck 1
+Swedish Delight 3 Vro 1
+Armada 3 Swedish Delight 0
+Armada 3 Duck 0
+DueL 2 Skigh 1
+KJH 2 Dynamic 0
+Heartstrings 2 Webs 1
+1der 2 Sheep 1
+Ryejew 2 Magicubed 0
+Hellsing 2 IDCrisis 1
+Russell 2 Parzival 0
+Tran 2 Napkin 1
+DueL 2 Knubs. 1
+KJH 2 Yoyo 0
+Heartstrings 2 MB-Smash 0
+Beach 2 1der 0
+Ryejew 2 Crip 0
+Juggleguy 2 Hellsing 0
+Paper 2 Russell 0
+Tran 2 tm 0
+KJH 2 DueL 0
+Beach 2 Heartstrings 0
+Juggleguy 2 Ryejew 1
+Paper 2 Tran 1
+KJH 2 Prince F. Abu 0
+Quang 2 Beach 0
+4% 2 Juggleguy 0
+Ginger 2 Paper 0
+KJH 2 Quang 0
+4% 2 Ginger 1
+Duck 3 KJH 2
+4% 0 Vro -1
+Duck 3 4% 0
+Duck 3 Swedish Delight 0
+Boero 0 EmceeCurtis -1
+Sheep 2 Fire 1
+European Greazemans 2 Apasher 0
+Fancy 2 The Ram 0
+i4n 2 astroooo 0
+Hollywood 2 Coleslaw 1
+TopTierRamen 2 CoolJoe 0
+Rasto 2 Kraig 0
+Hunt 2 808 0
+Paul 2 Improve_ 0
+Cho 2 L3375 0
+Led Free 2 Coupon 0
+KJH 2 Boero 0
+European Greazemans 2 Sheep 0
+Tran 2 Fancy 0
+i4n 2 Hollywood 1
+Yoyo 2 TopTierRamen 0
+Rasto 2 Hunt 1
+Beach 2 Paul 0
+Cho 2 Led Free 0
+KJH 2 European Greazemans 0
+Tran 2 i4n 0
+Yoyo 2 Rasto 0
+Beach 2 Cho 0
+KJH 2 Tran 0
+Beach 2 Yoyo 0
+Fire 2 Apasher 0
+Coleslaw 2 astroooo 0
+808 2 Kraig 0
+L3375 2 Coupon 0
+Led Free 0 EmceeCurtis -1
+Paul 2 Fire 0
+Hunt 2 The Ram 0
+Coleslaw 2 TopTierRamen 0
+Hollywood 2 CoolJoe 0
+Fancy 2 808 1
+Sheep 2 Improve_ 0
+L3375 2 Boero 0
+Paul 2 Led Free 1
+Hunt 2 Coleslaw 0
+Hollywood 2 Fancy 0
+Sheep 2 L3375 0
+i4n 2 Paul 0
+European Greazemans 2 Hunt 0
+Cho 2 Hollywood 0
+Rasto 2 Sheep 0
+i4n 2 European Greazemans 0
+Rasto 2 Cho 0
+Yoyo 2 i4n 0
+Tran 2 Rasto 0
+chentai 0 Bron -1
+Rh1thmz 2 Dollar Bill 0
+Tsuinami 2 Scorpiator 0
+Morsecode762 0 Papa -1
+Goonsquad 2 Sasquatch 0
+Jamrun 0 uGuize -1
+The Brons Kneecap 2 confusion 0
+Final Boss 2 GMAN 1
+peonn 2 k.o. kennn 0
+Woley 2 sovereign 0
+Blond 2 Ajax 0
+Kuyashi 2 cat wrestler 0
+ctrlaltdefeat 2 BRANDO 0
+Prince F. Abu 2 chentai 0
+Rh1thmz 2 Tsuinami 0
+Morsecode762 2 Goonsquad 0
+Jamrun 2 The Brons Kneecap 0
+Ginger 2 Final Boss 0
+Woley 2 peonn 0
+TRIGGERS DOWN 2 Blond 0
+ctrlaltdefeat 2 Kuyashi 1
+Prince F. Abu 2 Rh1thmz 0
+Jamrun 2 Morsecode762 0
+Ginger 2 Woley 1
+TRIGGERS DOWN 2 ctrlaltdefeat 0
+Prince F. Abu 2 Jamrun 0
+Ginger 2 TRIGGERS DOWN 1
+Scorpiator 2 Dollar Bill 0
+Sasquatch 0 Papa -1
+confusion 0 uGuize -1
+sovereign 2 k.o. kennn 1
+BRANDO 2 cat wrestler 0
+Kuyashi 0 Bron -1
+Blond 2 Scorpiator 0
+Sasquatch 2 peonn 0
+Final Boss 2 confusion 0
+The Brons Kneecap 2 GMAN 1
+Goonsquad 2 sovereign 0
+Ajax 2 Tsuinami 0
+chentai 2 BRANDO 0
+Kuyashi 2 Blond 0
+Final Boss 2 Sasquatch 0
+Goonsquad 2 The Brons Kneecap 0
+chentai 2 Ajax 0
+Morsecode762 2 Kuyashi 1
+Rh1thmz 2 Final Boss 0
+Goonsquad 2 ctrlaltdefeat 0
+Woley 2 chentai 0
+Morsecode762 2 Rh1thmz 0
+Woley 2 Goonsquad 0
+Morsecode762 2 TRIGGERS DOWN 0
+Jamrun 2 Woley 1
+SilentShadow 2 Owlnips 0
+h2 0 AsianBuffet -1
+Egg 2 JollyJabroni 0
+Mars 2 techboy 1
+WoK 0 Astro -1
+Ekiele 2 Lukewarm 0
+Kenpachi 0 Ferriswheel -1
+Mikey B 2 Christian 0
+Phaedrus 2 chals 1
+HoneyBaked 2 BLOC 0
+B Millz 0 zashi -1
+Ryan Ford 2 SilentShadow 0
+Egg 2 h2 0
+Russell 2 Mars 0
+WoK 0 Deep Fox -1
+Shaeden 2 Ekiele 0
+Mikey B 2 Kenpachi 0
+Anther 2 Phaedrus 0
+HoneyBaked 2 B Millz 0
+Ryan Ford 2 Egg 0
+Russell 2 WoK 1
+Shaeden 2 Mikey B 0
+Anther 2 HoneyBaked 0
+Ryan Ford 2 Russell 0
+Shaeden 2 Anther 0
+JollyJabroni 0 AsianBuffet -1
+Christian 0 Ferriswheel -1
+zashi 2 BLOC 1
+B Millz 2 Owlnips 0
+Phaedrus 2 JollyJabroni 1
+techboy 2 Kenpachi 1
+Ekiele 2 Astro 0
+Lukewarm 0 Deep Fox -1
+Mars 2 Christian 1
+h2 2 chals 0
+zashi 2 SilentShadow 0
+Phaedrus 2 B Millz 0
+Ekiele 2 techboy 1
+Mars 2 Lukewarm 0
+h2 2 zashi 0
+WoK 2 Phaedrus 0
+Egg 2 Ekiele 0
+HoneyBaked 2 Mars 0
+h2 2 Mikey B 0
+Egg 2 WoK 0
+HoneyBaked 2 h2 1
+Anther 2 Egg 0
+HoneyBaked 2 Russell 0
+K.O. Kenn 0 Peon -1
+2Shadez 2 Kehbob 0
+Cal 2 Amir 0
+ckx 2 Viola 0
+Pyr0 0 Vaatu -1
+Burlap 0 SunWalker -1
+Seraph 0 Turkish Delight -1
+rodohk 2 Quil 0
+Moon Man 0 Drephen -1
+Heartstrings 2 superwaffles 0
+Deep C. Squid 2 Queue 0
+n0ne 0 K.O. Kenn -1
+Cal 2 2Shadez 1
+Crip 2 ckx 0
+zbet 2 Pyr0 0
+Juggleguy 2 Burlap 0
+Seraph 2 rodohk 0
+Bigy 2 Moon Man 0
+Heartstrings 2 Deep C. Squid 0
+n0ne 2 Cal 1
+zbet 2 Crip 1
+Juggleguy 2 Seraph 0
+Bigy 2 Heartstrings 0
+n0ne 2 zbet 0
+Juggleguy 2 Bigy 1
+Amir 2 Kehbob 0
+Quil 0 Turkish Delight -1
+superwaffles 2 Queue 0
+Deep C. Squid 0 Peon -1
+Amir 2 Moon Man 0
+rodohk 2 Viola 0
+Burlap 0 Vaatu -1
+Pyr0 0 SunWalker -1
+ckx 2 Quil 0
+Drephen 0 2Shadez -1
+superwaffles 0 K.O. Kenn -1
+Amir 2 Deep C. Squid 0
+Burlap 2 rodohk 1
+ckx None Pyr0 None
+superwaffles 0 Drephen -1
+Crip 2 Amir 0
+Cal 2 Burlap 0
+Heartstrings 2 ckx 0
+Seraph 2 superwaffles 0
+Cal 2 Crip 1
+Heartstrings 2 Seraph 1
+Bigy 2 Cal 0
+Heartstrings 2 zbet 0
+KJH 2 Beach 0
+n0ne 2 Juggleguy 0
+Ryan Ford 2 Shaeden 0
+Prince F. Abu 2 Ginger 1
+n0ne 3 KJH 1
+Prince F. Abu 3 Ryan Ford 1
+n0ne 3 Prince F. Abu 0
+Prince F. Abu 3 n0ne 2
+n0ne 3 Prince F. Abu 0
+Anther 2 Jamrun 1
+Bigy 2 Tran 1
+Morsecode762 2 HoneyBaked 0
+Yoyo 2 Heartstrings 0
+Anther 2 Beach 0
+Juggleguy 2 Bigy 0
+Shaeden 2 Morsecode762 0
+Yoyo 2 Ginger 1
+Anther 2 Juggleguy 0
+Yoyo 2 Shaeden 0
+Ryan Ford 3 Anther 0
+KJH 3 Yoyo 1
+Ryan Ford 3 KJH 2
+Prince F. Abu 3 Ryan Ford 1
+TIDDLES 2 Ninja 0
+Duo 2 ShinsuYavi 1
+stif 2 Little Bucket 0
+Joeycrzl 2 Cagnar 0
+Honeydew 2 SquidKid 1
+Ceephax 2 null 0
+Coleslaw 2 Agouti 0
+Clam 0 Walleye -1
+Will 2 Vaatu 0
+jakpox 2 Ryko 0
+DMR 2 Manifesto 1
+Wham! 0 JU4N -1
+Lange 2 Redwing 0
+Yoyo 2 TIDDLES 0
+Duo 2 stif 0
+Joeycrzl 2 Honeydew 0
+Ceephax 2 Coleslaw 1
+Shaeden 2 Clam 0
+Will 2 jakpox 1
+Beach 2 DMR 0
+Lange 2 Wham! 1
+Yoyo 2 Duo 0
+Joeycrzl 2 Ceephax 0
+Shaeden 2 Will 0
+Beach 2 Lange 0
+Yoyo 2 Joeycrzl 0
+Shaeden 2 Beach 1
+Little Bucket 2 ShinsuYavi 1
+Cagnar 0 SquidKid -1
+null 2 Agouti 0
+Ryko 2 Vaatu 1
+Redwing 0 JU4N -1
+Wham! 2 Ninja 0
+DMR 2 Little Bucket 1
+jakpox 2 Cagnar 1
+Clam 2 null 0
+Coleslaw 0 Walleye -1
+Ryko 2 Honeydew 0
+stif 2 Manifesto 1
+Redwing 2 TIDDLES 0
+DMR 2 Wham! 1
+jakpox 2 Clam 1
+Ryko 2 Coleslaw 1
+stif 2 Redwing 1
+Ceephax 2 DMR 1
+jakpox 2 Duo 1
+Ryko 2 Lange 0
+Will 2 stif 0
+Ceephax 2 jakpox 0
+Will 2 Ryko 0
+Beach 2 Ceephax 0
+Joeycrzl 2 Will 0
+Stringbean 2 Slyben 1
+Goonsquad 2 Gorx 0
+Paul 2 Namaste 0
+999 2 BigJoe 0
+Nu~13 2 Barcode 0
+JCubez 2 TopTierRamen 0
+Coin 2 L3375 0
+Hack 2 BickTrip 1
+Treetz 2 Drama-Sama 0
+Pepsi 2 prest0 0
+Silverwind 2 Jabloinks 0
+Joka 2 Double D 0
+Paco 2 Squishy Boy 0
+Ginger 2 Stringbean 0
+Goonsquad 2 Paul 0
+999 2 Nu~13 0
+JCubez 2 Coin 1
+Coffeeblack 2 Hack 0
+Treetz 2 Pepsi 1
+MB-Smash 2 Silverwind 0
+Joka 2 Paco 0
+Ginger 2 Goonsquad 0
+JCubez 2 999 1
+Coffeeblack 2 Treetz 0
+MB-Smash 2 Joka 0
+Ginger 2 JCubez 0
+Coffeeblack 2 MB-Smash 1
+Gorx 2 Namaste 0
+BigJoe 2 Barcode 0
+TopTierRamen 2 L3375 0
+Drama-Sama 2 prest0 0
+Squishy Boy 2 Double D 0
+Paco 2 Slyben 0
+Gorx 2 Silverwind 0
+Pepsi 2 BigJoe 0
+TopTierRamen 2 Hack 0
+Coin 2 BickTrip 0
+Nu~13 2 Drama-Sama 0
+Paul 2 Jabloinks 0
+Stringbean 2 Squishy Boy 0
+Paco 2 Gorx 0
+Pepsi 2 TopTierRamen 0
+Coin 2 Nu~13 1
+Paul 2 Stringbean 1
+999 2 Paco 1
+Goonsquad 2 Pepsi 0
+Joka 2 Coin 1
+Paul 2 Treetz 0
+999 2 Goonsquad 1
+Paul 2 Joka 0
+MB-Smash 2 999 0
+JCubez 2 Paul 0
+Fire 2 absynthe 0
+Holiday 2 Stonedog 0
+Fancy 2 BTP 0
+techboy 2 NTF 0
+Karils 2 FALF 1
+Nexic 2 Zephyr 0
+mejonat 2 Psythr 0
+YungBitch 2 Na5ty 1
+mongoose 2 Nix 1
+Mars 2 Josephdn 0
+Tree 2 Caucasian Asian 0
+Kuyashi 0 Kenpachi -1
+Colony 2 NCR0 0
+Prince F. Abu 2 Fire 1
+Holiday 2 Fancy 0
+techboy 2 Karils 0
+Nexic 2 mejonat 0
+tm 2 YungBitch 0
+Mars 2 mongoose 0
+Mingee 2 Tree 0
+Kuyashi 2 Colony 0
+Prince F. Abu 2 Holiday 0
+techboy 2 Nexic 0
+tm 2 Mars 1
+Mingee 2 Kuyashi 0
+Prince F. Abu 2 techboy 1
+Mingee 2 tm 1
+BTP 2 Stonedog 0
+FALF 2 NTF 1
+Psythr 2 Zephyr 0
+Nix 2 Josephdn 0
+NCR0 0 Kenpachi -1
+Colony 2 absynthe 0
+BTP 2 Tree 1
+mongoose 2 FALF 0
+YungBitch 2 Psythr 1
+mejonat 2 Na5ty 0
+Nix 2 Karils 0
+Fancy 2 Caucasian Asian 0
+NCR0 2 Fire 0
+BTP 2 Colony 1
+mongoose 2 YungBitch 0
+Nix 2 mejonat 0
+Fancy 2 NCR0 0
+Nexic 2 BTP 0
+Holiday 2 mongoose 1
+Kuyashi 2 Nix 1
+Fancy 2 Mars 1
+Nexic 2 Holiday 1
+Kuyashi 2 Fancy 1
+tm 2 Nexic 0
+techboy 2 Kuyashi 1
+Cornelius 2 Maxo the Midge 1
+Jackie 2 Thinking Man 0
+WeissClimbers 2 Jet 0
+Sheep 2 monkeyzz 0
+SammyG 2 UUUU 0
+nintnt 2 Brizola 0
+Starlight 2 Un0 0
+WildCard 2 DeathforGold 0
+2Shadez 2 Jonah 0
+Rich 2 Yep 0
+Aghi 2 HummusLover69 1
+zbet 2 Drew 0
+ADKnight 2 Moggle 0
+KJH 2 Cornelius 0
+WeissClimbers 2 Jackie 1
+Sheep 2 SammyG 0
+nintnt 2 Starlight 0
+Juggleguy 2 WildCard 0
+2Shadez 2 Rich 1
+Crip 2 Aghi 0
+zbet 2 ADKnight 1
+KJH 2 WeissClimbers 0
+Sheep 2 nintnt 0
+Juggleguy 2 2Shadez 0
+Crip 2 zbet 1
+KJH 2 Sheep 1
+Juggleguy 2 Crip 0
+Jet 2 Thinking Man 1
+monkeyzz 2 UUUU 1
+Brizola 0 Un0 -1
+Yep 2 Jonah 0
+Drew 2 Moggle 0
+ADKnight 2 Maxo the Midge 0
+Aghi 2 Jet 0
+Rich 2 monkeyzz 0
+WildCard 2 Brizola 1
+Starlight 2 DeathforGold 0
+Yep 2 SammyG 1
+Jackie 2 HummusLover69 0
+Drew 2 Cornelius 0
+ADKnight 2 Aghi 1
+Rich 2 WildCard 0
+Starlight 2 Yep 0
+Jackie 2 Drew 0
+nintnt 2 ADKnight 0
+WeissClimbers 2 Rich 0
+zbet 2 Starlight 0
+2Shadez 2 Jackie 0
+WeissClimbers 2 nintnt 0
+2Shadez 2 zbet 1
+WeissClimbers 2 Crip 0
+Sheep 2 2Shadez 0
+Scoot 2 Lustrick 0
+Dre 2 BreachiN 1
+wrenches 2 Dre 0
+Dre 2 Modus 0
+Sacredtwin 2 bakinshake 0
+Sacredtwin 2 Deku 0
+wrenches 2 Sacredtwin 1
+Keff 2 bakinshake 0
+Jack 0 LilDoozie -1
+BreachiN 2 Jack 0
+BreachiN 2 PFL 0
+BreachiN 2 WenDe 0
+Scoot 2 ravedave 0
+i4n 2 Sacredtwin 0
+i4n 2 ravedave 0
+i4n 2 lain 1
+Life 2 BreachiN 0
+Life 2 Lustrick 0
+Deku 2 Bean 0
+Deku 2 Modus 0
+Deku 2 Big Brother 0
+Cal 2 Jack 0
+Cal 2 Wonov 0
+Cal 2 lain 0
+wrenches 2 Scoot 1
+wrenches 2 Keff 0
+Life 2 wrenches 0
+wrenches 2 SpitzLee 0
+Nightmare 2 Life 0
+Cal 2 Nightmare 0
+Nightmare 2 wrenches 0
+Nightmare 2 E-N 0
+Morsecode762 2 Dre 0
+Morsecode762 2 i4n 1
+Morsecode762 2 WenDe 0
+WenDe 2 Bean 0
+ravedave 2 SpitzLee 1
+Webs 2 Scoot 1
+Sacredtwin 2 Webs 0
+Webs 0 Keff -1
+Webs 2 Yung 0
+Wonov 0 LilDoozie -1
+Modus 2 Wonov 1
+Modus 2 PFL 0
+E-N 2 Yung 0
+WenDe 2 Big Brother 1
+Bean 2 Jasper 0
+Keff 2 E-N 1
+lain 2 Life 0
+lain 2 Deku 0
+lain 2 Webs 0
+lain 2 Jasper 0
+Mattybfor3 2 confusion 0
+Hunt 2 Turkish Delight 0
+Yogi Backair 2 CDay 0
+Paz 0 drill -1
+Ace Turner 2 QBaby 1
+IDCrisis 2 Beckett 0
+GMAN 0 ultrabob -1
+Nick Ahoy 0 Dalius -1
+Sasha 2 inu 0
+Pops 2 Quil 0
+Jellocube 2 Shanondorf 0
+Parzival 2 Cobab 0
+Ikkitrix 2 Danil 0
+Vro 2 Mattybfor3 0
+Yogi Backair 2 Hunt 0
+Paz 2 Ace Turner 0
+IDCrisis 2 GMAN 0
+Anther 2 Nick Ahoy 0
+Sasha 2 Pops 0
+Tran 2 Jellocube 0
+Parzival 2 Ikkitrix 0
+Vro 2 Yogi Backair 0
+Paz 2 IDCrisis 1
+Anther 2 Sasha 0
+Tran 2 Parzival 0
+Vro 2 Paz 0
+Anther 2 Tran 0
+CDay 2 Turkish Delight 0
+QBaby 0 drill -1
+Beckett 0 ultrabob -1
+inu 2 Quil 0
+Danil 2 Cobab 0
+Ikkitrix 2 confusion 0
+CDay 2 Jellocube 0
+Pops 2 QBaby 0
+Nick Ahoy 2 Beckett 1
+GMAN 0 Dalius -1
+inu 2 Ace Turner 1
+Hunt 2 Shanondorf 0
+Danil 2 Mattybfor3 0
+CDay 2 Ikkitrix 0
+Pops 2 Nick Ahoy 0
+inu 2 GMAN 0
+Danil 2 Hunt 1
+IDCrisis 2 CDay 0
+Yogi Backair 2 Pops 1
+Parzival 2 inu 0
+Danil 2 Sasha 0
+Yogi Backair 2 IDCrisis 0
+Parzival 2 Danil 0
+Tran 2 Yogi Backair 0
+Paz 2 Parzival 0
+Cobb 2 Axis 0
+JoeBigs 2 LEMON 1
+Action Master 2 Joba 0
+Ferriswheel 2 threejaayz 0
+Weo Weo Jax 2 HighDef 0
+Trix 2 Quien? 0
+JEPR 2 Invader Slim 0
+clickclack 2 BumpaDump 0
+Walrus 2 ybro 0
+Koleslawing 2 Ez Money 0
+Scorpiator 2 ELIS 0
+Shanahan 2 Apples 0
+Carnage 2 AV1N 0
+Duck 2 Cobb 0
+JoeBigs 2 Action Master 0
+Ferriswheel 2 Weo Weo Jax 0
+Trix 2 JEPR 0
+Heartstrings 2 clickclack 0
+Walrus 2 Koleslawing 0
+.Ðempt 2 Scorpiator 0
+Carnage 2 Shanahan 1
+Duck 2 JoeBigs 0
+Trix 2 Ferriswheel 0
+Heartstrings 2 Walrus 0
+.Ðempt 2 Carnage 0
+Duck 2 Trix 0
+Heartstrings 2 .Ðempt 0
+Joba 2 LEMON 0
+threejaayz 2 HighDef 0
+Invader Slim 2 Quien? 0
+ybro 2 Ez Money 0
+Apples 2 AV1N 0
+Shanahan 2 Axis 0
+Joba 2 Scorpiator 0
+Koleslawing 2 threejaayz 1
+clickclack 2 Invader Slim 1
+JEPR 2 BumpaDump 0
+Weo Weo Jax 2 ybro 0
+Action Master 2 ELIS 0
+Cobb 2 Apples 0
+Joba 2 Shanahan 0
+clickclack 2 Koleslawing 1
+JEPR 2 Weo Weo Jax 1
+Cobb 2 Action Master 1
+Ferriswheel 2 Joba 0
+clickclack 2 JoeBigs 0
+Carnage 2 JEPR 0
+Walrus 2 Cobb 1
+Ferriswheel 2 clickclack 0
+Carnage 2 Walrus 0
+.Ðempt 2 Ferriswheel 0
+Trix 2 Carnage 1
+HelpMeHerbDean 2 McSpammer 0
+Oven 2 Albert 0
+Turnup_xD 2 248 0
+Magicubed 2 Coupon 0
+MakVG 2 Rosilius 0
+Russell 2 Bhop 0
+Aiya 2 PsychoWaffle 0
+Owlnips 2 Fan 1
+Luxy 2 Peon 0
+noodle 2 Zaps 0
+LXIX 2 SALZ 0
+Woley 2 superbagel 0
+Xam 2 OldmanKarp 0
+Ice 2 HelpMeHerbDean 0
+Turnup_xD 2 Oven 0
+Magicubed 2 MakVG 0
+Russell 2 Aiya 0
+Hindawg 2 Owlnips 0
+noodle 2 Luxy 0
+LXIX 0 Shady -1
+Woley 2 Xam 0
+Ice 2 Turnup_xD 0
+Magicubed 2 Russell 0
+Hindawg 2 noodle 1
+Woley 2 LXIX 1
+Ice 2 Magicubed 0
+Woley 2 Hindawg 0
+Albert 2 248 0
+Coupon 2 Rosilius 0
+PsychoWaffle 2 Bhop 0
+Zaps 2 Peon 0
+OldmanKarp 2 superbagel 0
+Xam 2 McSpammer 0
+Albert 0 Shady -1
+Luxy 2 Coupon 0
+PsychoWaffle 2 Owlnips 1
+Aiya 2 Fan 0
+Zaps 2 MakVG 0
+Oven 2 SALZ 0
+OldmanKarp 2 HelpMeHerbDean 0
+Xam 2 Albert 0
+Luxy 2 PsychoWaffle 0
+Aiya 2 Zaps 0
+Oven 2 OldmanKarp 1
+Russell 2 Xam 0
+Luxy 2 Turnup_xD 0
+LXIX 2 Aiya 0
+noodle 2 Oven 0
+Russell 2 Luxy 0
+LXIX 2 noodle 0
+Russell 2 Hindawg 1
+Magicubed 2 LXIX 0
+Ice 2 Woley 0
+Anther 2 Vro 0
+Prince F. Abu 2 Mingee 0
+Ginger 2 Coffeeblack 0
+Duck 2 Heartstrings 0
+Yoyo 2 Shaeden 0
+KJH 2 Juggleguy 0
+Morsecode762 2 Cal 0
+Ice 3 Anther 0
+Ginger 3 Prince F. Abu 1
+Duck 3 Yoyo 1
+KJH 3 Morsecode762 0
+Ice 3 Ginger 1
+KJH 3 Duck 1
+Ice 3 KJH 2
+Ice 3 KJH 0
+i4n 2 techboy 0
+JCubez 2 WeissClimbers 0
+Magicubed 2 Beach 0
+Paz 2 .Ðempt 0
+Sheep 2 MB-Smash 0
+tm 2 Nightmare 0
+Trix 2 Tran 0
+Joeycrzl 2 Russell 0
+Heartstrings 2 i4n 0
+Shaeden 2 JCubez 1
+Juggleguy 2 Magicubed 0
+Paz 2 Cal 0
+Woley 2 Sheep 0
+tm 2 Vro 0
+Trix 2 Mingee 0
+Coffeeblack 2 Joeycrzl 0
+Heartstrings 2 Shaeden 0
+Juggleguy 2 Paz 0
+tm 2 Woley 0
+Coffeeblack 2 Trix 1
+Anther 3 Heartstrings 0
+Prince F. Abu 3 Juggleguy 1
+Yoyo 3 tm 1
+Coffeeblack 3 Morsecode762 1
+Prince F. Abu 3 Anther 1
+Yoyo 3 Coffeeblack 0
+Duck 3 Prince F. Abu 0
+Ginger 3 Yoyo 2
+Duck 3 Ginger 0
+KJH 3 Duck 1
+Wild Turkey 2 FALF 0
+Sinon 0 WeissClimbers -1
+Will 2 ravedave 0
+Smalls 2 Stonedog 0
+Rich 2 Na5ty 0
+Hollywood 2 DMR 0
+Paul 2 Nu~13 1
+Tavi 2 Kenpachi 0
+Colony 2 Kardinal 0
+Drephen 2 Wild Turkey 0
+Will 2 Sinon 1
+techboy 2 Smalls 0
+Russell 2 Rich 0
+Ginger 2 Hollywood 0
+Paul 2 IDCrisis 1
+Cal 2 Tavi 0
+i4n 2 Colony 0
+Drephen 2 Will 0
+Russell 2 techboy 0
+Ginger 2 Paul 0
+Cal 2 i4n 0
+Drephen 2 Russell 1
+Ginger 2 Cal 0
+ravedave 0 WeissClimbers -1
+Colony 2 FALF 0
+Tavi 2 ravedave 0
+IDCrisis 2 Stonedog 0
+Hollywood 2 Na5ty 0
+Rich 2 DMR 0
+Nu~13 2 Smalls 0
+Sinon 2 Kenpachi 0
+Wild Turkey 2 Kardinal 0
+Tavi 2 Colony 0
+IDCrisis 2 Hollywood 0
+Nu~13 2 Rich 1
+Wild Turkey 2 Sinon 0
+techboy 2 Tavi 0
+IDCrisis 2 Will 0
+i4n 2 Nu~13 1
+Wild Turkey 2 Paul 1
+techboy 2 IDCrisis 0
+i4n 2 Wild Turkey 0
+Cal 2 techboy 1
+i4n 2 Russell 1
+Captain Kush 2 Ozone 0
+Burlap 2 White Lightning 0
+roki 2 Jasper 0
+Koleslawing 0 BlackHavokk -1
+Jopps 2 Squishy Boy 0
+Jackie 2 Jellocube 0
+2Shadez 2 TARD 0
+L3375 2 SunWalker 0
+Dre 2 Sly 0
+Gahtzu 2 Captain Kush 0
+roki 2 Burlap 1
+Beach 2 Koleslawing 0
+lain 2 Jopps 0
+Morsecode762 2 Jackie 0
+Woley 2 2Shadez 0
+Crip 2 L3375 0
+Dre 0 Papa -1
+Gahtzu 2 roki 0
+Beach 2 lain 0
+Morsecode762 2 Woley 1
+Crip 2 Dre 0
+Gahtzu 2 Beach 0
+Crip 2 Morsecode762 0
+White Lightning 2 Jasper 0
+Ozone 0 Papa -1
+L3375 2 White Lightning 1
+2Shadez 0 BlackHavokk -1
+Jackie 2 Squishy Boy 0
+Jopps 2 Jellocube 0
+Koleslawing 2 TARD 0
+Burlap 0 SunWalker -1
+Captain Kush 2 Sly 1
+L3375 2 Ozone 0
+2Shadez 2 Jackie 1
+Jopps 2 Koleslawing 1
+Burlap 2 Captain Kush 0
+lain 2 L3375 0
+roki 2 2Shadez 0
+Dre 2 Jopps 0
+Burlap 2 Woley 1
+lain 2 roki 0
+Burlap 2 Dre 0
+Morsecode762 2 lain 1
+Beach 2 Burlap 0
+Thinking Man 0 exnay -1
+Ferriswheel 2 Mufasa 0
+Egg 2 Vorporal 0
+surf's up. hail satan. 2 Apasher 0
+Stringbean 2 Coin 0
+GMAN 2 Datnero 0
+Zetts 2 JEPR 0
+Yogi Backair 2 Peon 0
+stif 2 3 0
+Holiday 2 WillDaBeast 0
+KJH 2 Thinking Man 0
+Ferriswheel 2 Egg 0
+Sheep 2 surf's up. hail satan. 1
+Paz 2 Stringbean 1
+tm 2 GMAN 0
+Zetts 2 Yogi Backair 0
+Juggleguy 2 stif 0
+Nexic 2 Holiday 0
+KJH 2 Ferriswheel 0
+Paz 2 Sheep 0
+tm 2 Zetts 0
+Juggleguy 2 Nexic 0
+KJH 2 Paz 0
+Juggleguy 2 tm 0
+Vorporal 2 Mufasa 0
+JEPR 2 Peon 0
+Holiday 0 exnay -1
+stif 2 Vorporal 0
+Yogi Backair 2 Apasher 0
+Coin 2 GMAN 0
+Stringbean 2 Datnero 0
+surf's up. hail satan. 2 JEPR 0
+Egg 2 3 0
+Thinking Man 2 WillDaBeast 0
+Holiday 2 stif 0
+Yogi Backair 2 Coin 0
+Stringbean 2 surf's up. hail satan. 0
+Egg 2 Thinking Man 0
+Sheep 2 Holiday 0
+Yogi Backair 2 Ferriswheel 1
+Nexic 2 Stringbean 0
+Zetts 2 Egg 1
+Sheep 2 Yogi Backair 0
+Zetts 2 Nexic 0
+tm 2 Sheep 0
+Zetts 2 Paz 1
+Xtrooper 2 Mikey B 1
+Boyd 2 superbagel 0
+MajinJoseph 2 Doctor Tropical 0
+Goonsquad 2 M.A.C. 0
+Fancy 2 Marxoul 0
+YungBitch 0 OldmanKarp -1
+Duo 2 gren 0
+Deku 2 rodohk 1
+Oven 2 Brum 0
+Duck 2 Xtrooper 0
+Boyd 2 MajinJoseph 0
+Goonsquad 0 Shady -1
+Tran 2 Fancy 0
+Quang 2 YungBitch 0
+.Ðempt 2 Duo 0
+MB-Smash 2 Deku 0
+Parzival 2 Oven 0
+Duck 2 Boyd 1
+Tran 2 Goonsquad 0
+Quang 2 .Ðempt 0
+MB-Smash 2 Parzival 0
+Duck 2 Tran 0
+Quang 2 MB-Smash 0
+Doctor Tropical 2 superbagel 0
+Mikey B 2 Oven 1
+Deku 2 Doctor Tropical 0
+Duo 2 M.A.C. 1
+YungBitch 2 Marxoul 0
+Fancy 0 OldmanKarp -1
+gren 0 Shady -1
+MajinJoseph 2 rodohk 0
+Xtrooper 2 Brum 0
+Deku 2 Mikey B 0
+Duo 2 YungBitch 0
+Fancy 2 gren 0
+MajinJoseph 2 Xtrooper 0
+Goonsquad 2 Deku 0
+Boyd 2 Duo 0
+Parzival 2 Fancy 0
+.Ðempt 2 MajinJoseph 1
+Boyd 2 Goonsquad 0
+.Ðempt 2 Parzival 1
+Boyd 2 MB-Smash 1
+Tran 2 .Ðempt 0
+Boyd 3 i4n 0
+Cal 3 Juggleguy 1
+KJH 3 Juggleguy 0
+KJH 3 Gahtzu 2
+KJH 3 Gahtzu 1
+KJH 3 Ginger 1
+Gahtzu 3 Duck 1
+Drephen 3 Duck 0
+Duck 3 Quang 0
+Gahtzu 3 Crip 1
+Gahtzu 3 Ginger 0
+Drephen 3 tm 2
+Ginger 3 Drephen 2
+tm 3 Beach 1
+Boyd 3 Crip 0
+Ginger 3 Drephen 2
+Ginger 3 Quang 1
+Drephen 3 Cal 0
+Cal 3 Tran 2
+Morsecode762 3 Zetts 1
+Quang 3 Boyd 2
+Quang 3 Morsecode762 1
+Action Master 2 FALF 0
+WildCard 2 Mufasa 0
+Zimmer 2 Xeno 0
+Deku 2 Bumpadump 0
+JEPR 2 Double D 0
+D_Lidz 2 SammyG 0
+Trulliam 2 Action Master 0
+Dre 2 Stitchface 0
+Tran 2 WildCard 0
+Ferriswheel 2 Zimmer 0
+Vro 2 Deku 0
+skate 0 Toronto Joe -1
+Plat 2 JEPR 0
+Simian 2 D_Lidz 1
+Trulliam 2 Dre 0
+Tran 2 Ferriswheel 0
+Vro 2 skate 0
+Plat 2 Simian 0
+Trulliam 2 Tran 0
+Vro 2 Plat 0
+D_Lidz 2 FALF 0
+Mufasa 0 Toronto Joe -1
+Deku 2 Xeno 0
+Zimmer 2 Bumpadump 0
+Stitchface 2 Double D 0
+Action Master 2 SammyG 0
+JEPR 2 D_Lidz 1
+Deku 2 Mufasa 0
+WildCard 2 Zimmer 0
+Stitchface 2 Action Master 0
+Ferriswheel 2 JEPR 0
+Deku 2 Dre 1
+Simian 2 WildCard 0
+Stitchface 2 skate 1
+Ferriswheel 2 Deku 1
+Simian 2 Stitchface 0
+Plat 2 Ferriswheel 0
+Tran 2 Simian 0
+Quil None HighDef None
+L3375 None Walterlew None
+Zephyr None Wham! None
+NKDK None mejonat None
+Desh None MakVG None
+Ryan Ford None Quil None
+Sacredtwin None Led Free None
+Parzival None L3375 None
+Paz None Zephyr None
+Morsecode762 None NKDK None
+JU4N None Rose None
+MB-Smash None Desh None
+Goonsquad None Lotus None
+Ryan Ford None Sacredtwin None
+Paz None Parzival None
+Morsecode762 None JU4N None
+MB-Smash None Goonsquad None
+Ryan Ford None Paz None
+Morsecode762 None MB-Smash None
+Lotus None HighDef None
+Rose None Walterlew None
+NKDK None Wham! None
+mejonat None Zephyr None
+Led Free None MakVG None
+Lotus None Desh None
+Rose None NKDK None
+L3375 None mejonat None
+Led Free None Quil None
+Lotus None Parzival None
+Sacredtwin None Rose None
+Goonsquad None L3375 None
+Led Free None JU4N None
+Sacredtwin None Lotus None
+Goonsquad None Led Free None
+MB-Smash None Sacredtwin None
+Paz None Goonsquad None
+Trix 2 Cobrain 0
+Papa 2 CDay 0
+Papa 2 nintnt 0
+Papa 2 Decaf 0
+CDay 2 NTF 0
+Keff 2 NTF 0
+Rich 0 Beckett -1
+Rich 2 Aiya 0
+Rich 2 CDay 0
+Keff 2 Aiya 1
+absynthe 0 Regralht -1
+absynthe 2 Lidds 0
+Nightmare 2 Trix 0
+Nightmare 2 Papa 0
+Nightmare 2 Yogi Backair 0
+NTF 0 Regralht -1
+nintnt 2 Rich 0
+nintnt 2 absynthe 0
+nintnt 2 Middleone 0
+Trix 2 Plumbus 0
+Lidds 2 Trix 0
+Jeo 2 Lidds 0
+Lidds 0 Carnage -1
+Keff 0 Beckett -1
+Ginger 2 absynthe 0
+Ginger 2 Keff 0
+Ginger 2 1der 0
+Decaf 2 Rich 0
+Decaf 2 Middleone 0
+Decaf 2 Yogi Backair 0
+Middleone 2 Plumbus 0
+Middleone 2 Jeo 0
+Middleone 2 Cobrain 0
+1der 2 nintnt 0
+1der 2 Decaf 1
+1der 2 Jeo 0
+Yogi Backair 0 Carnage -1
+Yogi Backair 2 Keff 0
+Dr.PNC 2 superbagel 0
+juiceboy 2 Astro 0
+Nick Ahoy 2 Slyben 0
+Dreamcoat 0 Jwebb -1
+Tetsu 2 Sorry 0
+Drephen 2 Dr.PNC 0
+Lange 2 Tequila 0
+Nexic 2 juiceboy 0
+Walrus 2 Nick Ahoy 0
+RaynEX 2 Dreamcoat 0
+Hunt 2 Vaatu 0
+Mingee 2 Tetsu 0
+Rabbit 2 Kenpachi 0
+Drephen 2 Lange 0
+Nexic 2 Walrus 0
+RaynEX 2 Hunt 0
+Rabbit 2 Mingee 0
+Drephen 2 Nexic 0
+RaynEX 2 Rabbit 0
+Kenpachi 2 superbagel 1
+Vaatu 2 Astro 0
+Slyben 2 Dreamcoat 0
+Nick Ahoy 0 Jwebb -1
+Tequila 2 Sorry 0
+Tetsu 2 Kenpachi 0
+Vaatu 2 Slyben 0
+juiceboy 2 Nick Ahoy 0
+Dr.PNC 2 Tequila 0
+Walrus 2 Tetsu 0
+Lange 2 Vaatu 0
+Mingee 2 juiceboy 1
+Hunt 2 Dr.PNC 0
+Lange 2 Walrus 0
+Mingee 2 Hunt 0
+Rabbit 2 Lange 0
+Mingee 2 Nexic 0
+Cobb 2 Mister Donut 0
+Jasper 2 Provable 0
+Gorx 2 ollux 0
+Sad! 2 PupuDoodoo 0
+Krampusklaus 2 The Harem God 1
+Prince F. Abu 2 Cobb 0
+Mars 2 Danko 0
+Magicubed 2 Jasper 0
+techboy 2 Gorx 0
+Coffeeblack 2 Sad! 0
+Webs 2 rodohk 0
+i4n 2 Krampusklaus 0
+Joka 2 SALZ 0
+Prince F. Abu 2 Mars 0
+Magicubed 2 techboy 1
+Coffeeblack 2 Webs 0
+i4n 2 Joka 0
+Prince F. Abu 2 Magicubed 0
+i4n 2 Coffeeblack 0
+Mister Donut 2 SALZ 1
+rodohk 2 Provable 1
+Sad! 2 ollux 1
+PupuDoodoo 2 Gorx 0
+Danko 2 The Harem God 0
+Krampusklaus 2 Mister Donut 0
+Sad! 2 rodohk 0
+PupuDoodoo 2 Jasper 1
+Danko 2 Cobb 1
+techboy 2 Krampusklaus 0
+Mars 2 Sad! 0
+Joka 2 PupuDoodoo 0
+Webs 2 Danko 0
+techboy 2 Mars 0
+Joka 2 Webs 1
+Coffeeblack 2 techboy 1
+Magicubed 2 Joka 0
+Thinking Man 0 Bumsqueeze -1
+The SwordBotanist 0 Datnero -1
+Moyer1666 0 HRsalt -1
+J-Matt 2 Shabby 1
+Boated 2 The_Gut_Smasher 0
+KJH 2 Thinking Man 0
+248 2 Danil 1
+999 2 The SwordBotanist 0
+Russell 2 Moyer1666 0
+Mr. F 2 J-Matt 0
+Colony 2 Psythr 0
+Crip 2 Boated 0
+Slush 2 BigJoe 1
+KJH 2 248 0
+Russell 2 999 0
+Mr. F 2 Colony 0
+Slush 2 Crip 0
+KJH 2 Russell 0
+Mr. F 2 Slush 0
+BigJoe 0 Bumsqueeze -1
+Psythr 0 Datnero -1
+J-Matt 0 HRsalt -1
+Shabby 2 Moyer1666 0
+Danil 2 The_Gut_Smasher 0
+Boated 2 BigJoe 0
+Psythr 2 J-Matt 1
+Shabby 2 The SwordBotanist 0
+Danil 2 Thinking Man 0
+999 2 Boated 0
+248 2 Psythr 1
+Crip 2 Shabby 0
+Danil 2 Colony 0
+999 2 248 0
+Crip 2 Danil 1
+999 2 Slush 0
+Russell 2 Crip 0
+LXIX None Rildom None
+TrialColt None Squishy Boy None
+U OK? None Stonedog None
+Stones None Party Poison None
+Tubby 0 freeswat -1
+QBaby 2 DATA_EXPUNGED 0
+KirbyKaze None LXIX None
+Iron 2 Fancy 0
+Dynamic None TrialColt None
+Papyrus None U OK? None
+Juggleguy 2 Stones 0
+IDCrisis 2 stif 0
+tm None Tubby None
+Kuyashi None QBaby None
+KirbyKaze None Iron None
+Papyrus None Dynamic None
+IDCrisis 2 Juggleguy 0
+tm 2 Kuyashi 1
+KirbyKaze 2 Papyrus 0
+tm None IDCrisis None
+QBaby None Rildom None
+stif None Squishy Boy None
+Stones None Stonedog None
+U OK? None Party Poison None
+Fancy 0 freeswat -1
+LXIX 2 DATA_EXPUNGED 0
+QBaby None Tubby None
+Stones None stif None
+TrialColt None U OK? None
+Fancy None LXIX None
+Dynamic None QBaby None
+Iron None Stones None
+Kuyashi None TrialColt None
+Juggleguy 2 Fancy 1
+Dynamic None Iron None
+Juggleguy None Kuyashi None
+Dynamic 2 IDCrisis 0
+Juggleguy None Papyrus None
+_Boots None MonkBard None
+Shark 0 PsychoWaffle -1
+B0XTOP None monkeyzz None
+Albin0 None OldmanKarp None
+Inka Dinka Doo None Theodore None
+Dover None Moggle None
+Westballz None _Boots None
+2Shadez None Pepsi None
+Woley None Shark None
+Duo None B0XTOP None
+Damian Tyson None Albin0 None
+Coin None Finesse None
+Heartstrings None Inka Dinka Doo None
+Paul None Dover None
+Westballz None 2Shadez None
+Woley None Duo None
+Damian Tyson None Coin None
+Heartstrings None Paul None
+Westballz None Woley None
+Damian Tyson None Heartstrings None
+Dover None MonkBard None
+Finesse 0 PsychoWaffle -1
+Albin0 None monkeyzz None
+B0XTOP None OldmanKarp None
+Pepsi None Theodore None
+Moggle None _Boots None
+Dover None Inka Dinka Doo None
+Finesse None Albin0 None
+B0XTOP None Shark None
+Pepsi None Moggle None
+Duo None Dover None
+2Shadez None Finesse None
+Paul None B0XTOP None
+Pepsi None Coin None
+2Shadez None Duo None
+Paul None Pepsi None
+Heartstrings None 2Shadez None
+Woley None Paul None
+Westballz 2 Damian Tyson 0
+Nightmare 2 Ginger 0
+Prince F. Abu 2 i4n 0
+Ryan Ford 2 Morsecode762 0
+KirbyKaze 2 tm 0
+RaynEX 2 Drephen 0
+KJH 2 Mr. F 0
+Vro 2 Trulliam 1
+Westballz 3 Nightmare 1
+Ryan Ford 3 Prince F. Abu 2
+KirbyKaze 3 RaynEX 0
+KJH 3 Vro 2
+Westballz 3 Ryan Ford 1
+KJH 3 KirbyKaze 2
+Westballz 3 KJH 2
+Westballz 3 Ryan Ford 1
+Magicubed 2 Plat 0
+999 2 Paz 0
+Rabbit 2 Woley 1
+1der 2 Dynamic 1
+MB-Smash 2 Russell 0
+Tran 2 Heartstrings 1
+Juggleguy 2 Papa 1
+Mingee 2 Coffeeblack 0
+tm 2 Magicubed 0
+Drephen 2 999 0
+Mr. F 2 Rabbit 1
+Trulliam 2 1der 0
+Damian Tyson 2 MB-Smash 0
+Ginger 2 Tran 0
+Juggleguy 2 i4n 0
+Morsecode762 2 Mingee 0
+Drephen 2 tm 0
+Mr. F 2 Trulliam 0
+Ginger 2 Damian Tyson 1
+Juggleguy 2 Morsecode762 0
+Drephen 3 Nightmare 1
+Mr. F 3 Prince F. Abu 0
+Ginger 3 RaynEX 0
+Vro 3 Juggleguy 0
+Mr. F 3 Drephen 2
+Vro 3 Ginger 0
+KirbyKaze 3 Mr. F 0
+Ryan Ford 3 Vro 0
+Ryan Ford 3 KirbyKaze 1
+Ryan Ford 3 KJH 0

@@ -6,6 +6,7 @@ import operator
 import Queue
 from challonge import participants, matches, tournaments
 import requests
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import WriteBrackets
 
 ''''''
@@ -65,6 +66,9 @@ class RaterSetup:
 		challongeTournamentIds = self.__getChallongeTournamentIds()
 		self.__setChallongeMatches(challongeTournamentIds, minParticipants)
 		
+		smashGGTournamentURLs = self.__getSmashGGTournamentURLs()
+		self.__setSmashGGMatches(smashGGTournamentURLs)
+		
 	def __getChallongeTournamentIds(self):
 		# Make a list of challonge tournament Ids
 		challongeTournamentIds = []
@@ -73,6 +77,16 @@ class RaterSetup:
 				name = line[35:].rstrip()
 				challongeTournamentIds.append("michigansmash-" + name)
 		return challongeTournamentIds
+
+	def __getSmashGGTournamentURLs(self):
+		# Make a list of smashGG tournament URLs
+		smashGGURLs = []
+		f = open("data/smashGGBracketURLs.txt", "r")
+		for line in f:
+			smashGGURLs.append(line.strip())
+		smashGGURLs = filter(None, smashGGURLs)
+		return smashGGURLs
+
 		
 	# Purpose: Compile list of Match objects from Challonge
 	# In:      tournamentIds - list of tournament names in format:
@@ -146,15 +160,80 @@ class RaterSetup:
 				
 				newMatch = Match(player1name, player1score, player2name, player2score)
 				self.matches.append(newMatch)
+
+	# Purpose: Compile list of Match objects from SmashGG
+	# In:      tournament_URLs - list of tournament URLs in format:
+	# Out:	   List of Match objects of SmashGG matches in chronological order
+	#		   (oldest to youngest)
+	def __setSmashGGMatches(self, tournament_URLs):
+		for url in tournament_URLs:
+			# pools matches
+			if "filter" not in url:
+				phase_group_id = url.split("brackets/")[1].split("/")[1]
+			# final phase matches e.g. top 32
+			else:
+				tournament_name = url.split("https://smash.gg/tournament/")[1].split("/events")[0]
+				phase_group_url = "https://api.smash.gg/tournament/" + tournament_name + "?expand[]=phase&expand[]=groups"
+
+				r = requests.get(phase_group_url)
+
+				# url supplies phase_id only; use this to find phase_group_id
+				target_phase_id = url.split("phaseId%22%3A")[1].split("%7D")[0]
+
+				# Obtain phase_group_id by parsing through returned json object
+				for item in r.json()["entities"]["groups"]:
+					if str(item["phaseId"]) == target_phase_id:
+						phase_group_id = item['id']
+
+			api_url = "https://api.smash.gg/phase_group/" + str(phase_group_id) + "?expand[]=sets&expand[]=seeds"
+			r = requests.get(api_url).json()
+			seeds = r["entities"]["seeds"]
+
+
+			for match_set in r["entities"]["sets"]:
+				setID = match_set['id']
+				url = "https://api.smash.gg/set/" + str(setID) + "?expand[]=setTask"
+				r_set = requests.get(url, verify=False).json()
+				entrant1Id = r_set['entities']['sets']['entrant1Id']
+				entrant2Id = r_set['entities']['sets']['entrant2Id']
+				winner_id = r_set['entities']['sets']['winnerId']
+				loser_id = r_set['entities']['sets']['loserId']
+				winner_tag = ''
+				loser_tag = ''
+				winner_set_count = 0
+				loser_set_count = 0
+
+				if winner_id == entrant1Id:
+					winner_set_count = r_set['entities']['sets']['entrant1Score']
+				elif winner_id == entrant2Id:
+					winner_set_count = r_set['entities']['sets']['entrant2Score']
+
+				if loser_id == entrant1Id:
+					loser_set_count = r_set['entities']['sets']['entrant1Score']
+				elif loser_id == entrant2Id:
+					loser_set_count = r_set['entities']['sets']['entrant2Score']
+
+				for i in seeds:
+					for random_number in i['mutations']['players']:
+						if i['entrantId'] == winner_id:
+							winner_tag = i['mutations']['players'][random_number]['gamerTag']
+						if i['entrantId'] == loser_id:
+							loser_tag = i['mutations']['players'][random_number]['gamerTag']
+						break
+
+				# Sometimes, "none" tags appear
+				if winner_tag and loser_tag:					
+					newMatch = Match(winner_tag.encode('utf-8'), winner_set_count, loser_tag.encode('utf-8'), loser_set_count)
+					self.matches.append(newMatch)
 		
 	# Purpose: Write info of Match objects in txt file
 	def __writeMatches(self):
 		f = open(self.pathToMatches, "w")
 		for match in self.matches:
 			line = match.player1name + " "
-			line += str(match.player1score) + " "
+			line += str(match.player1score).encode('utf-8') + " "
 			line += match.player2name + " "
-			line += str(match.player2score) + "\n"
+			line += str(match.player2score).encode('utf-8') + "\n"
 			f.write(line)
 		f.close()
 
@@ -224,7 +303,7 @@ def printPlayer(playerName, playerObj):
 	print playerObj		
 
 def main():
-
+	requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 	pathToMatches = "data/matches.txt"
 	pathToPlayers = "data/players.pkl"
 	
@@ -232,7 +311,6 @@ def main():
 	players = {}
 	
 	# Uncomment to construct all files from scratch and comment out the loadObj line
-	players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
 	players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
 	#players = loadObj(pathToPlayers)
 

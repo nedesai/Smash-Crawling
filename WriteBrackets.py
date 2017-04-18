@@ -88,7 +88,7 @@ def writeSmashGGBracketURLs():
 			l = urlparse.urlparse(link.get('href'))
 			#print l.geturl()
 			
-
-	f = open("data/smashGGBracketURLs.txt", "w")
-	for URL in visited:
-		f.write(URL + "\n")
+	f = open("smashggbrackets.txt", "r")
+	o = open("data/smashGGBracketURLs.txt", "w")
+	for URL in f:
+		o.write(URL + "\n")
