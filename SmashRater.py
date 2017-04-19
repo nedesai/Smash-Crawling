@@ -307,6 +307,17 @@ def printTopN(N, players):
 def printPlayer(playerName, playerObj):
 	print "Player:\t" + playerName
 	print playerObj		
+	
+def writeCSVofPlayers(pathToPlayersCSV, players):
+	
+	f = open(pathToPlayersCSV, "w")
+	f.write("\"Name\",\"Rating\",\"Rating Deviation\",\"Volatility\"\n")
+	for player in players:
+		f.write("\"" + player + "\",")
+		f.write(str(players[player].getRating()) + ",")
+		f.write(str(players[player].getRd()) + ",")
+		f.write(str(players[player].getVol()) + "\n")
+	f.close()
 
 def main():
 	requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
@@ -317,8 +328,11 @@ def main():
 	players = {}
 	
 	# Uncomment to construct all files from scratch and comment out the loadObj line
-	players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
-	#players = loadObj(pathToPlayers)
+	#players = RaterSetup(pathToPlayers, pathToMatches).getPlayerMap()
+	players = loadObj(pathToPlayers)
+
+	pathToPlayersCSV = "data/players.csv"
+	writeCSVofPlayers(pathToPlayersCSV, players)
 
 	printTopN(100, players)
 	
