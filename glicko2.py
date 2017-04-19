@@ -45,6 +45,9 @@ class Player:
     def setRd(self, rd):
         self.__rd = rd / 173.7178
 
+    def getVol(self):
+        return self.vol
+
     rd = property(getRd, setRd)
      
     def __init__(self, rating = 1500, rd = 350, vol = 0.06):
@@ -189,7 +192,7 @@ class Player:
         self._preRatingRD()
         
     def __repr__(self):
-      return "R:\t" + str(self.getRating()) + "\nRD:\t" + str(self.getRd())
+      return "R:\t" + str(self.getRating()) + "\nRD:\t" + str(self.getRd()) + "\nVol:\t" + str(self.getVol())
       
     def __str__(self):
       return self.__repr__()
