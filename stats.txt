@@ -1,0 +1,43 @@
+Precision for iteration 1 is 1.0
+Precision for iteration 2 is 1.0
+Precision for iteration 3 is 0.666666666667
+Precision for iteration 4 is 0.5
+Precision for iteration 5 is 0.4
+Precision for iteration 6 is 0.333333333333
+Precision for iteration 7 is 0.285714285714
+Precision for iteration 8 is 0.25
+Precision for iteration 9 is 0.222222222222
+Precision for iteration 10 is 0.2
+Precision for iteration 11 is 0.181818181818
+Precision for iteration 12 is 0.166666666667
+Precision for iteration 13 is 0.153846153846
+Precision for iteration 14 is 0.142857142857
+Precision for iteration 15 is 0.133333333333
+Precision for iteration 16 is 0.125
+Precision for iteration 17 is 0.117647058824
+Precision for iteration 18 is 0.111111111111
+Precision for iteration 19 is 0.105263157895
+Precision for iteration 20 is 0.1
+Recall for iteration 1 is 1.0
+Recall for iteration 2 is 1.0
+Recall for iteration 3 is 1.0
+Recall for iteration 4 is 1.0
+Recall for iteration 5 is 1.0
+Recall for iteration 6 is 1.0
+Recall for iteration 7 is 1.0
+Recall for iteration 8 is 1.0
+Recall for iteration 9 is 0.888888888889
+Recall for iteration 10 is 0.8
+Recall for iteration 11 is 0.818181818182
+Recall for iteration 12 is 0.833333333333
+Recall for iteration 13 is 0.769230769231
+Recall for iteration 14 is 0.714285714286
+Recall for iteration 15 is 0.733333333333
+Recall for iteration 16 is 0.6875
+Recall for iteration 17 is 0.647058823529
+Recall for iteration 18 is 0.611111111111
+Recall for iteration 19 is 0.578947368421
+Recall for iteration 20 is 0.55
+Mean Average Precision Score: 4.0
+Total amount of relevant players recalled out of 20 11
+Kendall Tau Distance between the two lists 0.6
